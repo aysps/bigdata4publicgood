@@ -1,11 +1,36 @@
 ---
-title: "test-big-data"
+title: "Welcome to Big Data!"
 ---
 
-This is a Quarto website.
+# Overview
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Public and nonprofit agencies are beginning to unlock the potential of large-scale data to improve service delivery and inform policy. Computational tools capable of making productive use of big data have proliferated in recent years, drastically decreasing the barriers to entry for these applications. This course explores the practice of using data to improve decision-making and evaluation, including techniques for data collection, analysis, and behavior change. You will learn about the opportunities and challenges of big data and devise a plan to apply them to areas of personal interest within the public sector.
 
-```{r}
-1 + 1
-```
+# Course Goal & Objectives
+
+By the end of this course you should be able to:
+
+1.  Define big data and describe its characteristics;
+2.  Discuss how public agencies harness large-scale data to inform policy design, increase stakeholder engagement, and improve service delivery.
+3.  Recognize situations when it's possible to collect data to inform evidenced-based policy decision-making;
+4.  Intelligently consider the social, political, and ethical considerations of using big data and its analytical techniques for public uses.
+
+# Helpful Notes from Your Professor
+
+-   Complete all readings and watch the videos. They compliment each other, so both are critical to understanding course materials
+-   Don't hesitate to contact me with questions or problems at any point during the semester. I will always try to respond to e-mails quickly.
+-   The topics in this class are in the news all the time. Don't hesitate to send me or post articles or videos related to course material.
+
+# Required Book
+
+No books are required for this course. All learning materials are available through the course site.
+
+# Contact Information
+
+Cynthia Searcy
+
+Phone: (404) 413-0124
+
+Email: [csearcy\@gsu.edu](mailto:csearcy@gsu.edu){.email}
+
+Note: **Please e-mail me directly at my GSU email**, not in iCollege.
