@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "test-big-data"
+  title: "Big Data for Public Good"
   navbar:
     left:
       - href: index.qmd
