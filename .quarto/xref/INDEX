@@ -4,5 +4,11 @@
   },
   "about.qmd": {
     "about.html": "8469fe7d"
+  },
+  "modules/module1.qmd": {
+    "module1.html": "0d35ef55"
+  },
+  "syllabus.qmd": {
+    "syllabus.html": "714e4799"
   }
 }

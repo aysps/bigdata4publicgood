@@ -8,13 +8,16 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - syllabus.qmd
+      - href: modules/module1.qmd
+        text: Modules
+
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: united
+    css: html/styles.css
     toc: true
 
-editor: visual
+
 
