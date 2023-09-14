@@ -10,7 +10,7 @@ website:
     left:
      - href: index.qmd
        text: Home
-     - href: syllabus.qmd
+     - href: syllabus.phd
        text: Syllabus
      - text: Modules
        file: modules/module1.qmd
