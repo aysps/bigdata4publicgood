@@ -13,7 +13,7 @@ website:
      - href: syllabus.qmd
        text: Syllabus
      - text: Modules
-       file: modules/module-index.qmd
+       file: modules/module1.qmd
      - text: Assignments
        file: assignments/lab1.qmd
 
@@ -27,11 +27,12 @@ website:
        style: "docked"
        background: light
        contents:
-         - modules/module-index.qmd
          - modules/module1.qmd
          - modules/module2.qmd
          - modules/module3.qmd
          - modules/module4.qmd
+         - modules/module5.qmd
+         - modules/module6.qmd
         
      - title: "Assignments"
        style: "docked"
@@ -41,6 +42,8 @@ website:
          - assignments/lab2.qmd
          - assignments/lab3.qmd
          - assignments/lab4.qmd
+         - assignments/lab5.qmd
+         - assignments/lab6.qmd
         
 format:
   html:
