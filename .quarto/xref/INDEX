@@ -10,5 +10,59 @@
   },
   "syllabus.qmd": {
     "syllabus.html": "714e4799"
+  },
+  "assignments/lab1.qmd": {
+    "lab1.html": "353af916"
+  },
+  "assignments/lab2.qmd": {
+    "lab2.html": "118201bd"
+  },
+  "assignments/lab3.qmd": {
+    "lab3.html": "2149f942"
+  },
+  "assignments/lab4.qmd": {
+    "lab4.html": "9ba5d382"
+  },
+  "assignments/lab5.qmd": {
+    "lab5.html": "a456983d"
+  },
+  "assignments/lab6.qmd": {
+    "lab6.html": "a471207e"
+  },
+  "discussions/module1.qmd": {
+    "module1.html": "30654da8"
+  },
+  "discussions/module2.qmd": {
+    "module2.html": "bbe35d18"
+  },
+  "discussions/module3.qmd": {
+    "module3.html": "63aacd0f"
+  },
+  "discussions/module4.qmd": {
+    "module4.html": "afffbd18"
+  },
+  "discussions/module5.qmd": {
+    "module5.html": "0b4e28a4"
+  },
+  "discussions/module6.qmd": {
+    "module6.html": "7300a7bf"
+  },
+  "modules/module2.qmd": {
+    "module2.html": "3567dc02"
+  },
+  "modules/module3.qmd": {
+    "module3.html": "7e9b852d"
+  },
+  "modules/module4.qmd": {
+    "module4.html": "9a8fd948"
+  },
+  "modules/module5.qmd": {
+    "module5.html": "4a53c894"
+  },
+  "modules/module6.qmd": {
+    "module6.html": "405f076c"
+  },
+  "modules/module-index.qmd": {
+    "module-index.html": "8635dfa7"
   }
 }
