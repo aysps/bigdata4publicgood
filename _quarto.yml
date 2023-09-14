@@ -10,7 +10,7 @@ website:
     left:
      - href: index.qmd
        text: Home
-     - href: https://github.com/yemeng-emma/bigdata4publicgood/blob/main/syllabus.pdf
+     - href: syllabus.qmd
        text: Syllabus
      - text: Modules
        file: modules/module1.qmd
