@@ -6,33 +6,42 @@ website:
   title: "Big Data for Public Good"
 
   navbar:
-   search: true
-   left:
-    - href: index.qmd
-      text: Home
-    - href: syllabus.qmd
-      text: Syllabus
-    - text: Modules
-      file: modules/module-index.qmd
-   tools:
-    - icon: github
-      href: https://github.com/yemeng-emma/bigdata4publicgood
-      aria-label: github
+    search: true
+    left:
+     - href: index.qmd
+       text: Home
+     - href: syllabus.qmd
+       text: Syllabus
+     - text: Modules
+       file: modules/module-index.qmd
+     - text: Assignments
+       file: assignments/lab1.qmd
+
+    tools:
+     - icon: github
+       href: https://github.com/yemeng-emma/bigdata4publicgood
+       aria-label: github
       
-   sidebar:
-    - title: "Modules"
-      style: "docked"
-      background: light
-      contents:
-        - modules/module-index.qmd
-        - modules/module1.qmd
-        - modules/module2.qmd
-        - modules/module3.qmd
-        - modules/module4.qmd
+  sidebar:
+     - title: "Modules"
+       style: "docked"
+       background: light
+       contents:
+         - modules/module-index.qmd
+         - modules/module1.qmd
+         - modules/module2.qmd
+         - modules/module3.qmd
+         - modules/module4.qmd
         
-
-
-
+     - title: "Assignments"
+       style: "docked"
+       background: light
+       contents:
+         - assignments/lab1.qmd
+         - assignments/lab2.qmd
+         - assignments/lab3.qmd
+         - assignments/lab4.qmd
+        
 format:
   html:
     theme: united
