@@ -16,8 +16,6 @@ website:
        file: modules/module1.qmd
      - text: Discussions
        file: discussions/module1.qmd
-     - text: Modules
-       file: modules/module1.qmd
      - text: Assignments
        file: assignments/lab1.qmd
      - href: resources.qmd
