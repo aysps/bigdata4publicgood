@@ -64,5 +64,11 @@
   },
   "modules/module-index.qmd": {
     "module-index.html": "8635dfa7"
+  },
+  "discussions/general.qmd": {
+    "general.html": "99f05d07"
+  },
+  "resources.qmd": {
+    "resources.html": "623f43b8"
   }
 }

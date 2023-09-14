@@ -28,7 +28,7 @@ website:
   sidebar:
      - title: "Modules"
        style: "docked"
-       background: dark
+       background: light
        contents:
          - modules/module1.qmd
          - modules/module2.qmd
@@ -39,7 +39,7 @@ website:
 
      - title: "Discussions"
        style: "docked"
-       background: dark
+       background: light
        contents:
          - discussions/general.qmd
          - discussions/module1.qmd
@@ -52,7 +52,7 @@ website:
 
      - title: "Assignments"
        style: "docked"
-       background: dark
+       background: light
        contents:
          - assignments/lab1.qmd
          - assignments/lab2.qmd

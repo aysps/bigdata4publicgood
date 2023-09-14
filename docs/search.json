@@ -23,9 +23,9 @@
   {
     "objectID": "assignments/lab1.html",
     "href": "assignments/lab1.html",
-    "title": "ASDFASDF",
+    "title": "Lab 1",
     "section": "",
-    "text": "asdfasdf"
+    "text": "Add Lab 1 assignment here."
   },
   {
     "objectID": "assignments/lab2.html",
@@ -65,9 +65,9 @@
   {
     "objectID": "discussions/module1.html",
     "href": "discussions/module1.html",
-    "title": "ASDFASDF",
+    "title": "Module 1 Discussions",
     "section": "",
-    "text": "asdfasdf"
+    "text": "Post\nAddress the following:\n\nDescribe two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data that we can address this week in class?\n\nDue by: 8/29 11:59 pm EST\nDiscuss\nOnline discussions are important to the dialogue and learning in this class. Take some time to respond to at least two of your classmates’ posts by Friday.\nDue by: 9/3 11:59 pm EST"
   },
   {
     "objectID": "discussions/module2.html",
@@ -247,8 +247,50 @@
   {
     "objectID": "syllabus.html",
     "href": "syllabus.html",
-    "title": "syllabus",
+    "title": "Course Syllabus",
     "section": "",
     "text": "View course syllabus."
+  },
+  {
+    "objectID": "discussions/general.html",
+    "href": "discussions/general.html",
+    "title": "General Class Discussion",
+    "section": "",
+    "text": "Please use this section for asking course related questions about assignments, reading, lectures etc. It is likely that if you have a question, others do too."
+  },
+  {
+    "objectID": "discussions/general.html#class-q-a",
+    "href": "discussions/general.html#class-q-a",
+    "title": "General Class Discussion",
+    "section": "",
+    "text": "Please use this section for asking course related questions about assignments, reading, lectures etc. It is likely that if you have a question, others do too."
+  },
+  {
+    "objectID": "discussions/general.html#class-introduction-activity",
+    "href": "discussions/general.html#class-introduction-activity",
+    "title": "General Class Discussion",
+    "section": "Class Introduction Activity",
+    "text": "Class Introduction Activity\nFind a digital image that represents you. Post it here with the following information:\n\nName\nHometown\nDegree Program -Describe why you’re taking this course and your research interests."
+  },
+  {
+    "objectID": "discussions/module1.html#m1.2-the-value-of-big-data",
+    "href": "discussions/module1.html#m1.2-the-value-of-big-data",
+    "title": "Module 1 Discussions",
+    "section": "",
+    "text": "Post\nAddress the following:\n\nDescribe two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data that we can address this week in class?\n\nDue by: 8/29 11:59 pm EST\nDiscuss\nOnline discussions are important to the dialogue and learning in this class. Take some time to respond to at least two of your classmates’ posts by Friday.\nDue by: 9/3 11:59 pm EST"
+  },
+  {
+    "objectID": "discussions/module1.html#m1.4-the-value-of-big-data",
+    "href": "discussions/module1.html#m1.4-the-value-of-big-data",
+    "title": "Module 1 Discussions",
+    "section": "M1.4 The Value of Big Data",
+    "text": "M1.4 The Value of Big Data\nPost\nAddress the following:\n\nDescribe two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data that we can address this week in class?\n\nDue by: 8/29 11:59 pm EST\nDiscuss\nOnline discussions are important to the dialogue and learning in this class. Take some time to respond to at least two of your classmates’ posts by Friday.\nDue by: 9/3 11:59 pm EST"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Add class resources here."
   }
 ]
