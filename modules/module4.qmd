@@ -1,5 +1,4 @@
 ---
-title: ASDFASDF
+title: Module 4 - Bias in Big Data
 ---
 
-asdfasdf

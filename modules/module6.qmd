@@ -1,5 +1,4 @@
 ---
-title: ASDFASDF
+title: Module 6 - Course Conclusion
 ---
 
-asdfasdf

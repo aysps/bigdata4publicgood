@@ -1,5 +1,5 @@
 ---
-title: ASDFASDF
+title: Lab 1
 ---
 
-asdfasdf
+Add Lab 1 assignment here. 
