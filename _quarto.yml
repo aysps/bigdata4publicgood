@@ -17,7 +17,7 @@ website:
      - text: Discussions
        file: discussions/module1.qmd
      - text: Assignments
-       file: assignments/lab1.qmd
+       file: assignments/project_proposal.qmd
      - href: resources.qmd
        text: Resources     
     tools:
@@ -54,6 +54,8 @@ website:
        style: "docked"
        background: light
        contents:
+         - assignments/project_proposal.qmd
+         - assignments/certification.qmd
          - assignments/lab1.qmd
          - assignments/lab2.qmd
          - assignments/lab3.qmd

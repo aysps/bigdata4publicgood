@@ -2,3 +2,4 @@
 title: Lab 3
 ---
 
+Add Lab 3 assignments here. 

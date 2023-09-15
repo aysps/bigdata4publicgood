@@ -25,42 +25,42 @@
     "href": "assignments/lab1.html",
     "title": "Lab 1",
     "section": "",
-    "text": "Add Lab 1 assignment here."
+    "text": "Add Lab 1 assignments here."
   },
   {
     "objectID": "assignments/lab2.html",
     "href": "assignments/lab2.html",
-    "title": "ASDFASDF",
+    "title": "Lab 2",
     "section": "",
-    "text": "asdfasdf"
+    "text": "Add Lab 2 assignments here."
   },
   {
     "objectID": "assignments/lab3.html",
     "href": "assignments/lab3.html",
-    "title": "ASDFASDF",
+    "title": "Lab 3",
     "section": "",
-    "text": "asdfasdf"
+    "text": "Add Lab 3 assignments here."
   },
   {
     "objectID": "assignments/lab4.html",
     "href": "assignments/lab4.html",
-    "title": "ASDFASDF",
+    "title": "Lab 4",
     "section": "",
-    "text": "asdfasdf"
+    "text": "Add Lab 4 assignments here."
   },
   {
     "objectID": "assignments/lab5.html",
     "href": "assignments/lab5.html",
-    "title": "ASDFASDF",
+    "title": "Lab 5",
     "section": "",
-    "text": "asdfasdf"
+    "text": "Add Lab 5 assignments here."
   },
   {
     "objectID": "assignments/lab6.html",
     "href": "assignments/lab6.html",
-    "title": "ASDFASDF",
+    "title": "Lab 6",
     "section": "",
-    "text": "asdfasdf"
+    "text": "Add Lab 6 assignments here."
   },
   {
     "objectID": "discussions/module1.html",
@@ -292,5 +292,19 @@
     "title": "Resources",
     "section": "",
     "text": "Add class resources here."
+  },
+  {
+    "objectID": "assignments/project_proposal.html",
+    "href": "assignments/project_proposal.html",
+    "title": "Big Data Project Proposal",
+    "section": "",
+    "text": "Add assignment content here."
+  },
+  {
+    "objectID": "assignments/certification.html",
+    "href": "assignments/certification.html",
+    "title": "Data Certification",
+    "section": "",
+    "text": "Add assignment content here."
   }
 ]

@@ -2,4 +2,4 @@
 title: Lab 1
 ---
 
-Add Lab 1 assignment here. 
+Add Lab 1 assignments here. 

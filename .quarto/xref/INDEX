@@ -70,5 +70,11 @@
   },
   "resources.qmd": {
     "resources.html": "623f43b8"
+  },
+  "assignments/project_proposal.qmd": {
+    "project_proposal.html": "3dca1878"
+  },
+  "assignments/certification.qmd": {
+    "certification.html": "3389cbdd"
   }
 }
