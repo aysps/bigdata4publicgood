@@ -2,4 +2,10 @@
 title: "Course Syllabus"
 ---
 
-View course [syllabus](https://github.com/yemeng-emma/bigdata4publicgood/blob/60be25a2e04d01c4737e7e53451476ea205ac9f8/syllabus.pdf).
+View course [syllabus][syllabus.pdf]
+
+```{=html}
+<div class="embed-container">
+  <iframe src="syllabus.pdf" style="border: 0.5px"></iframe>
+</div>
+```
