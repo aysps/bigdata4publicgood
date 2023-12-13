@@ -3,3 +3,8 @@ title: Lab 1
 ---
 
 Add Lab 1 assignments here. 
+
+```{r}
+
+```
+

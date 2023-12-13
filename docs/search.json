@@ -25,7 +25,10 @@
     "href": "assignments/lab1.html",
     "title": "Lab 1",
     "section": "",
-    "text": "Add Lab 1 assignments here."
+    "text": "Add Lab 1 assignments here.",
+    "crumbs": [
+      "Lab 1"
+    ]
   },
   {
     "objectID": "assignments/lab2.html",
@@ -249,7 +252,7 @@
     "href": "syllabus.html",
     "title": "Course Syllabus",
     "section": "",
-    "text": "View course [syllabus][syllabus.pdf]"
+    "text": "View course ！[syllabus]（syllabus.pdf）"
   },
   {
     "objectID": "discussions/general.html",
