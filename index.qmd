@@ -1,10 +1,13 @@
 ---
-title: "Welcome to Big Data!"
+title: "Welcome to Big Data for Public Good!"
+subtitle: "Open course materials by Andrew Young School of Policy Studies Georgia State University"
 ---
-
 # Overview
 
 Public and nonprofit agencies are beginning to unlock the potential of large-scale data to improve service delivery and inform policy. Computational tools capable of making productive use of big data have proliferated in recent years, drastically decreasing the barriers to entry for these applications. This course explores the practice of using data to improve decision-making and evaluation, including techniques for data collection, analysis, and behavior change. You will learn about the opportunities and challenges of big data and devise a plan to apply them to areas of personal interest within the public sector.
+
+![](logo.png)
+
 
 # Course Goal & Objectives
 
@@ -27,10 +30,7 @@ No books are required for this course. All learning materials are available thro
 
 # Contact Information
 
-Cynthia Searcy
-
-Phone: (404) 413-0124
-
-Email: [csearcy\@gsu.edu](mailto:csearcy@gsu.edu){.email}
-
-Note: **Please e-mail me directly at my GSU email**, not in iCollege.
+Professor A
+Phone: (000) 123-4567
+Email: Please contact Dr. Cynthia Searcy at [csearcy\@gsu.edu](mailto:csearcy@gsu.edu){.email} for question regarding this open course
+Office hour: by appointment

@@ -8,8 +8,6 @@ website:
   navbar:
     search: true
     left:
-     - href: index.qmd
-       text: Home
      - href: syllabus.qmd
        text: Syllabus
      - text: Modules

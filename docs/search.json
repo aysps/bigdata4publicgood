@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to Big Data!",
+    "title": "Welcome to Big Data for Public Good!",
     "section": "",
-    "text": "Overview\nPublic and nonprofit agencies are beginning to unlock the potential of large-scale data to improve service delivery and inform policy. Computational tools capable of making productive use of big data have proliferated in recent years, drastically decreasing the barriers to entry for these applications. This course explores the practice of using data to improve decision-making and evaluation, including techniques for data collection, analysis, and behavior change. You will learn about the opportunities and challenges of big data and devise a plan to apply them to areas of personal interest within the public sector.\n\n\nCourse Goal & Objectives\nBy the end of this course you should be able to:\n\nDefine big data and describe its characteristics;\nDiscuss how public agencies harness large-scale data to inform policy design, increase stakeholder engagement, and improve service delivery.\nRecognize situations when it’s possible to collect data to inform evidenced-based policy decision-making;\nIntelligently consider the social, political, and ethical considerations of using big data and its analytical techniques for public uses.\n\n\n\nHelpful Notes from Your Professor\n\nComplete all readings and watch the videos. They compliment each other, so both are critical to understanding course materials\nDon’t hesitate to contact me with questions or problems at any point during the semester. I will always try to respond to e-mails quickly.\nThe topics in this class are in the news all the time. Don’t hesitate to send me or post articles or videos related to course material.\n\n\n\nRequired Book\nNo books are required for this course. All learning materials are available through the course site.\n\n\nContact Information\nCynthia Searcy\nPhone: (404) 413-0124\nEmail: csearcy@gsu.edu\nNote: Please e-mail me directly at my GSU email, not in iCollege."
+    "text": "Overview\nPublic and nonprofit agencies are beginning to unlock the potential of large-scale data to improve service delivery and inform policy. Computational tools capable of making productive use of big data have proliferated in recent years, drastically decreasing the barriers to entry for these applications. This course explores the practice of using data to improve decision-making and evaluation, including techniques for data collection, analysis, and behavior change. You will learn about the opportunities and challenges of big data and devise a plan to apply them to areas of personal interest within the public sector. \n\n\nCourse Goal & Objectives\nBy the end of this course you should be able to:\n\nDefine big data and describe its characteristics;\nDiscuss how public agencies harness large-scale data to inform policy design, increase stakeholder engagement, and improve service delivery.\nRecognize situations when it’s possible to collect data to inform evidenced-based policy decision-making;\nIntelligently consider the social, political, and ethical considerations of using big data and its analytical techniques for public uses.\n\n\n\nHelpful Notes from Your Professor\n\nComplete all readings and watch the videos. They compliment each other, so both are critical to understanding course materials\nDon’t hesitate to contact me with questions or problems at any point during the semester. I will always try to respond to e-mails quickly.\nThe topics in this class are in the news all the time. Don’t hesitate to send me or post articles or videos related to course material.\n\n\n\nRequired Book\nNo books are required for this course. All learning materials are available through the course site.\n\n\nContact Information\nProfessor A\nPhone: (000) 123-4567\nEmail: Please contact Dr. Cynthia Searcy for question regarding this open course\ncsearcy@gsu.edu\nOffice hour:"
   },
   {
     "objectID": "about.html",
@@ -18,7 +18,10 @@
     "href": "modules/module1.html",
     "title": "Module 1 - Introduction to Big Data",
     "section": "",
-    "text": "This module introduces you to the opportunities and challenges of big data for the public sector. You’ll learn the characteristics that define big data and begin to think about how to apply it to your own field of study."
+    "text": "This module introduces you to the opportunities and challenges of big data for the public sector. You’ll learn the characteristics that define big data and begin to think about how to apply it to your own field of study.",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data"
+    ]
   },
   {
     "objectID": "assignments/lab1.html",
@@ -70,7 +73,10 @@
     "href": "discussions/module1.html",
     "title": "Module 1 Discussions",
     "section": "",
-    "text": "Post\nAddress the following:\n\nDescribe two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data that we can address this week in class?\n\nDue by: 8/29 11:59 pm EST\nDiscuss\nOnline discussions are important to the dialogue and learning in this class. Take some time to respond to at least two of your classmates’ posts by Friday.\nDue by: 9/3 11:59 pm EST"
+    "text": "Post\nAddress the following:\n\nDescribe two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data that we can address this week in class?\n\nDue by: 8/29 11:59 pm EST\nDiscuss\nOnline discussions are important to the dialogue and learning in this class. Take some time to respond to at least two of your classmates’ posts by Friday.\nDue by: 9/3 11:59 pm EST",
+    "crumbs": [
+      "Module 1 Discussions"
+    ]
   },
   {
     "objectID": "discussions/module2.html",
@@ -203,49 +209,70 @@
     "href": "modules/module1.html#module-overview",
     "title": "Module 1 - Introduction to Big Data",
     "section": "",
-    "text": "This module introduces you to the opportunities and challenges of big data for the public sector. You’ll learn the characteristics that define big data and begin to think about how to apply it to your own field of study."
+    "text": "This module introduces you to the opportunities and challenges of big data for the public sector. You’ll learn the characteristics that define big data and begin to think about how to apply it to your own field of study.",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data"
+    ]
   },
   {
     "objectID": "modules/module1.html#assignments",
     "href": "modules/module1.html#assignments",
     "title": "Module 1 - Introduction to Big Data",
     "section": "Assignments",
-    "text": "Assignments\n\n\n\nSection & Assignment\nDue Date\n\n\n\n\n1.2 Discussion\n\n\n\n1.3 Data Certification Plan\n\n\n\n1.4 Discussion"
+    "text": "Assignments\n\n\n\nSection & Assignment\nDue Date\n\n\n\n\n1.2 Discussion\n\n\n\n1.3 Data Certification Plan\n\n\n\n1.4 Discussion",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data"
+    ]
   },
   {
     "objectID": "modules/module1.html#the-value-of-big-data",
     "href": "modules/module1.html#the-value-of-big-data",
     "title": "Module 1 - Introduction to Big Data",
     "section": "1. 2 The Value of Big Data",
-    "text": "1. 2 The Value of Big Data\nThis module introduces you to the opportunities and challenges of big data for the public sector. You’ll learn the characteristics that define big data and begin to think about how to apply it to your own field of study."
+    "text": "1. 2 The Value of Big Data\nThis module introduces you to the opportunities and challenges of big data for the public sector. You’ll learn the characteristics that define big data and begin to think about how to apply it to your own field of study.",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data"
+    ]
   },
   {
     "objectID": "modules/module1.html#transforming-information-to-ideas",
     "href": "modules/module1.html#transforming-information-to-ideas",
     "title": "Module 1 - Introduction to Big Data",
     "section": "Transforming Information to Ideas",
-    "text": "Transforming Information to Ideas\nThis week we’ll explore the characteristics of big data and its value to the public sector."
+    "text": "Transforming Information to Ideas\nThis week we’ll explore the characteristics of big data and its value to the public sector.",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data"
+    ]
   },
   {
     "objectID": "modules/module1.html#read",
     "href": "modules/module1.html#read",
     "title": "Module 1 - Introduction to Big Data",
     "section": "Read",
-    "text": "Read\n\nDesouza & Smith, Big Data for Social Innovation, Stanford Social Innovation Review, Summer 2014.\nWorld Bank Group, Big Data in Action for Government, World Bank Governance Practice, 2017.\nMeier, P., Digital Humanitarians, Chapter 1, CRC Press, 2015.\nPentland, A. Social Physics, Chapter 1, Penguin Group, 2015."
+    "text": "Read\n\nDesouza & Smith, Big Data for Social Innovation, Stanford Social Innovation Review, Summer 2014.\nWorld Bank Group, Big Data in Action for Government, World Bank Governance Practice, 2017.\nMeier, P., Digital Humanitarians, Chapter 1, CRC Press, 2015.\nPentland, A. Social Physics, Chapter 1, Penguin Group, 2015.",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data"
+    ]
   },
   {
     "objectID": "modules/module1.html#prepare",
     "href": "modules/module1.html#prepare",
     "title": "Module 1 - Introduction to Big Data",
     "section": "Prepare",
-    "text": "Prepare\nPlease prepare to discuss your thoughts on the following prompts:\n\nDescribe two characteristics of big data and how they apply to data produced or are used by your field of interest.\nDescribe ideas or practices in this week’s readings that you had not considered before.\nWhat claims about social physics do you find valid? In what ways would you challenge Pentland’s “promise” of social physics?"
+    "text": "Prepare\nPlease prepare to discuss your thoughts on the following prompts:\n\nDescribe two characteristics of big data and how they apply to data produced or are used by your field of interest.\nDescribe ideas or practices in this week’s readings that you had not considered before.\nWhat claims about social physics do you find valid? In what ways would you challenge Pentland’s “promise” of social physics?",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data"
+    ]
   },
   {
     "objectID": "modules/module1.html#attend",
     "href": "modules/module1.html#attend",
     "title": "Module 1 - Introduction to Big Data",
     "section": "Attend",
-    "text": "Attend\nIn person discussion, 1/17 at 4:30-5:30pm"
+    "text": "Attend\nIn person discussion, 1/17 at 4:30-5:30pm",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data"
+    ]
   },
   {
     "objectID": "syllabus.html",
@@ -280,14 +307,20 @@
     "href": "discussions/module1.html#m1.2-the-value-of-big-data",
     "title": "Module 1 Discussions",
     "section": "",
-    "text": "Post\nAddress the following:\n\nDescribe two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data that we can address this week in class?\n\nDue by: 8/29 11:59 pm EST\nDiscuss\nOnline discussions are important to the dialogue and learning in this class. Take some time to respond to at least two of your classmates’ posts by Friday.\nDue by: 9/3 11:59 pm EST"
+    "text": "Post\nAddress the following:\n\nDescribe two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data that we can address this week in class?\n\nDue by: 8/29 11:59 pm EST\nDiscuss\nOnline discussions are important to the dialogue and learning in this class. Take some time to respond to at least two of your classmates’ posts by Friday.\nDue by: 9/3 11:59 pm EST",
+    "crumbs": [
+      "Module 1 Discussions"
+    ]
   },
   {
     "objectID": "discussions/module1.html#m1.4-the-value-of-big-data",
     "href": "discussions/module1.html#m1.4-the-value-of-big-data",
     "title": "Module 1 Discussions",
     "section": "M1.4 The Value of Big Data",
-    "text": "M1.4 The Value of Big Data\nPost\nAddress the following:\n\nDescribe two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data that we can address this week in class?\n\nDue by: 8/29 11:59 pm EST\nDiscuss\nOnline discussions are important to the dialogue and learning in this class. Take some time to respond to at least two of your classmates’ posts by Friday.\nDue by: 9/3 11:59 pm EST"
+    "text": "M1.4 The Value of Big Data\nPost\nAddress the following:\n\nDescribe two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data that we can address this week in class?\n\nDue by: 8/29 11:59 pm EST\nDiscuss\nOnline discussions are important to the dialogue and learning in this class. Take some time to respond to at least two of your classmates’ posts by Friday.\nDue by: 9/3 11:59 pm EST",
+    "crumbs": [
+      "Module 1 Discussions"
+    ]
   },
   {
     "objectID": "resources.html",
@@ -301,7 +334,10 @@
     "href": "assignments/project_proposal.html",
     "title": "Big Data Project Proposal",
     "section": "",
-    "text": "Add assignment content here."
+    "text": "Add assignment content here.",
+    "crumbs": [
+      "Big Data Project Proposal"
+    ]
   },
   {
     "objectID": "assignments/certification.html",
