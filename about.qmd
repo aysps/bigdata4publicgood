@@ -1,9 +1,15 @@
 ---
-title: "About"
+title: "About the Big Data for Public Good Open Course"
 ---
 
-About this site
+### About the course
 
-```{r}
-1 + 1
-```
+This "Big Data for Public Good" course website serves as a public template for higher education instructors in the fields of public administration or public policy teaching about big data fundamentals.
+
+### Instruction on how to use the course materiterals
+
+Please cite properly cite this site when using or adapting the materials. 
+
+### Contact
+
+Please contact Dr. Cynthia Searcy at [csearcy\@gsu.edu](mailto:csearcy@gsu.edu){.email} for question regarding this open course

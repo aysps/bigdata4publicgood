@@ -10,14 +10,42 @@ website:
     left:
      - href: syllabus.qmd
        text: Syllabus
+       
      - text: Modules
-       file: modules/module1.qmd
-     - text: Discussions
-       file: discussions/module1.qmd
+       menu: 
+        - text: Module 1 - Introduction to Big Data
+          file: modules/module1.qmd
+        - text: Module 2 - Types of Big Data
+          file: modules/module2.qmd
+        - text: Module 3 - Discovery & Insights
+          file: modules/module3.qmd
+        - text: Module 4 - Bias in Big Data
+          file: modules/module4.qmd
+        - text: Module 5 - Data Privacy & Stewardship
+          file: modules/module5qmd
+        - text: Module 6 - Course Conclusion
+          file: modules/module6.qmd         
+
      - text: Assignments
-       file: assignments/project_proposal.qmd
-     - href: resources.qmd
-       text: Resources     
+       menu: 
+        - text: Discussions
+          file: discussions/module1.qmd
+        - text: Labs
+          file: assignments/lab1.qmd
+        - text: Data Certification
+          file: assignments/data-certification-plan.qmd
+        - text: Big Data Project Proposal
+          file: assignments/project_proposal.qmd
+
+     - text: Resources
+       menu: 
+        - text: Rubrics
+          file: resources/rubrics-written.qmd
+        - text: Grade and Policies
+          file: resources/grade-policy.qmd 
+          
+     - text: About
+       file: about.qmd
     tools:
      - icon: github
        href: https://github.com/yemeng-emma/bigdata4publicgood
@@ -39,7 +67,7 @@ website:
        style: "docked"
        background: light
        contents:
-         - discussions/general.qmd
+         - discussions/overview.qmd
          - discussions/module1.qmd
          - discussions/module2.qmd
          - discussions/module3.qmd
@@ -48,12 +76,19 @@ website:
          - discussions/module6.qmd
 
 
-     - title: "Assignments"
+     - title: "Rubrics"
        style: "docked"
        background: light
        contents:
-         - assignments/project_proposal.qmd
-         - assignments/certification.qmd
+         - resources/rubrics-written.qmd
+         - resources/rubrics-discussion.qmd
+
+
+
+     - title: "Labs"
+       style: "docked"
+       background: light
+       contents:
          - assignments/lab1.qmd
          - assignments/lab2.qmd
          - assignments/lab3.qmd
@@ -63,7 +98,7 @@ website:
         
 format:
   html:
-    theme: united
+    theme: minty
     css: styles.css
     toc: true
 

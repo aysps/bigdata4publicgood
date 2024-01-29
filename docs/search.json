@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Welcome to Big Data for Public Good!",
     "section": "",
-    "text": "Overview\nPublic and nonprofit agencies are beginning to unlock the potential of large-scale data to improve service delivery and inform policy. Computational tools capable of making productive use of big data have proliferated in recent years, drastically decreasing the barriers to entry for these applications. This course explores the practice of using data to improve decision-making and evaluation, including techniques for data collection, analysis, and behavior change. You will learn about the opportunities and challenges of big data and devise a plan to apply them to areas of personal interest within the public sector. \n\n\nCourse Goal & Objectives\nBy the end of this course you should be able to:\n\nDefine big data and describe its characteristics;\nDiscuss how public agencies harness large-scale data to inform policy design, increase stakeholder engagement, and improve service delivery.\nRecognize situations when it’s possible to collect data to inform evidenced-based policy decision-making;\nIntelligently consider the social, political, and ethical considerations of using big data and its analytical techniques for public uses.\n\n\n\nHelpful Notes from Your Professor\n\nComplete all readings and watch the videos. They compliment each other, so both are critical to understanding course materials\nDon’t hesitate to contact me with questions or problems at any point during the semester. I will always try to respond to e-mails quickly.\nThe topics in this class are in the news all the time. Don’t hesitate to send me or post articles or videos related to course material.\n\n\n\nRequired Book\nNo books are required for this course. All learning materials are available through the course site.\n\n\nContact Information\nProfessor A\nPhone: (000) 123-4567\nEmail: Please contact Dr. Cynthia Searcy for question regarding this open course\ncsearcy@gsu.edu\nOffice hour:"
+    "text": "Overview\nPublic and nonprofit agencies are beginning to unlock the potential of large-scale data to improve service delivery and inform policy. Computational tools capable of making productive use of big data have proliferated in recent years, drastically decreasing the barriers to entry for these applications. This course explores the practice of using data to improve decision-making and evaluation, including techniques for data collection, analysis, and behavior change. You will learn about the opportunities and challenges of big data and devise a plan to apply them to areas of personal interest within the public sector.\n\n\n\nCourse Goal & Objectives\nBy the end of this course you should be able to:\n\nDefine big data and describe its characteristics;\nDiscuss how public agencies harness large-scale data to inform policy design, increase stakeholder engagement, and improve service delivery.\nRecognize situations when it’s possible to collect data to inform evidenced-based policy decision-making;\nIntelligently consider the social, political, and ethical considerations of using big data and its analytical techniques for public uses.\n\n\n\nHelpful Notes from Your Professor\n\nComplete all readings and watch the videos. They compliment each other, so both are critical to understanding course materials\nDon’t hesitate to contact me with questions or problems at any point during the semester. I will always try to respond to e-mails quickly.\nThe topics in this class are in the news all the time. Don’t hesitate to send me or post articles or videos related to course material.\n\n\n\nRequired Book\nNo books are required for this course. All learning materials are available through the course site.\n\n\nContact Information\nProfessor A Phone: (000) 123-4567 Email: Please contact Dr. Cynthia Searcy at csearcy@gsu.edu for question regarding this open course Office hour: by appointment"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About the Big Data for Public Good Open Course",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About the course\nThis “Big Data for Public Good” course website serves as a public template for higher education instructors in the fields of public administration or public policy teaching about big data fundamentals.\n\n\nInstruction on how to use the course materiterals\nPlease cite properly cite this site when using or adapting the materials.\n\n\nContact\nPlease contact Dr. Cynthia Searcy at csearcy@gsu.edu for question regarding this open course"
   },
   {
     "objectID": "modules/module1.html",
@@ -28,7 +28,7 @@
     "href": "assignments/lab1.html",
     "title": "Lab 1",
     "section": "",
-    "text": "Add Lab 1 assignments here.",
+    "text": "This lab introduces you to two data-driven models of neighborhood change. We will use this case study over the semester to discuss things like data needs for predictive models. You will be required to think critically about the data used in the labs, but you will not be responsible for things like the advanced analytical models in the paper. I am approaching the labs with the assumption that you are likely to be new analysts or a manager hiring an analyst, so you just need a high-level understanding of the models in order to participate in the task.\nNeighborhood change is a complicated concept with a lot of loaded terminology. We might think about neighborhoods that are “revitalized”, “gentrified”, that are “stable”, or that “decline”. We could spend an entire semester unpacking all of these constructs, but that is out of scope of the lab. Here we are more interested in how we might make sense of our data, and then once we have meaningful groups how we might use them to make predictions with the data. Can a city forecast how its current neighborhoods are likely to change over the next decade, and can that help with urban planning processes?\nRead the following articles:\n\nGoldstein, I. Market Value Analysis: A Data-Based Approach to Understanding Urban Housing Markets in Board of Governors, Federal Reserve Systems, Putting Data to Work: Data-Driven Approaches to Strengthening Neighborhoods. 2011. pp 49-59\nDelmelle, E. C. (2017). Differentiating pathways of neighborhood change in 50 US metropolitan areas. Environment and planning A, 49(10), 2402-2424.\n\nWe are interested in understanding neighborhood change. These data-driven approaches to the phenomenon use machine-learning algorithms to “discover” coherent communities within the city by grouping census tracks into groups that minimize within-group differences and maximize between-group differences.\nYou can explore one of these algorithms by looking at examples of how botanists might create “species” based upon characteristics of flowers:\nClustering Example\nA data-driven approach to understanding neighborhood change requires us to (1) define “neighborhoods”, or groups of census tracks in the data that are very similar, and (2) use those group characteristics at a point in time to predict how the “neighborhood” might change in the future. Both of the papers present variations on Step (1) above.\nRead the two papers linked on iCollege, then answer the following questions:\n\nHow did each author identify coherent “neighborhoods” (or groups) in each model?\nWould these “neighborhoods” line up with neighborhoods that are defined on a city’s zoning maps?\nDid the two models use the same data to create the groups?\nHow do the labels and descriptions of the groups differ in each model and why?\n\nWrite your responses in a word document and name your file LAB-01-YOUR-LAST-NAME, then submit it via the iCollege assignment folder. Concise and precise answers are preferred to meandering paragraphs! One page would be fine for this assignment.\nConcise and precise answers are preferred to meandering paragraphs! One page would be fine for this assignment.",
     "crumbs": [
       "Lab 1"
     ]
@@ -219,7 +219,7 @@
     "href": "modules/module1.html#assignments",
     "title": "Module 1 - Introduction to Big Data",
     "section": "Assignments",
-    "text": "Assignments\n\n\n\nSection & Assignment\nDue Date\n\n\n\n\n1.2 Discussion\n\n\n\n1.3 Data Certification Plan\n\n\n\n1.4 Discussion",
+    "text": "Assignments\n\n\n\nSection & Assignment\nDue Date\n\n\n\n\n1.2 Discussion\n1/17\n\n\n1.3 Data Certification Plan\n1/24\n\n\n1.4 Discussion\n1/31",
     "crumbs": [
       "Module 1 - Introduction to Big Data"
     ]
@@ -286,21 +286,30 @@
     "href": "discussions/general.html",
     "title": "General Class Discussion",
     "section": "",
-    "text": "Please use this section for asking course related questions about assignments, reading, lectures etc. It is likely that if you have a question, others do too."
+    "text": "Please use this section for asking course related questions about assignments, reading, lectures etc. It is likely that if you have a question, others do too.",
+    "crumbs": [
+      "General Class Discussion"
+    ]
   },
   {
     "objectID": "discussions/general.html#class-q-a",
     "href": "discussions/general.html#class-q-a",
     "title": "General Class Discussion",
     "section": "",
-    "text": "Please use this section for asking course related questions about assignments, reading, lectures etc. It is likely that if you have a question, others do too."
+    "text": "Please use this section for asking course related questions about assignments, reading, lectures etc. It is likely that if you have a question, others do too.",
+    "crumbs": [
+      "General Class Discussion"
+    ]
   },
   {
     "objectID": "discussions/general.html#class-introduction-activity",
     "href": "discussions/general.html#class-introduction-activity",
     "title": "General Class Discussion",
     "section": "Class Introduction Activity",
-    "text": "Class Introduction Activity\nFind a digital image that represents you. Post it here with the following information:\n\nName\nHometown\nDegree Program -Describe why you’re taking this course and your research interests."
+    "text": "Class Introduction Activity\nFind a digital image that represents you. Post it here with the following information:\n\nName\nHometown\nDegree Program -Describe why you’re taking this course and your research interests.",
+    "crumbs": [
+      "General Class Discussion"
+    ]
   },
   {
     "objectID": "discussions/module1.html#m1.2-the-value-of-big-data",
@@ -334,10 +343,7 @@
     "href": "assignments/project_proposal.html",
     "title": "Big Data Project Proposal",
     "section": "",
-    "text": "Add assignment content here.",
-    "crumbs": [
-      "Big Data Project Proposal"
-    ]
+    "text": "Add assignment content here."
   },
   {
     "objectID": "assignments/certification.html",
@@ -345,5 +351,314 @@
     "title": "Data Certification",
     "section": "",
     "text": "Add assignment content here."
+  },
+  {
+    "objectID": "resources/rubrics-written.html",
+    "href": "resources/rubrics-written.html",
+    "title": "Written Assignment Rubrics",
+    "section": "",
+    "text": "Rubric Name: Grading Rubric_Writing Assignment",
+    "crumbs": [
+      "Written Assignment Rubrics"
+    ]
+  },
+  {
+    "objectID": "discussions/overview.html",
+    "href": "discussions/overview.html",
+    "title": "General Class Discussion",
+    "section": "",
+    "text": "Please use this section for asking course related questions about assignments, reading, lectures etc. It is likely that if you have a question, others do too.",
+    "crumbs": [
+      "General Class Discussion"
+    ]
+  },
+  {
+    "objectID": "discussions/overview.html#class-q-a",
+    "href": "discussions/overview.html#class-q-a",
+    "title": "General Class Discussion",
+    "section": "",
+    "text": "Please use this section for asking course related questions about assignments, reading, lectures etc. It is likely that if you have a question, others do too.",
+    "crumbs": [
+      "General Class Discussion"
+    ]
+  },
+  {
+    "objectID": "discussions/overview.html#class-introduction-activity",
+    "href": "discussions/overview.html#class-introduction-activity",
+    "title": "General Class Discussion",
+    "section": "Class Introduction Activity",
+    "text": "Class Introduction Activity\nFind a digital image that represents you. Post it here with the following information:\n\nName\nHometown\nDegree Program -Describe why you’re taking this course and your research interests.",
+    "crumbs": [
+      "General Class Discussion"
+    ]
+  },
+  {
+    "objectID": "labs/module1.html",
+    "href": "labs/module1.html",
+    "title": "Module 1 Discussions",
+    "section": "",
+    "text": "Post\nAddress the following:\n\nDescribe two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data that we can address this week in class?\n\nDue by: 8/29 11:59 pm EST\nDiscuss\nOnline discussions are important to the dialogue and learning in this class. Take some time to respond to at least two of your classmates’ posts by Friday.\nDue by: 9/3 11:59 pm EST"
+  },
+  {
+    "objectID": "labs/module1.html#m1.2-the-value-of-big-data",
+    "href": "labs/module1.html#m1.2-the-value-of-big-data",
+    "title": "Module 1 Discussions",
+    "section": "",
+    "text": "Post\nAddress the following:\n\nDescribe two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data that we can address this week in class?\n\nDue by: 8/29 11:59 pm EST\nDiscuss\nOnline discussions are important to the dialogue and learning in this class. Take some time to respond to at least two of your classmates’ posts by Friday.\nDue by: 9/3 11:59 pm EST"
+  },
+  {
+    "objectID": "labs/module1.html#m1.4-the-value-of-big-data",
+    "href": "labs/module1.html#m1.4-the-value-of-big-data",
+    "title": "Module 1 Discussions",
+    "section": "M1.4 The Value of Big Data",
+    "text": "M1.4 The Value of Big Data\nPost\nAddress the following:\n\nDescribe two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data that we can address this week in class?\n\nDue by: 8/29 11:59 pm EST\nDiscuss\nOnline discussions are important to the dialogue and learning in this class. Take some time to respond to at least two of your classmates’ posts by Friday.\nDue by: 9/3 11:59 pm EST"
+  },
+  {
+    "objectID": "labs/overview.html",
+    "href": "labs/overview.html",
+    "title": "General Class Discussion",
+    "section": "",
+    "text": "Please use this section for asking course related questions about assignments, reading, lectures etc. It is likely that if you have a question, others do too."
+  },
+  {
+    "objectID": "labs/overview.html#class-q-a",
+    "href": "labs/overview.html#class-q-a",
+    "title": "General Class Discussion",
+    "section": "",
+    "text": "Please use this section for asking course related questions about assignments, reading, lectures etc. It is likely that if you have a question, others do too."
+  },
+  {
+    "objectID": "labs/overview.html#class-introduction-activity",
+    "href": "labs/overview.html#class-introduction-activity",
+    "title": "General Class Discussion",
+    "section": "Class Introduction Activity",
+    "text": "Class Introduction Activity\nFind a digital image that represents you. Post it here with the following information:\n\nName\nHometown\nDegree Program -Describe why you’re taking this course and your research interests."
+  },
+  {
+    "objectID": "modules/module1.html#the-value-of-big-data-1",
+    "href": "modules/module1.html#the-value-of-big-data-1",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "1. 2 The Value of Big Data",
+    "text": "1. 2 The Value of Big Data",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1.html#read-1",
+    "href": "modules/module1.html#read-1",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "Read",
+    "text": "Read\n\nThe Data Science Process: A Visual Guide to Standard Procedures in Data Science by Chanin Nantasenamat\nHilary: the most poisoned baby name in US history by Hilary Parker",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1.html#watch",
+    "href": "modules/module1.html#watch",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "Watch",
+    "text": "Watch\n\nHow I Would Learn Data Science (If I Had to Start Over) by Ken Jee",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1.html#complete",
+    "href": "modules/module1.html#complete",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "Complete",
+    "text": "Complete\nThis week you’ll spend most of your time creating a data certification plan. This assignment requires that you identify a research question and develop a plan to complete workshops over the semester that will expose you to the data science knowledge and skills needed to develop a big data project. By the end of the semester, you’ll submit a proposal that describes how you can answer the research question using big data and data science techniques.\nYou will turn in this plan as your “discussion” this week. But don’t wait until class day to start this assignment. Formulating a good research question takes time, and if you’re struggling with how to use big data in a project that interests you then you need to give me time to help you. Reach out by email to set up a time to talk or post questions to the Class Q & A discussion board. \n\nDownload the instructions for the data certification plan.\nIf you need some inspiration, check out this web blog. Or Google “big data and X (your field).” It’s also a good idea to look at some academic journals in your field to see how the techniques of data science are being applied. \nWrite me an email or set up a time to talk if you need help.\nSubmit your data certification plan to the “1.3 Data Certification” assignment folder.\n\nDue by: 11/24 at 11:59pm",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data"
+    ]
+  },
+  {
+    "objectID": "project/Project-overview.html",
+    "href": "project/Project-overview.html",
+    "title": "Module 1 Discussions",
+    "section": "",
+    "text": "Post\nAddress the following:\n\nDescribe two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data that we can address this week in class?\n\nDue by: 8/29 11:59 pm EST\nDiscuss\nOnline discussions are important to the dialogue and learning in this class. Take some time to respond to at least two of your classmates’ posts by Friday.\nDue by: 9/3 11:59 pm EST"
+  },
+  {
+    "objectID": "project/Project-overview.html#m1.2-the-value-of-big-data",
+    "href": "project/Project-overview.html#m1.2-the-value-of-big-data",
+    "title": "Module 1 Discussions",
+    "section": "",
+    "text": "Post\nAddress the following:\n\nDescribe two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data that we can address this week in class?\n\nDue by: 8/29 11:59 pm EST\nDiscuss\nOnline discussions are important to the dialogue and learning in this class. Take some time to respond to at least two of your classmates’ posts by Friday.\nDue by: 9/3 11:59 pm EST"
+  },
+  {
+    "objectID": "project/Project-overview.html#m1.4-the-value-of-big-data",
+    "href": "project/Project-overview.html#m1.4-the-value-of-big-data",
+    "title": "Module 1 Discussions",
+    "section": "M1.4 The Value of Big Data",
+    "text": "M1.4 The Value of Big Data\nPost\nAddress the following:\n\nDescribe two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data that we can address this week in class?\n\nDue by: 8/29 11:59 pm EST\nDiscuss\nOnline discussions are important to the dialogue and learning in this class. Take some time to respond to at least two of your classmates’ posts by Friday.\nDue by: 9/3 11:59 pm EST"
+  },
+  {
+    "objectID": "modules/module1.html#section",
+    "href": "modules/module1.html#section",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "",
+    "text": "Find Your Inner Data Geek\n\n\n\n\n\n\n\n\n\n\nNow that you know the characteristics of big data and some of their applications to the public sector, it’s time to consider how they serve your field of interest. Whether you plan to be a data scientist or work with a team of them, you need to understand how big data are collected, analyzed, and communicated. This module starts with an overview of data science to learn the steps in the life cycle of a big data project. It ends with you developing a plan to earn a data certification that exposes you to the tools and techniques of stages in the data science life cycle that fit your skill needs.",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data"
+    ]
+  },
+  {
+    "objectID": "resources/data-certification-plan.html",
+    "href": "resources/data-certification-plan.html",
+    "title": "Data Certification Plan",
+    "section": "",
+    "text": "This assignment requires you to identify at least five workshops or other modules on data techniques that support your development as a data user. It’s intended to align with the big data project proposal that you’ll develop during the semester.\nThis plan starts by asking you to identify a research question that you can answer using the data skills that you’ll learn in the certification. Since it’s early in the semester, what you propose to do in this plan may change as you learn more about big data and its applications to your interests. However, I’m requiring that you submit this plan now so that I can learn what topics you’re interested in and how the data certification will enhance your data skills.\nGSU provides multiple opportunities for learning data skills and tools. Some examples include the library’s Research Data Services workshops, LinkedIn Learning, and O’Reilly for Higher Education. You may also use open access courses via Coursera, EdEx, Kaggle, etc. should they meet your needs. Each of the five workshops/modules that you complete must be:\nIdeally, the series of workshops that you pursue offers a badge or certificate that you can link to your resume or other digital profile to showcase your professional qualifications (e.g., personal website, LinkedIn profile, Handshake profile, etc.) If you’re curating workshops/courses across multiple sources or platforms, you likely won’t be able to earn a badge or certificate. Be aware that some platforms offer free access to courses, but earning a badge/certificate comes with a fee.\nYou may not use trainings or modules that you complete for other courses that you’re taking this semester. You are earning unique credit for this course, so the work you conduct for it must be different than what you may be learning in other classes. This exercise is intended to give you time (and credit) to pursue data knowledge or skills gaps that that aren’t covered in other courses. It’s an opportunity to invest in data skills that you think will be important to your future work.\nDue to the variety of data workshops and free data courses, it’s impossible for me to know what will interest you or their formats. If you have a question about the suitability of a workshop or course for this assignment, please contact me well before the deadline of this plan.\nAfter I review and approve your data certification plan, you will be required to submit a short report after each workshop to identify what you learned, how you’ll use the new skills in your project proposal (or elsewhere), and whether you recommend the workshop to other students. You’ll also submit an example of work that you generated in the training."
+  },
+  {
+    "objectID": "resources/data-certification-plan.html#i.ask-an-interesting-question",
+    "href": "resources/data-certification-plan.html#i.ask-an-interesting-question",
+    "title": "Data Certification Plan",
+    "section": "I.Ask an Interesting Question",
+    "text": "I.Ask an Interesting Question\nDescribe the question that you hope to answer with big data. Why does it interest you and/or why is it important?\nMost research starts with a large question and narrows to a very specific one that can be answered once you know more about what data is available to answer the question and how it can be analyzed. If you’re undecided at this point in the semester what question you’ll propose to answer, describe ones that cluster around the same topic for this assignment.\nFor example, I’m interested in understanding the relationship between needle aversion and COVID vaccination rates. I think that the language and imagery used to encourage vaccination is having the opposite effect. Nearly every advertisement or news segment about COVID vaccination shows a needle going in an arm (up close!) and uses language like “get the shot” or “jab,” which evokes negative feelings in most people (e.g., like going to the dentist or booster shots as a child). For those who also have fears that the vaccination is risky, these images and words reduce the likelihood that they’ll get a vaccine. I hypothesize that the ubiquity and volume of this imagery on TV and social media (big data) is reinforcing needle aversion to an extent that it’s driving down vaccination rates. So, my research question is “Has intense exposure to imagery and language of needles decreased COVID vaccination rates in the United States?” If a relationship exists, removing needle imagery and language from mass media could improve vaccination compliance and lower the threat of COVID to public health."
+  },
+  {
+    "objectID": "resources/data-certification-plan.html#ii.-collect-data",
+    "href": "resources/data-certification-plan.html#ii.-collect-data",
+    "title": "Data Certification Plan",
+    "section": "II. Collect Data",
+    "text": "II. Collect Data\nDescribe the big data that’s available to answer your research question, its source, and its format. Describe how it meets the characteristics of big data, and how you plan to access it."
+  },
+  {
+    "objectID": "resources/data-certification-plan.html#iii.-data-workshops",
+    "href": "resources/data-certification-plan.html#iii.-data-workshops",
+    "title": "Data Certification Plan",
+    "section": "III. Data Workshops",
+    "text": "III. Data Workshops\nList the workshops you plan to complete by the end of the semester to build your data knowledge and skills to develop a big data project. For each workshop, describe:\n\nTitle and purpose\nLength/duration\nOrganization providing the training\nLink to the training\nDate(s) you plan to attend/do the training\nWhere it fits in the data science cycle\nHow it will enhance your data knowledge and/or skills"
+  },
+  {
+    "objectID": "resources/data-certification-plan.html#iv.-certification",
+    "href": "resources/data-certification-plan.html#iv.-certification",
+    "title": "Data Certification Plan",
+    "section": "IV. Certification",
+    "text": "IV. Certification\nDescribe how will you certify completion of each workshop. (Make sure that the badge(s) or certification(s) you may earn will be available to post to iCollege by December 14.)"
+  },
+  {
+    "objectID": "about.html#instruction-on-how-to-use-the-course-materiterals",
+    "href": "about.html#instruction-on-how-to-use-the-course-materiterals",
+    "title": "About the Big Data for Public Good Open Course",
+    "section": "Instruction on how to use the course materiterals",
+    "text": "Instruction on how to use the course materiterals"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About the Big Data for Public Good Open Course",
+    "section": "Contact",
+    "text": "Contact"
+  },
+  {
+    "objectID": "resources/about-course-project.html#instruction-on-how-to-use-the-course-materiterals",
+    "href": "resources/about-course-project.html#instruction-on-how-to-use-the-course-materiterals",
+    "title": "About the Big Data for Public Good Open Course",
+    "section": "Instruction on how to use the course materiterals",
+    "text": "Instruction on how to use the course materiterals"
+  },
+  {
+    "objectID": "resources/about-course-project.html#contact",
+    "href": "resources/about-course-project.html#contact",
+    "title": "About the Big Data for Public Good Open Course",
+    "section": "Contact",
+    "text": "Contact"
+  },
+  {
+    "objectID": "resources/grade-policy.html",
+    "href": "resources/grade-policy.html",
+    "title": "Assignment Grade and Policies",
+    "section": "",
+    "text": "(Based on a Spring semester calendar)\n\n\n\n\nAssignments\n\n\n\n\n\n\nDiscussions (30%)\n\nDiscussions will be in person or online, depending on the week.\nOnline posts are due by 11:59pm on Mondays.\nYour grade is based on completing 15 discussions.\n\n\n\nLabs (20%)\n\nThe course includes four labs that ask you to think critically about big data and its characteristics. The labs are largely non-technical.\nYou are expected to complete all four labs by their due dates. Each lab is worth 5% of your final grade.\n\n\n\nData Certification (20%)\n\nAppreciation of big data includes knowing how to use it. Although this isn’t a technical course, you are required to build competency in data tools that fit your interests and need for future work.\nYou will curate a series of five data courses via GSU’s Research Data Services or an online learning platform to earn a data certification. Ideally these courses help you to develop the big data project proposal that is the final assessment for this course.\nYou must complete all five data courses to earn a certification and credit for this assessment.\n\n\n\nBig Data Project Proposal (30%)\n\nThroughout the course you will use the data science process to design a big data project of interest to you. It will start with asking an interesting question and culminate in developing a model using big data to answer the question.\nAs you’ll learn, big data projects are tedious and take time to conduct responsibly. This assessment asks you to design a project, not implement it.\nAs a proposal, you will design the big data project in stages throughout the semester as we cover them in class. Most of the stages will be shared for instructor feedback prior to the due date of the final proposal.\nYou will complete a proposal and present it to me as the final for the course. The paper and PPT will compose 30% of your final grade.\n\n\n\n\n\n\n\n\nPolicies\n\n\n\n\n\n\nLate Assignments\n\nNo unexcused late assignments will be accepted without penalty. All deadlines will be posted on iCollege.\nIf you anticipate missing assignment deadline due to a university approved reason, please write me an email ASAP. Excused absences/missed work include legal obligations (jury duty, military orders); religious obligation; death or illness of a student’s immediate family; and illness that is too severe or contagious to attend class/do classwork. All excused absences require written documentation from an authoritative source verifying the absence by date and reason.\n\n\n\nWithdrawal Policy\n\nLast day to withdraw from this class is February 28, 20xx.\nStudents who withdraw after the midpoint of each term will not be eligible for a “W” except in cases of Emergency Withdrawal.\nImportant University dates can be found at https://registrar.gsu.edu/registration/semester-calendars-exam-schedules/\n\n\n\nPolicy on Academic Honesty\n\nReview GSU’s policy about cheating, plagiarism, and the repercussions if you do not operate with academic honesty. Note: Lack of knowledge of this policy is not an acceptable defense to any charge of academic dishonesty.\n\n\n\nStudent Code of Conduct\n\nReview the following at the link to the Student Code of Conduct:\n\nStudent Rights and Obligations\nGeneral Conduct Policies and Procedures\nAcademic Conduct Policies and Procedures\nAdministrative Policies"
+  },
+  {
+    "objectID": "assignments/data-certification-plan.html",
+    "href": "assignments/data-certification-plan.html",
+    "title": "Data Certification Plan",
+    "section": "",
+    "text": "This assignment requires you to identify at least five workshops or other modules on data techniques that support your development as a data user. It’s intended to align with the big data project proposal that you’ll develop during the semester.\nThis plan starts by asking you to identify a research question that you can answer using the data skills that you’ll learn in the certification. Since it’s early in the semester, what you propose to do in this plan may change as you learn more about big data and its applications to your interests. However, I’m requiring that you submit this plan now so that I can learn what topics you’re interested in and how the data certification will enhance your data skills.\nGSU provides multiple opportunities for learning data skills and tools. Some examples include the library’s Research Data Services workshops, LinkedIn Learning, and O’Reilly for Higher Education. You may also use open access courses via Coursera, EdEx, Kaggle, etc. should they meet your needs. Each of the five workshops/modules that you complete must be:\nIdeally, the series of workshops that you pursue offers a badge or certificate that you can link to your resume or other digital profile to showcase your professional qualifications (e.g., personal website, LinkedIn profile, Handshake profile, etc.) If you’re curating workshops/courses across multiple sources or platforms, you likely won’t be able to earn a badge or certificate. Be aware that some platforms offer free access to courses, but earning a badge/certificate comes with a fee.\nYou may not use trainings or modules that you complete for other courses that you’re taking this semester. You are earning unique credit for this course, so the work you conduct for it must be different than what you may be learning in other classes. This exercise is intended to give you time (and credit) to pursue data knowledge or skills gaps that that aren’t covered in other courses. It’s an opportunity to invest in data skills that you think will be important to your future work.\nDue to the variety of data workshops and free data courses, it’s impossible for me to know what will interest you or their formats. If you have a question about the suitability of a workshop or course for this assignment, please contact me well before the deadline of this plan.\nAfter I review and approve your data certification plan, you will be required to submit a short report after each workshop to identify what you learned, how you’ll use the new skills in your project proposal (or elsewhere), and whether you recommend the workshop to other students. You’ll also submit an example of work that you generated in the training."
+  },
+  {
+    "objectID": "assignments/data-certification-plan.html#i.ask-an-interesting-question",
+    "href": "assignments/data-certification-plan.html#i.ask-an-interesting-question",
+    "title": "Data Certification Plan",
+    "section": "I.Ask an Interesting Question",
+    "text": "I.Ask an Interesting Question\nDescribe the question that you hope to answer with big data. Why does it interest you and/or why is it important?\nMost research starts with a large question and narrows to a very specific one that can be answered once you know more about what data is available to answer the question and how it can be analyzed. If you’re undecided at this point in the semester what question you’ll propose to answer, describe ones that cluster around the same topic for this assignment.\nFor example, I’m interested in understanding the relationship between needle aversion and COVID vaccination rates. I think that the language and imagery used to encourage vaccination is having the opposite effect. Nearly every advertisement or news segment about COVID vaccination shows a needle going in an arm (up close!) and uses language like “get the shot” or “jab,” which evokes negative feelings in most people (e.g., like going to the dentist or booster shots as a child). For those who also have fears that the vaccination is risky, these images and words reduce the likelihood that they’ll get a vaccine. I hypothesize that the ubiquity and volume of this imagery on TV and social media (big data) is reinforcing needle aversion to an extent that it’s driving down vaccination rates. So, my research question is “Has intense exposure to imagery and language of needles decreased COVID vaccination rates in the United States?” If a relationship exists, removing needle imagery and language from mass media could improve vaccination compliance and lower the threat of COVID to public health."
+  },
+  {
+    "objectID": "assignments/data-certification-plan.html#ii.-collect-data",
+    "href": "assignments/data-certification-plan.html#ii.-collect-data",
+    "title": "Data Certification Plan",
+    "section": "II. Collect Data",
+    "text": "II. Collect Data\nDescribe the big data that’s available to answer your research question, its source, and its format. Describe how it meets the characteristics of big data, and how you plan to access it."
+  },
+  {
+    "objectID": "assignments/data-certification-plan.html#iii.-data-workshops",
+    "href": "assignments/data-certification-plan.html#iii.-data-workshops",
+    "title": "Data Certification Plan",
+    "section": "III. Data Workshops",
+    "text": "III. Data Workshops\nList the workshops you plan to complete by the end of the semester to build your data knowledge and skills to develop a big data project. For each workshop, describe:\n\nTitle and purpose\nLength/duration\nOrganization providing the training\nLink to the training\nDate(s) you plan to attend/do the training\nWhere it fits in the data science cycle\nHow it will enhance your data knowledge and/or skills"
+  },
+  {
+    "objectID": "assignments/data-certification-plan.html#iv.-certification",
+    "href": "assignments/data-certification-plan.html#iv.-certification",
+    "title": "Data Certification Plan",
+    "section": "IV. Certification",
+    "text": "IV. Certification\nDescribe how will you certify completion of each workshop. (Make sure that the badge(s) or certification(s) you may earn will be available to post to iCollege by December 14.)"
+  },
+  {
+    "objectID": "resources/grade-policy.html#read-and-remember",
+    "href": "resources/grade-policy.html#read-and-remember",
+    "title": "Assignment Grade and Policies",
+    "section": "",
+    "text": "Discussion (30%)\n\nDiscussions will be in person or online, depending on the week.\nOnline posts are due by 11:59pm on Mondays.\nYour grade is based on completing 15 discussions."
+  },
+  {
+    "objectID": "resources/grade-policy.html#section",
+    "href": "resources/grade-policy.html#section",
+    "title": "Assignment Grade and Policies",
+    "section": "",
+    "text": "Discussions (30%)\n\nDiscussions will be in person or online, depending on the week.\nOnline posts are due by 11:59pm on Mondays.\nYour grade is based on completing 15 discussions.\n\n\n\nLabs (20%)\n\nThe course includes four labs that ask you to think critically about big data and its characteristics. The labs are largely non-technical.\nYou are expected to complete all four labs by their due dates. Each lab is worth 5% of your final grade.\n\n\n\nData Certification (20%)\n\nAppreciation of big data includes knowing how to use it. Although this isn’t a technical course, you are required to build competency in data tools that fit your interests and need for future work.\nYou will curate a series of five data courses via GSU’s Research Data Services or an online learning platform to earn a data certification. Ideally these courses help you to develop the big data project proposal that is the final assessment for this course.\nYou must complete all five data courses to earn a certification and credit for this assessment.\n\n\n\nBig Data Project Proposal (30%)\n\nThroughout the course you will use the data science process to design a big data project of interest to you. It will start with asking an interesting question and culminate in developing a model using big data to answer the question.\nAs you’ll learn, big data projects are tedious and take time to conduct responsibly. This assessment asks you to design a project, not implement it.\nAs a proposal, you will design the big data project in stages throughout the semester as we cover them in class. Most of the stages will be shared for instructor feedback prior to the due date of the final proposal.\nYou will complete a proposal and present it to me as the final for the course. The paper and PPT will compose 30% of your final grade.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDiscussions (30%)\n\nDiscussions will be in person or online, depending on the week.\nOnline posts are due by 11:59pm on Mondays.\nYour grade is based on completing 15 discussions.\n\n\n\nLabs (20%)\n\nThe course includes four labs that ask you to think critically about big data and its characteristics. The labs are largely non-technical.\nYou are expected to complete all four labs by their due dates. Each lab is worth 5% of your final grade.\n\n\n\nData Certification (20%)\n\nAppreciation of big data includes knowing how to use it. Although this isn’t a technical course, you are required to build competency in data tools that fit your interests and need for future work.\nYou will curate a series of five data courses via GSU’s Research Data Services or an online learning platform to earn a data certification. Ideally these courses help you to develop the big data project proposal that is the final assessment for this course.\nYou must complete all five data courses to earn a certification and credit for this assessment.\n\n\n\nBig Data Project Proposal (30%)\n\nThroughout the course you will use the data science process to design a big data project of interest to you. It will start with asking an interesting question and culminate in developing a model using big data to answer the question.\nAs you’ll learn, big data projects are tedious and take time to conduct responsibly. This assessment asks you to design a project, not implement it.\nAs a proposal, you will design the big data project in stages throughout the semester as we cover them in class. Most of the stages will be shared for instructor feedback prior to the due date of the final proposal.\nYou will complete a proposal and present it to me as the final for the course. The paper and PPT will compose 30% of your final grade."
+  },
+  {
+    "objectID": "resources/grade-policy.html#based-on-a-spring-semester-calendar",
+    "href": "resources/grade-policy.html#based-on-a-spring-semester-calendar",
+    "title": "Assignment Grade and Policies",
+    "section": "",
+    "text": "Discussions (30%)\n\nDiscussions will be in person or online, depending on the week.\nOnline posts are due by 11:59pm on Mondays.\nYour grade is based on completing 15 discussions.\n\n\n\nLabs (20%)\n\nThe course includes four labs that ask you to think critically about big data and its characteristics. The labs are largely non-technical.\nYou are expected to complete all four labs by their due dates. Each lab is worth 5% of your final grade.\n\n\n\nData Certification (20%)\n\nAppreciation of big data includes knowing how to use it. Although this isn’t a technical course, you are required to build competency in data tools that fit your interests and need for future work.\nYou will curate a series of five data courses via GSU’s Research Data Services or an online learning platform to earn a data certification. Ideally these courses help you to develop the big data project proposal that is the final assessment for this course.\nYou must complete all five data courses to earn a certification and credit for this assessment.\n\n\n\nBig Data Project Proposal (30%)\n\nThroughout the course you will use the data science process to design a big data project of interest to you. It will start with asking an interesting question and culminate in developing a model using big data to answer the question.\nAs you’ll learn, big data projects are tedious and take time to conduct responsibly. This assessment asks you to design a project, not implement it.\nAs a proposal, you will design the big data project in stages throughout the semester as we cover them in class. Most of the stages will be shared for instructor feedback prior to the due date of the final proposal.\nYou will complete a proposal and present it to me as the final for the course. The paper and PPT will compose 30% of your final grade.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDiscussions (30%)\n\nDiscussions will be in person or online, depending on the week.\nOnline posts are due by 11:59pm on Mondays.\nYour grade is based on completing 15 discussions.\n\n\n\nLabs (20%)\n\nThe course includes four labs that ask you to think critically about big data and its characteristics. The labs are largely non-technical.\nYou are expected to complete all four labs by their due dates. Each lab is worth 5% of your final grade.\n\n\n\nData Certification (20%)\n\nAppreciation of big data includes knowing how to use it. Although this isn’t a technical course, you are required to build competency in data tools that fit your interests and need for future work.\nYou will curate a series of five data courses via GSU’s Research Data Services or an online learning platform to earn a data certification. Ideally these courses help you to develop the big data project proposal that is the final assessment for this course.\nYou must complete all five data courses to earn a certification and credit for this assessment.\n\n\n\nBig Data Project Proposal (30%)\n\nThroughout the course you will use the data science process to design a big data project of interest to you. It will start with asking an interesting question and culminate in developing a model using big data to answer the question.\nAs you’ll learn, big data projects are tedious and take time to conduct responsibly. This assessment asks you to design a project, not implement it.\nAs a proposal, you will design the big data project in stages throughout the semester as we cover them in class. Most of the stages will be shared for instructor feedback prior to the due date of the final proposal.\nYou will complete a proposal and present it to me as the final for the course. The paper and PPT will compose 30% of your final grade."
+  },
+  {
+    "objectID": "resources/rubrics-discussion.html",
+    "href": "resources/rubrics-discussion.html",
+    "title": "Discussion Posts Rubrics",
+    "section": "",
+    "text": "Criteria\nAdvanced\nProficient\nDeveloping\nEmerging\nCriterion Score\n\n\nAssignment Specific Grading Items\n5 points\nAssignment questions and required items are addressed comprehensively, accurately and specifically. Offers strong support for arguments or points.\n4 points\nMost questions and requirements are addressed accurately and specifically. Support for arguments or points may be weak.\n3 points\nMissing answers to questions or doesn't address many requirements. Support for arguments or points is weak.\n2 points\nDoes not address questions or requirements, or attempts are largely inaccurate.\nScore of Assignment Specific Grading Items,\n/ 5\n\n\nCritical Analysis (Understanding of Topic)\n10 points\nWriting displays an excellent understanding of the required readings and underlying concepts including correct use of terminology. Integrates lectures, readings, or relevant research, or specific real-life application (work experience, prior coursework, etc.) to support important points.\n8 points\nWriting repeats and summarizes basic, correct information, but does not apply enough lectures, readings, or relevant research or specific real-life applications\n6 points\nWriting shows little or no evidence that class lectures and readings were understood. Writings are largely personal opinions or feelings, or “I agree” or “Great idea,” without supporting statements with concepts from the readings, outside resources, relevant research, or specific real-life application.\n4 points\nWriting lacks evidence of critical analysis, and poor use of supportive evidence.\nScore of Critical Analysis (Understanding of Topic),\n/ 10\n\n\nWriting & Clarity\n5 points\nAnswers are clear, well-written and free of grammatical and spelling mistakes. No errors in APA style. Scholarly style. Cites all data obtained from other sources. APA citation style is used in both text and/or bibliography.\n4 points\nAnswers are clear, a few small grammatical and spelling mistakes. Rare errors in APA style that do not detract from the paper. Scholarly style. Cites most data obtained from other sources.\n3 points\nAnswers are clear but there are many spelling and grammatical mistakes. Errors in APA style are noticeable. Cites some data obtained from other sources. Citation style is either inconsistent or incorrect.\n2 points\nAnswers are unclear or difficult to understand, and/or there are many spelling and grammatical mistakes. Errors in APA style detracts substantially from the paper. Word choice is informal in tone. Does not cite sources.\nScore of Writing & Clarity,\n/ 5\n\n\n\nTotal Score of Grading Rubric_Discussion Posts, / 20",
+    "crumbs": [
+      "Discussion Posts Rubrics"
+    ]
+  },
+  {
+    "objectID": "modules/module1.html#big-data-and-you",
+    "href": "modules/module1.html#big-data-and-you",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "1. 3 Big Data and You",
+    "text": "1. 3 Big Data and You",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1.html#the-challenges-of-big-data",
+    "href": "modules/module1.html#the-challenges-of-big-data",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "1. 4 The Challenges of Big Data",
+    "text": "1. 4 The Challenges of Big Data",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data"
+    ]
   }
 ]

@@ -76,5 +76,50 @@
   },
   "assignments/certification.qmd": {
     "certification.html": "3389cbdd"
+  },
+  "discussions/overview.qmd": {
+    "overview.html": "1f320cd0"
+  },
+  "labs/module1.qmd": {
+    "module1.html": "bf119478"
+  },
+  "labs/module2.qmd": {
+    "module2.html": "eca3e357"
+  },
+  "labs/module3.qmd": {
+    "module3.html": "dd523b82"
+  },
+  "labs/module4.qmd": {
+    "module4.html": "c51a06f4"
+  },
+  "labs/module5.qmd": {
+    "module5.html": "e0ec19dd"
+  },
+  "labs/module6.qmd": {
+    "module6.html": "7eccce4a"
+  },
+  "labs/overview.qmd": {
+    "overview.html": "c71be491"
+  },
+  "resources/rubrics-written.qmd": {
+    "rubrics-written.html": "3f2c8751"
+  },
+  "project/Project-overview.qmd": {
+    "Project-overview.html": "b544600d"
+  },
+  "resources/data-certification-plan.qmd": {
+    "data-certification-plan.html": "223d560c"
+  },
+  "resources/about-course-project.qmd": {
+    "about-course-project.html": "b2ed455f"
+  },
+  "assignments/data-certification-plan.qmd": {
+    "data-certification-plan.html": "f0d53595"
+  },
+  "resources/grade-policy.qmd": {
+    "grade-policy.html": "95f16d24"
+  },
+  "resources/rubrics-discussion.qmd": {
+    "rubrics-discussion.html": "ca3d93a0"
   }
 }

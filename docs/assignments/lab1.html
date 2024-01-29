@@ -88,28 +88,81 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
-<span class="menu-text">Home</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="../syllabus.html"> 
 <span class="menu-text">Syllabus</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../modules/module1.html"> 
-<span class="menu-text">Modules</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-modules" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Modules</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-modules">    
+        <li>
+    <a class="dropdown-item" href="../modules/module1.html">
+ <span class="dropdown-text">Module 1 - Introduction to Big Data</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../discussions/module1.html"> 
-<span class="menu-text">Discussions</span></a>
+        <li>
+    <a class="dropdown-item" href="../modules/module2.html">
+ <span class="dropdown-text">Module 2 - Types of Big Data</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link active" href="../assignments/project_proposal.html" aria-current="page"> 
-<span class="menu-text">Assignments</span></a>
+        <li>
+    <a class="dropdown-item" href="../modules/module3.html">
+ <span class="dropdown-text">Module 3 - Discovery &amp; Insights</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="../modules/module4.html">
+ <span class="dropdown-text">Module 4 - Bias in Big Data</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../modules/module5qmd">
+ <span class="dropdown-text">Module 5 - Data Privacy &amp; Stewardship</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../modules/module6.html">
+ <span class="dropdown-text">Module 6 - Course Conclusion</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-assignments" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Assignments</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-assignments">    
+        <li>
+    <a class="dropdown-item" href="../discussions/module1.html">
+ <span class="dropdown-text">Discussions</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../assignments/lab1.html">
+ <span class="dropdown-text">Labs</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../assignments/data-certification-plan.html">
+ <span class="dropdown-text">Data Certification</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../assignments/project_proposal.html">
+ <span class="dropdown-text">Big Data Project Proposal</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-resources" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Resources</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-resources">    
+        <li>
+    <a class="dropdown-item" href="../resources/rubrics-written.html">
+ <span class="dropdown-text">Rubrics</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../resources/grade-policy.html">
+ <span class="dropdown-text">Grade and Policies</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
-    <a class="nav-link" href="../resources.html"> 
-<span class="menu-text">Resources</span></a>
+    <a class="nav-link" href="../about.html"> 
+<span class="menu-text">About</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -135,18 +188,6 @@ ul.task-list li input[type="checkbox"] {
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../assignments/project_proposal.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Big Data Project Proposal</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../assignments/certification.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Data Certification</span></a>
-  </div>
-</li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../assignments/lab1.html" class="sidebar-item-text sidebar-link active">
@@ -213,7 +254,26 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Add Lab 1 assignments here.</p>
+<p>This lab introduces you to two data-driven models of neighborhood change. We will use this case study over the semester to discuss things like data needs for predictive models. You will be required to think critically about the data used in the labs, but you will not be responsible for things like the advanced analytical models in the paper. I am approaching the labs with the assumption that you are likely to be new analysts or a manager hiring an analyst, so you just need a high-level understanding of the models in order to participate in the task.</p>
+<p>Neighborhood change is a complicated concept with a lot of loaded terminology. We might think about neighborhoods that are “revitalized”, “gentrified”, that are “stable”, or that “decline”. We could spend an entire semester unpacking all of these constructs, but that is out of scope of the lab. Here we are more interested in how we might make sense of our data, and then once we have meaningful groups how we might use them to make predictions with the data. Can a city forecast how its current neighborhoods are likely to change over the next decade, and can that help with urban planning processes?</p>
+<p>Read the following articles:</p>
+<ul>
+<li>Goldstein, I. <em>Market Value Analysis: A Data-Based Approach to Understanding Urban Housing Markets</em> in Board of Governors, Federal Reserve Systems, Putting Data to Work: Data-Driven Approaches to Strengthening Neighborhoods. 2011. pp 49-59</li>
+<li>Delmelle, E. C. (2017). Differentiating pathways of neighborhood change in 50 US metropolitan areas. Environment and planning A, 49(10), 2402-2424.</li>
+</ul>
+<p>We are interested in understanding neighborhood change. These data-driven approaches to the phenomenon use machine-learning algorithms to “discover” coherent communities within the city by grouping census tracks into groups that minimize within-group differences and maximize between-group differences.</p>
+<p>You can explore one of these algorithms by looking at examples of how botanists might create “species” based upon characteristics of flowers:</p>
+<p><a href="https://shiny.rstudio.com/gallery/kmeans-example.html">Clustering Example</a></p>
+<p>A data-driven approach to understanding neighborhood change requires us to (1) define “neighborhoods”, or groups of census tracks in the data that are very similar, and (2) use those group characteristics at a point in time to predict how the “neighborhood” might change in the future. Both of the papers present variations on Step (1) above.</p>
+<p>Read the two papers linked on iCollege, then answer the following questions:</p>
+<ol type="1">
+<li>How did each author identify coherent “neighborhoods” (or groups) in each model?</li>
+<li>Would these “neighborhoods” line up with neighborhoods that are defined on a city’s zoning maps?</li>
+<li>Did the two models use the same data to create the groups?</li>
+<li>How do the labels and descriptions of the groups differ in each model and why?</li>
+</ol>
+<p>Write your responses in a word document and name your file LAB-01-YOUR-LAST-NAME, then submit it via the iCollege assignment folder. Concise and precise answers are preferred to meandering paragraphs! One page would be fine for this assignment.</p>
+<p>Concise and precise answers are preferred to meandering paragraphs! One page would be fine for this assignment.</p>
 
 
 

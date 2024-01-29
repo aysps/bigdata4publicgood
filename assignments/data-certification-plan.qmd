@@ -1,0 +1,62 @@
+---
+title: "Data Certification Plan"
+editor: visual
+---
+
+This assignment requires you to identify **at least five workshops** or other modules on data techniques that support your development as a data user. It's intended to align with the big data project proposal that you'll develop during the semester.
+
+This plan starts by asking you to identify a research question that you can answer using the data skills that you'll learn in the certification. Since it's early in the semester, what you propose to do in this plan may change as you learn more about big data and its applications to your interests. However, I'm requiring that you submit this plan now so that I can learn what topics you're interested in and how the data certification will enhance your data skills.
+
+GSU provides multiple opportunities for learning data skills and tools. Some examples include the library's [Research Data Services workshops](assignment), [LinkedIn Learning](https://technology.gsu.edu/technology-services/it-services/training-and-learning-resources/linkedin-learning/), and [O'Reilly for Higher Education](https://research.library.gsu.edu/c.php?g=115640&p=7463735). You may also use open access courses via Coursera, EdEx, Kaggle, etc. should they meet your needs. Each of the five workshops/modules that you complete must be:
+
+-   at least 90 minutes long
+
+-   certifiable; have documentation of completion dates during this semester
+
+-   unique and progressive; introduce new skills not included in another workshop in the certification and advance your skills in a domain
+
+Ideally, the series of workshops that you pursue offers a badge or certificate that you can link to your resume or other digital profile to showcase your professional qualifications (e.g., personal website, LinkedIn profile, Handshake profile, etc.) If you're curating workshops/courses across multiple sources or platforms, you likely won't be able to earn a badge or certificate. Be aware that some platforms offer free access to courses, but earning a badge/certificate comes with a fee.
+
+**You may not use trainings or modules that you complete for other courses** that you're taking this semester. You are earning unique credit for this course, so the work you conduct for it must be different than what you may be learning in other classes. This exercise is intended to give you time (and credit) to pursue data knowledge or skills gaps that that aren't covered in other courses. It's an opportunity to invest in data skills that you think will be important to your future work.
+
+Due to the variety of data workshops and free data courses, it's impossible for me to know what will interest you or their formats. If you have a question about the suitability of a workshop or course for this assignment, please contact me well before the deadline of this plan.
+
+After I review and approve your data certification plan, you will be required to submit a short report after each workshop to identify what you learned, how you'll use the new skills in your project proposal (or elsewhere), and whether you recommend the workshop to other students. You'll also submit an example of work that you generated in the training.\
+
+# Instructions
+
+Complete each of the sections below to construct your plan to earn a data certification this semester.  After my review, you may need to modify the plan. Be prepared to resubmit it for final approval before starting.
+
+## I.Ask an Interesting Question
+
+*Describe the question that you hope to answer with big data.* *Why does it interest you and/or why is it important?*
+
+Most research starts with a large question and narrows to a very specific one that can be answered once you know more about what data is available to answer the question and how it can be analyzed. If you're undecided at this point in the semester what question you'll propose to answer, describe ones that cluster around the same topic for this assignment.
+
+For example, I'm interested in understanding **the relationship between needle aversion and COVID vaccination rates**. I think that the language and imagery used to encourage vaccination is having the opposite effect. Nearly every advertisement or news segment about COVID vaccination shows a needle going in an arm (up close!) and uses language like "get the shot" or "jab," which evokes negative feelings in most people (e.g., like going to the dentist or booster shots as a child). For those who also have fears that the vaccination is risky, these images and words reduce the likelihood that they'll get a vaccine. I hypothesize that the ubiquity and volume of this imagery on TV and social media (big data) is reinforcing needle aversion to an extent that it's driving down vaccination rates. So, my research question is **"Has intense exposure to imagery and language of needles decreased COVID vaccination rates in the United States?"** If a relationship exists, removing needle imagery and language from mass media could improve vaccination compliance and lower the threat of COVID to public health.
+
+## II. Collect Data
+
+*Describe the big data that's available to answer your research question, its source, and its format. Describe how it meets the characteristics of big data, and how you plan to access it.*
+
+## III. Data Workshops
+
+*List the workshops you plan to complete by the end of the semester to build your data knowledge and skills to develop a big data project. For each workshop, describe:*
+
+-   Title and purpose
+
+-   Length/duration
+
+-   Organization providing the training
+
+-   Link to the training
+
+-   Date(s) you plan to attend/do the training
+
+-   Where it fits in the data science cycle
+
+-   How it will enhance your data knowledge and/or skills
+
+## IV. Certification
+
+*Describe how will you certify completion of each workshop. (Make sure that the badge(s) or certification(s) you may earn will be available to post to iCollege by December 14.)*

@@ -91,21 +91,78 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="../syllabus.html"> 
 <span class="menu-text">Syllabus</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link active" href="../modules/module1.html" aria-current="page"> 
-<span class="menu-text">Modules</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-modules" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Modules</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-modules">    
+        <li>
+    <a class="dropdown-item" href="../modules/module1.html">
+ <span class="dropdown-text">Module 1 - Introduction to Big Data</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../discussions/module1.html"> 
-<span class="menu-text">Discussions</span></a>
+        <li>
+    <a class="dropdown-item" href="../modules/module2.html">
+ <span class="dropdown-text">Module 2 - Types of Big Data</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../assignments/project_proposal.html"> 
-<span class="menu-text">Assignments</span></a>
+        <li>
+    <a class="dropdown-item" href="../modules/module3.html">
+ <span class="dropdown-text">Module 3 - Discovery &amp; Insights</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="../modules/module4.html">
+ <span class="dropdown-text">Module 4 - Bias in Big Data</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../modules/module5qmd">
+ <span class="dropdown-text">Module 5 - Data Privacy &amp; Stewardship</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../modules/module6.html">
+ <span class="dropdown-text">Module 6 - Course Conclusion</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-assignments" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Assignments</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-assignments">    
+        <li>
+    <a class="dropdown-item" href="../discussions/module1.html">
+ <span class="dropdown-text">Discussions</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../assignments/lab1.html">
+ <span class="dropdown-text">Labs</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../assignments/data-certification-plan.html">
+ <span class="dropdown-text">Data Certification</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../assignments/project_proposal.html">
+ <span class="dropdown-text">Big Data Project Proposal</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-resources" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Resources</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-resources">    
+        <li>
+    <a class="dropdown-item" href="../resources/rubrics-written.html">
+ <span class="dropdown-text">Rubrics</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../resources/grade-policy.html">
+ <span class="dropdown-text">Grade and Policies</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
-    <a class="nav-link" href="../resources.html"> 
-<span class="menu-text">Resources</span></a>
+    <a class="nav-link" href="../about.html"> 
+<span class="menu-text">About</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -184,6 +241,12 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#read" id="toc-read" class="nav-link" data-scroll-target="#read">Read</a></li>
   <li><a href="#prepare" id="toc-prepare" class="nav-link" data-scroll-target="#prepare">Prepare</a></li>
   <li><a href="#attend" id="toc-attend" class="nav-link" data-scroll-target="#attend">Attend</a></li>
+  <li><a href="#big-data-and-you" id="toc-big-data-and-you" class="nav-link" data-scroll-target="#big-data-and-you">1. 3 Big Data and You</a></li>
+  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"></a></li>
+  <li><a href="#read-1" id="toc-read-1" class="nav-link" data-scroll-target="#read-1">Read</a></li>
+  <li><a href="#watch" id="toc-watch" class="nav-link" data-scroll-target="#watch">Watch</a></li>
+  <li><a href="#complete" id="toc-complete" class="nav-link" data-scroll-target="#complete">Complete</a></li>
+  <li><a href="#the-challenges-of-big-data" id="toc-the-challenges-of-big-data" class="nav-link" data-scroll-target="#the-challenges-of-big-data">1. 4 The Challenges of Big Data</a></li>
   </ul>
 </nav>
     </div>
@@ -225,15 +288,15 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>1.2 Discussion</td>
-<td></td>
+<td>1/17</td>
 </tr>
 <tr class="even">
 <td>1.3 Data Certification Plan</td>
-<td></td>
+<td>1/24</td>
 </tr>
 <tr class="odd">
 <td>1.4 Discussion</td>
-<td></td>
+<td>1/31</td>
 </tr>
 </tbody>
 </table>
@@ -267,6 +330,62 @@ ul.task-list li input[type="checkbox"] {
 <section id="attend" class="level2">
 <h2 class="anchored" data-anchor-id="attend">Attend</h2>
 <p>In person discussion, 1/17 at 4:30-5:30pm</p>
+</section>
+<section id="big-data-and-you" class="level2">
+<h2 class="anchored" data-anchor-id="big-data-and-you">1. 3 Big Data and You</h2>
+</section>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"></h2>
+<table class="table">
+<colgroup>
+<col style="width: 44%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><h3 id="find-your-inner-data-geek" class="anchored">Find Your Inner Data Geek</h3></td>
+</tr>
+</tbody>
+</table>
+<table class="table">
+<colgroup>
+<col style="width: 100%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><blockquote class="blockquote">
+<p>Now that you know the characteristics of big data and some of their applications to the public sector, it’s time to consider how they serve your field of interest. Whether you plan to be a data scientist or work with a team of them, you need to understand how big data are collected, analyzed, and communicated. This module starts with an overview of data science to learn the steps in the life cycle of a big data project. It ends with you developing a plan to earn a data certification that exposes you to the tools and techniques of stages in the data science life cycle that fit your skill needs.</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="read-1" class="level2">
+<h2 class="anchored" data-anchor-id="read-1">Read</h2>
+<ol type="1">
+<li><p><a href="https://towardsdatascience.com/the-data-science-process-a19eb7ebc41b">The Data Science Process: A Visual Guide to Standard Procedures in Data Science</a>&nbsp;by Chanin Nantasenamat</p></li>
+<li><p><a href="https://hilaryparker.com/2013/01/30/hilary-the-most-poisoned-baby-name-in-us-history/">Hilary: the most poisoned baby name in US history</a> by Hilary Parker</p></li>
+</ol>
+</section>
+<section id="watch" class="level2">
+<h2 class="anchored" data-anchor-id="watch">Watch</h2>
+<ol type="1">
+<li><a href="https://www.youtube.com/watch?v=4OZip0cgOho">How I Would Learn Data Science (If I Had to Start Over)</a> by Ken Jee</li>
+</ol>
+</section>
+<section id="complete" class="level2">
+<h2 class="anchored" data-anchor-id="complete">Complete</h2>
+<p>This week you’ll spend most of your time creating a data certification plan. This assignment requires that you identify a research question and develop a plan to complete workshops over the semester that will expose you to the data science knowledge and skills needed to develop a big data project. By the end of the semester, you’ll submit a proposal that describes how you can answer the research question using big data and data science techniques.</p>
+<p>You will turn in this plan as your “discussion” this week. But don’t wait until class day to start this assignment. Formulating a good research question takes time, and if you’re struggling with how to use big data in a project that interests you then you need to give me time to help you. Reach out by email to set up a time to talk or post questions to the <a href="https://gastate.view.usg.edu/d2l/common/dialogs/quickLink/quickLink.d2l?ou=2797662&amp;type=discuss&amp;rcode=usgx-13138904">Class Q &amp; A</a> discussion board.&nbsp;</p>
+<ul>
+<li><p>Download the <a href="assignments/data-certification-plan.qmd">instructions for the data certification plan</a>.</p></li>
+<li><p>If you need some inspiration, <a href="https://towardsdatascience.com/12-cool-data-science-projects-ideas-for-beginners-and-experts-fc75b5498e03">check out this web blog</a>. Or Google “big data and X (your field).” It’s also a good idea to look at some academic journals in your field to see how the techniques of data science are being applied.&nbsp;</p></li>
+<li><p>Write me an email or set up a time to talk if you need help.</p></li>
+<li><p>Submit your data certification plan to the “1.3 Data Certification” assignment folder.</p></li>
+</ul>
+<p><strong>Due by:</strong> 11/24 at 11:59pm</p>
+</section>
+<section id="the-challenges-of-big-data" class="level2">
+<h2 class="anchored" data-anchor-id="the-challenges-of-big-data">1. 4 The Challenges of Big Data</h2>
 
 
 </section>
