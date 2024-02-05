@@ -2,6 +2,7 @@
 title: "Welcome to Big Data for Public Good!"
 subtitle: "Open course materials by Andrew Young School of Policy Studies Georgia State University"
 ---
+
 # Overview
 
 Public and nonprofit agencies are beginning to unlock the potential of large-scale data to improve service delivery and inform policy. Computational tools capable of making productive use of big data have proliferated in recent years, drastically decreasing the barriers to entry for these applications. This course explores the practice of using data to improve decision-making and evaluation, including techniques for data collection, analysis, and behavior change. You will learn about the opportunities and challenges of big data and devise a plan to apply them to areas of personal interest within the public sector.
