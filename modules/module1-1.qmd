@@ -1,0 +1,98 @@
+---
+title: "Module 1 - Introduction to Big Data"
+editor: visual
+---
+
+## Module Overview
+
+This module introduces you to the opportunities and challenges of big data for the public sector. You'll learn the characteristics that define big data and begin to think about how to apply it to your own field of study.
+
+
+## Content
+
+| Sections        | Due Date |
+|-----------------------------|----------|
+| 1.1 Discussion              | 1/17     |
+| 1.2 Data Certification Plan | 1/24     |
+| 1.3 Discussion              | 1/31     |
+
+
+## Assignments
+
+| Assignments        | Due Date |
+|-----------------------------|----------|
+| 1.1 Discussion              | 1/17     |
+| 1.2 Data Certification Plan | 1/24     |
+| 1.3 Discussion              | 1/31     |
+
+## 1. 2 The Value of Big Data
+
+This module introduces you to the opportunities and challenges of big data for the public sector. You'll learn the characteristics that define big data and begin to think about how to apply it to your own field of study.
+
+## Transforming Information to Ideas
+
+This week we'll explore the characteristics of big data and its value to the public sector.
+
+## Read
+
+1.  Desouza & Smith, [Big Data for Social Innovation](https://gastate.view.usg.edu/content/enforced2/2797662-UR_csearcy_07/Files_Module%201/Desouza_Smith_Big_Data_for_Social_Innovation.pdf?_&d2lSessionVal=tsNzx3Ovvtpcdu9pGb63DMVZg&ou=2797662), *Stanford Social Innovation Review*, Summer 2014.
+
+2.  World Bank Group, [Big Data in Action for Government](https://gastate.view.usg.edu/content/enforced2/2797662-UR_csearcy_07/Files_Module%201/World_Bank_WGSBigDataGovernmentFinal.pdf?_&d2lSessionVal=tsNzx3Ovvtpcdu9pGb63DMVZg&ou=2797662), World Bank Governance Practice, 2017.
+
+3.  Meier, P., [Digital Humanitarians, Chapter 1](https://gastate.view.usg.edu/content/enforced2/2797662-UR_csearcy_07/Files_Module%201/Meier_Ch1.pdf?_&d2lSessionVal=tsNzx3Ovvtpcdu9pGb63DMVZg&ou=2797662), CRC Press, 2015.
+
+4.  Pentland, A. [Social Physics, Chapter 1](https://gastate.view.usg.edu/content/enforced2/2797662-UR_csearcy_07/Files_Module%201/Pentland_Ch1.pdf?_&d2lSessionVal=tsNzx3Ovvtpcdu9pGb63DMVZg&ou=2797662), Penguin Group, 2015.
+
+## Prepare
+
+Please prepare to discuss your thoughts on the following prompts:
+
+1.  Describe two characteristics of big data and how they apply to data produced or are used by your field of interest.
+
+2.  Describe ideas or practices in this week's readings that you had not considered before.
+
+3.  What claims about social physics do you find valid? In what ways would you challenge Pentland's "promise" of social physics?
+
+## Attend
+
+In person discussion, 1/17 at 4:30-5:30pm
+
+## 1. 3 Big Data and You
+
+## 
+
++:-----------------------------:+
+| ### Find Your Inner Data Geek |
++-------------------------------+
+
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| > Now that you know the characteristics of big data and some of their applications to the public sector, it's time to consider how they serve your field of interest. Whether you plan to be a data scientist or work with a team of them, you need to understand how big data are collected, analyzed, and communicated. This module starts with an overview of data science to learn the steps in the life cycle of a big data project. It ends with you developing a plan to earn a data certification that exposes you to the tools and techniques of stages in the data science life cycle that fit your skill needs. |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+## Read
+
+1.  [The Data Science Process: A Visual Guide to Standard Procedures in Data Science](https://towardsdatascience.com/the-data-science-process-a19eb7ebc41b) by Chanin Nantasenamat
+
+2.  [Hilary: the most poisoned baby name in US history](https://hilaryparker.com/2013/01/30/hilary-the-most-poisoned-baby-name-in-us-history/) by Hilary Parker
+
+## Watch
+
+1.  [How I Would Learn Data Science (If I Had to Start Over)](https://www.youtube.com/watch?v=4OZip0cgOho) by Ken Jee
+
+## Complete
+
+This week you'll spend most of your time creating a data certification plan. This assignment requires that you identify a research question and develop a plan to complete workshops over the semester that will expose you to the data science knowledge and skills needed to develop a big data project. By the end of the semester, you'll submit a proposal that describes how you can answer the research question using big data and data science techniques.
+
+You will turn in this plan as your "discussion" this week. But don't wait until class day to start this assignment. Formulating a good research question takes time, and if you're struggling with how to use big data in a project that interests you then you need to give me time to help you. Reach out by email to set up a time to talk or post questions to the [Class Q & A](https://gastate.view.usg.edu/d2l/common/dialogs/quickLink/quickLink.d2l?ou=2797662&type=discuss&rcode=usgx-13138904) discussion board. 
+
+-   Download the [instructions for the data certification plan](assignments/data-certification-plan.qmd).
+
+-   If you need some inspiration, [check out this web blog](https://towardsdatascience.com/12-cool-data-science-projects-ideas-for-beginners-and-experts-fc75b5498e03). Or Google "big data and X (your field)." It's also a good idea to look at some academic journals in your field to see how the techniques of data science are being applied. 
+
+-   Write me an email or set up a time to talk if you need help.
+
+-   Submit your data certification plan to the "1.3 Data Certification" assignment folder.
+
+**Due by:** 11/24 at 11:59pm
+
+## 1. 4 The Challenges of Big Data
