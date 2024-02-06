@@ -70,7 +70,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../styles.css">
 </head>
 
-<body class="nav-sidebar docked nav-fixed">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -91,18 +91,57 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="../syllabus.html"> 
 <span class="menu-text">Syllabus</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link active" href="../modules/module1.html" aria-current="page"> 
-<span class="menu-text">Modules</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-modules" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Modules</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-modules">    
+        <li>
+    <a class="dropdown-item" href="../modules/module1/module1.html">
+ <span class="dropdown-text">Module 1 - Introduction to Big Data</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="../modules/module2.html">
+ <span class="dropdown-text">Module 2 - Types of Big Data</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../modules/module3.html">
+ <span class="dropdown-text">Module 3 - Discovery &amp; Insights</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../modules/module4.html">
+ <span class="dropdown-text">Module 4 - Bias in Big Data</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../modules/module5qmd">
+ <span class="dropdown-text">Module 5 - Data Privacy &amp; Stewardship</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../modules/module6.html">
+ <span class="dropdown-text">Module 6 - Course Conclusion</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-assignments" role="button" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Assignments</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-assignments">    
         <li>
-    <a class="dropdown-item" href="../discussions/general.qmd">
+    <a class="dropdown-item" href="../discussions/module1.html">
  <span class="dropdown-text">Discussions</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../assignments/lab1.html">
+ <span class="dropdown-text">Labs</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../assignments/data-certification-plan.html">
+ <span class="dropdown-text">Data Certification</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../assignments/project_proposal.html">
+ <span class="dropdown-text">Big Data Project Proposal</span></a>
   </li>  
     </ul>
   </li>
@@ -113,11 +152,11 @@ ul.task-list li input[type="checkbox"] {
     <ul class="dropdown-menu" aria-labelledby="nav-menu-resources">    
         <li>
     <a class="dropdown-item" href="../resources/rubrics-written.html">
- <span class="dropdown-text">rubrics</span></a>
+ <span class="dropdown-text">Rubrics</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../resources/data-certification-plan.html">
- <span class="dropdown-text">assignment guidance</span></a>
+    <a class="dropdown-item" href="../resources/grade-policy.html">
+ <span class="dropdown-text">Grade and Policies</span></a>
   </li>  
     </ul>
   </li>
@@ -132,63 +171,10 @@ ul.task-list li input[type="checkbox"] {
 </div>
       </div> <!-- /container-fluid -->
     </nav>
-  <nav class="quarto-secondary-nav">
-    <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-        <i class="bi bi-layout-text-sidebar-reverse"></i>
-      </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../modules/module2.html">Module 2 - Types of Big Data</a></li></ol></nav>
-        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-        </a>
-    </div>
-  </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
-    <div class="sidebar-menu-container"> 
-    <ul class="list-unstyled mt-1">
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../modules/module1.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Module 1 - Introduction to Big Data</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../modules/module2.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Module 2 - Types of Big Data</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../modules/module3.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Module 3 - Discovery &amp; Insights</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../modules/module4.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Module 4 - Bias in Big Data</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../modules/module5.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Module 5 - Data Privacy &amp; Stewardship</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../modules/module6.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Module 6 - Course Conclusion</span></a>
-  </div>
-</li>
-    </ul>
-    </div>
-</nav>
-<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         

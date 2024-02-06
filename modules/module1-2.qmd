@@ -1,5 +1,5 @@
 ---
-title: "Module 1 - Introduction to Big Data"
+title: "1.2 Big Data and You"
 editor: visual
 ---
 

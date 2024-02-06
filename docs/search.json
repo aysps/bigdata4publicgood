@@ -208,18 +208,15 @@
     "objectID": "modules/module1.html#module-overview",
     "href": "modules/module1.html#module-overview",
     "title": "Module 1 - Introduction to Big Data",
-    "section": "",
-    "text": "This module introduces you to the opportunities and challenges of big data for the public sector. You’ll learn the characteristics that define big data and begin to think about how to apply it to your own field of study.",
-    "crumbs": [
-      "Module 1 - Introduction to Big Data"
-    ]
+    "section": "Module Overview",
+    "text": "Module Overview\nThis module introduces you to the opportunities and challenges of big data for the public sector. You’ll learn the characteristics that define big data and begin to think about how to apply it to your own field of study."
   },
   {
     "objectID": "modules/module1.html#assignments",
     "href": "modules/module1.html#assignments",
     "title": "Module 1 - Introduction to Big Data",
     "section": "Assignments",
-    "text": "Assignments\n\n\n\nSection & Assignment\nDue Date\n\n\n\n\n1.2 Discussion\n1/17\n\n\n1.3 Data Certification Plan\n1/24\n\n\n1.4 Discussion\n1/31",
+    "text": "Assignments\n\n\n\nAssignments\nDue Date\n\n\n\n\n1.1 Discussion\n1/17\n\n\n1.2 Data Certification Plan\n1/24\n\n\n1.3 Discussion\n1/31",
     "crumbs": [
       "Module 1 - Introduction to Big Data"
     ]
@@ -357,7 +354,7 @@
     "href": "resources/rubrics-written.html",
     "title": "Written Assignment Rubrics",
     "section": "",
-    "text": "Rubric Name: Grading Rubric_Writing Assignment",
+    "text": "Rubric Name: Grading Rubric_Written Assignment\n\n\n\n\n\n\n\n\n\n\nCriteria\nAdvanced\nProficient\nDeveloping\nInsufficient\n\n\nAssignment Specific Grading Items\n40 points\nAssignment instructions are followed.\nRequired items and formatting are addressed comprehensively and accurately.\n35 points\nAssignment instructions are mostly followed.\nRequired items and formatting are addressed accurately.\n30 points\nAssignment instructions largely are not followed or don't address many requirements.\n20 points\nAssignment instructions are not followed or attempts are largely inaccurate.\n\n\nCritical Analysis (Understanding of Topic)\n40 points\nContent displays excellent comprehension, application, and/or analysis of the topic and underlying concepts.\nIncludes correct use of terminology.\n35 points\nContent presents basic comprehension, application, and/or analysis of the topic and underlying concepts.\nIncludes correct use of terminology.\n30 points\nContent presents little to no comprehension, application, and/or analysis of the topic and underlying concepts.\nIncludes incorrect use of terminology.\n20 points\nContent presents no comprehension, application, and/or analysis of the topic and underlying concepts.\nIntegrates no relevant evidence to support important points.\n\n\nWriting & Clarity\n20 points\nWriting is clear, well-written and free of grammatical and spelling mistakes. Required citations are included and correct.\n15 points\nWriting is clear, with a few grammatical and spelling mistakes. Required citations are included and correct.\n10 points\nWriting is clear but there are many spelling and grammatical mistakes. Required citations are incorrect or some are missing.\n5 points\nWriting is unclear or diff",
     "crumbs": [
       "Written Assignment Rubrics"
     ]
@@ -573,7 +570,7 @@
     "href": "resources/grade-policy.html",
     "title": "Assignment Grade and Policies",
     "section": "",
-    "text": "(Based on a Spring semester calendar)\n\n\n\n\nAssignments\n\n\n\n\n\n\nDiscussions (30%)\n\nDiscussions will be in person or online, depending on the week.\nOnline posts are due by 11:59pm on Mondays.\nYour grade is based on completing 15 discussions.\n\n\n\nLabs (20%)\n\nThe course includes four labs that ask you to think critically about big data and its characteristics. The labs are largely non-technical.\nYou are expected to complete all four labs by their due dates. Each lab is worth 5% of your final grade.\n\n\n\nData Certification (20%)\n\nAppreciation of big data includes knowing how to use it. Although this isn’t a technical course, you are required to build competency in data tools that fit your interests and need for future work.\nYou will curate a series of five data courses via GSU’s Research Data Services or an online learning platform to earn a data certification. Ideally these courses help you to develop the big data project proposal that is the final assessment for this course.\nYou must complete all five data courses to earn a certification and credit for this assessment.\n\n\n\nBig Data Project Proposal (30%)\n\nThroughout the course you will use the data science process to design a big data project of interest to you. It will start with asking an interesting question and culminate in developing a model using big data to answer the question.\nAs you’ll learn, big data projects are tedious and take time to conduct responsibly. This assessment asks you to design a project, not implement it.\nAs a proposal, you will design the big data project in stages throughout the semester as we cover them in class. Most of the stages will be shared for instructor feedback prior to the due date of the final proposal.\nYou will complete a proposal and present it to me as the final for the course. The paper and PPT will compose 30% of your final grade.\n\n\n\n\n\n\n\n\nPolicies\n\n\n\n\n\n\nLate Assignments\n\nNo unexcused late assignments will be accepted without penalty. All deadlines will be posted on iCollege.\nIf you anticipate missing assignment deadline due to a university approved reason, please write me an email ASAP. Excused absences/missed work include legal obligations (jury duty, military orders); religious obligation; death or illness of a student’s immediate family; and illness that is too severe or contagious to attend class/do classwork. All excused absences require written documentation from an authoritative source verifying the absence by date and reason.\n\n\n\nWithdrawal Policy\n\nLast day to withdraw from this class is February 28, 20xx.\nStudents who withdraw after the midpoint of each term will not be eligible for a “W” except in cases of Emergency Withdrawal.\nImportant University dates can be found at https://registrar.gsu.edu/registration/semester-calendars-exam-schedules/\n\n\n\nPolicy on Academic Honesty\n\nReview GSU’s policy about cheating, plagiarism, and the repercussions if you do not operate with academic honesty. Note: Lack of knowledge of this policy is not an acceptable defense to any charge of academic dishonesty.\n\n\n\nStudent Code of Conduct\n\nReview the following at the link to the Student Code of Conduct:\n\nStudent Rights and Obligations\nGeneral Conduct Policies and Procedures\nAcademic Conduct Policies and Procedures\nAdministrative Policies"
+    "text": "(Based on a Fall semester calendar)\n\n\n\n\nAssignments\n\n\n\n\n\n\nDiscussions (30%)\n\nDiscussions posts involve your critical assessments of course content. As an asynchronous class at the graduate level, my expectations for their quality are high.\n\n\n\nLabs (20%)\n\nThe course includes four labs that ask you to think critically about big data and its characteristics. The labs are largely non-technical.\nYou are expected to complete all four labs by their due dates. Each lab is worth 5% of your final grade.\n\n\n\nData Certification (20%)\n\nAppreciation of big data includes knowing how to use it. Although this isn’t a technical course, you are required to build competency in data tools that fit your interests and need for future work.\nYou will curate a series of five data courses via GSU’s Research Data Services or an online learning platform to earn a data certification. Ideally these courses help you to develop the big data project proposal that is the final assessment for this course.\nYou must complete all five data courses to earn a certification and credit for this assessment.\n\n\n\nBig Data Project Proposal (30%)\n\nThroughout the course you will use the data science process to design a big data project of interest to you. It will start with asking an interesting question and culminate in developing a model using big data to answer the question.\nAs you’ll learn, big data projects are tedious and take time to conduct responsibly. This assessment asks you to design a project, not implement it.\nAs a proposal, you will design the big data project in stages throughout the semester as we cover them in class. Most of the stages will be shared with the class through online discussion posts for peer and instructor feedback.\nYou will complete a proposal of at least five pages, which is worth 30% of your final grade.\n\n\n\n\n\n\n\n\nPolicies\n\n\n\n\n\n\nLate Assignments\n\nNo unexcused late assignments will be accepted without penalty. All deadlines will be posted on iCollege.\nIf you anticipate missing assignment deadline due to a university approved reason, please write me an email ASAP. Excused absences/missed work include legal obligations (jury duty, military orders); religious obligation; death or illness of a student’s immediate family; and illness that is too severe or contagious to attend class/do classwork. All excused absences require written documentation from an authoritative source verifying the absence by date and reason.\n\n\n\nWithdrawal Policy\n\nLast day to withdraw from this class is February 28, 20xx.\nStudents who withdraw after the midpoint of each term will not be eligible for a “W” except in cases of Emergency Withdrawal.\nImportant University dates can be found at https://registrar.gsu.edu/registration/semester-calendars-exam-schedules/\n\n\n\nPolicy on Academic Honesty\n\nReview GSU’s policy about cheating, plagiarism, and the repercussions if you do not operate with academic honesty. Note: Lack of knowledge of this policy is not an acceptable defense to any charge of academic dishonesty.\n\n\n\nStudent Code of Conduct\n\nReview the following at the link to the Student Code of Conduct:\n\nStudent Rights and Obligations\nGeneral Conduct Policies and Procedures\nAcademic Conduct Policies and Procedures\nAdministrative Policies"
   },
   {
     "objectID": "assignments/data-certification-plan.html",
@@ -634,9 +631,9 @@
   {
     "objectID": "resources/rubrics-discussion.html",
     "href": "resources/rubrics-discussion.html",
-    "title": "Discussion Posts Rubrics",
+    "title": "Discussion Rubrics",
     "section": "",
-    "text": "Criteria\nAdvanced\nProficient\nDeveloping\nEmerging\nCriterion Score\n\n\nAssignment Specific Grading Items\n5 points\nAssignment questions and required items are addressed comprehensively, accurately and specifically. Offers strong support for arguments or points.\n4 points\nMost questions and requirements are addressed accurately and specifically. Support for arguments or points may be weak.\n3 points\nMissing answers to questions or doesn't address many requirements. Support for arguments or points is weak.\n2 points\nDoes not address questions or requirements, or attempts are largely inaccurate.\nScore of Assignment Specific Grading Items,\n/ 5\n\n\nCritical Analysis (Understanding of Topic)\n10 points\nWriting displays an excellent understanding of the required readings and underlying concepts including correct use of terminology. Integrates lectures, readings, or relevant research, or specific real-life application (work experience, prior coursework, etc.) to support important points.\n8 points\nWriting repeats and summarizes basic, correct information, but does not apply enough lectures, readings, or relevant research or specific real-life applications\n6 points\nWriting shows little or no evidence that class lectures and readings were understood. Writings are largely personal opinions or feelings, or “I agree” or “Great idea,” without supporting statements with concepts from the readings, outside resources, relevant research, or specific real-life application.\n4 points\nWriting lacks evidence of critical analysis, and poor use of supportive evidence.\nScore of Critical Analysis (Understanding of Topic),\n/ 10\n\n\nWriting & Clarity\n5 points\nAnswers are clear, well-written and free of grammatical and spelling mistakes. No errors in APA style. Scholarly style. Cites all data obtained from other sources. APA citation style is used in both text and/or bibliography.\n4 points\nAnswers are clear, a few small grammatical and spelling mistakes. Rare errors in APA style that do not detract from the paper. Scholarly style. Cites most data obtained from other sources.\n3 points\nAnswers are clear but there are many spelling and grammatical mistakes. Errors in APA style are noticeable. Cites some data obtained from other sources. Citation style is either inconsistent or incorrect.\n2 points\nAnswers are unclear or difficult to understand, and/or there are many spelling and grammatical mistakes. Errors in APA style detracts substantially from the paper. Word choice is informal in tone. Does not cite sources.\nScore of Writing & Clarity,\n/ 5\n\n\n\nTotal Score of Grading Rubric_Discussion Posts, / 20",
+    "text": "Criteria\nAdvanced\nProficient\nDeveloping\nEmerging\n\n\nAssignment Specific Grading Items\n5 points\nAssignment questions and required items are addressed comprehensively, accurately and specifically. Offers strong support for arguments or points.\n4 points\nMost questions and requirements are addressed accurately and specifically. Support for arguments or points may be weak.\n3 points\nMissing answers to questions or doesn’t address many requirements. Support for arguments or points is weak.\n2 points\nDoes not address questions or requirements, or attempts are largely inaccurate.\n\n\nCritical Analysis (Understanding of Topic)\n10 points\nWriting displays an excellent understanding of the required readings and underlying concepts including correct use of terminology. Integrates lectures, readings, or relevant research, or specific real-life application (work experience, prior coursework, etc.) to support important points.\n8 points\nWriting repeats and summarizes basic, correct information, but does not apply enough lectures, readings, or relevant research or specific real-life applications\n6 points\nWriting shows little or no evidence that class lectures and readings were understood. Writings are largely personal opinions or feelings, or “I agree” or “Great idea,” without supporting statements with concepts from the readings, outside resources, relevant research, or specific real-life application.\n4 points\nWriting lacks evidence of critical analysis, and poor use of supportive evidence.\n\n\nWriting & Clarity\n5 points\nAnswers are clear, well-written and free of grammatical and spelling mistakes. No errors in APA style. Scholarly style. Cites all data obtained from other sources. APA citation style is used in both text and/or bibliography.\n4 points\nAnswers are clear, a few small grammatical and spelling mistakes. Rare errors in APA style that do not detract from the paper. Scholarly style. Cites most data obtained from other sources.\n3 points\nAnswers are clear but there are many spelling and grammatical mistakes. Errors in APA style are noticeable. Cites some data obtained from other sources. Citation style is either inconsistent or incorrect.\n2 points\nAnswers are unclear or difficult to understand, and/or there are many spelling and grammatical mistakes. Errors in APA style detracts substantially from the paper. Word choice is informal in tone. Does not cite sources.\n\n\n\nTotal Score of Grading Rubric_Discussion Posts, / 20",
     "crumbs": [
       "Discussion Posts Rubrics"
     ]
@@ -659,6 +656,778 @@
     "text": "1. 4 The Challenges of Big Data",
     "crumbs": [
       "Module 1 - Introduction to Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1-3.html",
+    "href": "modules/module1-3.html",
+    "title": "1.3 The Challenges of Big Data",
+    "section": "",
+    "text": "This module introduces you to the opportunities and challenges of big data for the public sector. You’ll learn the characteristics that define big data and begin to think about how to apply it to your own field of study."
+  },
+  {
+    "objectID": "modules/module1-3.html#module-overview",
+    "href": "modules/module1-3.html#module-overview",
+    "title": "1.3 The Challenges of Big Data",
+    "section": "",
+    "text": "This module introduces you to the opportunities and challenges of big data for the public sector. You’ll learn the characteristics that define big data and begin to think about how to apply it to your own field of study."
+  },
+  {
+    "objectID": "modules/module1-3.html#assignments",
+    "href": "modules/module1-3.html#assignments",
+    "title": "1.3 The Challenges of Big Data",
+    "section": "Assignments",
+    "text": "Assignments\n\n\n\nSection & Assignment\nDue Date\n\n\n\n\n1.2 Discussion\n1/17\n\n\n1.3 Data Certification Plan\n1/24\n\n\n1.4 Discussion\n1/31"
+  },
+  {
+    "objectID": "modules/module1-3.html#the-value-of-big-data",
+    "href": "modules/module1-3.html#the-value-of-big-data",
+    "title": "1.3 The Challenges of Big Data",
+    "section": "1. 2 The Value of Big Data",
+    "text": "1. 2 The Value of Big Data\nThis module introduces you to the opportunities and challenges of big data for the public sector. You’ll learn the characteristics that define big data and begin to think about how to apply it to your own field of study."
+  },
+  {
+    "objectID": "modules/module1-3.html#transforming-information-to-ideas",
+    "href": "modules/module1-3.html#transforming-information-to-ideas",
+    "title": "1.3 The Challenges of Big Data",
+    "section": "Transforming Information to Ideas",
+    "text": "Transforming Information to Ideas\nThis week we’ll explore the characteristics of big data and its value to the public sector."
+  },
+  {
+    "objectID": "modules/module1-3.html#read",
+    "href": "modules/module1-3.html#read",
+    "title": "1.3 The Challenges of Big Data",
+    "section": "Read",
+    "text": "Read\n\nDesouza & Smith, Big Data for Social Innovation, Stanford Social Innovation Review, Summer 2014.\nWorld Bank Group, Big Data in Action for Government, World Bank Governance Practice, 2017.\nMeier, P., Digital Humanitarians, Chapter 1, CRC Press, 2015.\nPentland, A. Social Physics, Chapter 1, Penguin Group, 2015."
+  },
+  {
+    "objectID": "modules/module1-3.html#prepare",
+    "href": "modules/module1-3.html#prepare",
+    "title": "1.3 The Challenges of Big Data",
+    "section": "Prepare",
+    "text": "Prepare\nPlease prepare to discuss your thoughts on the following prompts:\n\nDescribe two characteristics of big data and how they apply to data produced or are used by your field of interest.\nDescribe ideas or practices in this week’s readings that you had not considered before.\nWhat claims about social physics do you find valid? In what ways would you challenge Pentland’s “promise” of social physics?"
+  },
+  {
+    "objectID": "modules/module1-3.html#attend",
+    "href": "modules/module1-3.html#attend",
+    "title": "1.3 The Challenges of Big Data",
+    "section": "Attend",
+    "text": "Attend\nIn person discussion, 1/17 at 4:30-5:30pm"
+  },
+  {
+    "objectID": "modules/module1-3.html#big-data-and-you",
+    "href": "modules/module1-3.html#big-data-and-you",
+    "title": "1.3 The Challenges of Big Data",
+    "section": "1. 3 Big Data and You",
+    "text": "1. 3 Big Data and You"
+  },
+  {
+    "objectID": "modules/module1-3.html#section",
+    "href": "modules/module1-3.html#section",
+    "title": "1.3 The Challenges of Big Data",
+    "section": "",
+    "text": "Find Your Inner Data Geek\n\n\n\n\n\n\n\n\n\n\nNow that you know the characteristics of big data and some of their applications to the public sector, it’s time to consider how they serve your field of interest. Whether you plan to be a data scientist or work with a team of them, you need to understand how big data are collected, analyzed, and communicated. This module starts with an overview of data science to learn the steps in the life cycle of a big data project. It ends with you developing a plan to earn a data certification that exposes you to the tools and techniques of stages in the data science life cycle that fit your skill needs."
+  },
+  {
+    "objectID": "modules/module1-3.html#read-1",
+    "href": "modules/module1-3.html#read-1",
+    "title": "1.3 The Challenges of Big Data",
+    "section": "Read",
+    "text": "Read\n\nThe Data Science Process: A Visual Guide to Standard Procedures in Data Science by Chanin Nantasenamat\nHilary: the most poisoned baby name in US history by Hilary Parker"
+  },
+  {
+    "objectID": "modules/module1-3.html#watch",
+    "href": "modules/module1-3.html#watch",
+    "title": "1.3 The Challenges of Big Data",
+    "section": "Watch",
+    "text": "Watch\n\nHow I Would Learn Data Science (If I Had to Start Over) by Ken Jee"
+  },
+  {
+    "objectID": "modules/module1-3.html#complete",
+    "href": "modules/module1-3.html#complete",
+    "title": "1.3 The Challenges of Big Data",
+    "section": "Complete",
+    "text": "Complete\nThis week you’ll spend most of your time creating a data certification plan. This assignment requires that you identify a research question and develop a plan to complete workshops over the semester that will expose you to the data science knowledge and skills needed to develop a big data project. By the end of the semester, you’ll submit a proposal that describes how you can answer the research question using big data and data science techniques.\nYou will turn in this plan as your “discussion” this week. But don’t wait until class day to start this assignment. Formulating a good research question takes time, and if you’re struggling with how to use big data in a project that interests you then you need to give me time to help you. Reach out by email to set up a time to talk or post questions to the Class Q & A discussion board. \n\nDownload the instructions for the data certification plan.\nIf you need some inspiration, check out this web blog. Or Google “big data and X (your field).” It’s also a good idea to look at some academic journals in your field to see how the techniques of data science are being applied. \nWrite me an email or set up a time to talk if you need help.\nSubmit your data certification plan to the “1.3 Data Certification” assignment folder.\n\nDue by: 11/24 at 11:59pm"
+  },
+  {
+    "objectID": "modules/module1-3.html#the-challenges-of-big-data",
+    "href": "modules/module1-3.html#the-challenges-of-big-data",
+    "title": "1.3 The Challenges of Big Data",
+    "section": "1. 4 The Challenges of Big Data",
+    "text": "1. 4 The Challenges of Big Data"
+  },
+  {
+    "objectID": "modules/module1-1.html",
+    "href": "modules/module1-1.html",
+    "title": "1.1 The Value of Big Data",
+    "section": "",
+    "text": "This module introduces you to the opportunities and challenges of big data for the public sector. You’ll learn the characteristics that define big data and begin to think about how to apply it to your own field of study.",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "1.1  The Value of Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1-1.html#module-overview",
+    "href": "modules/module1-1.html#module-overview",
+    "title": "1.1 The Value of Big Data",
+    "section": "",
+    "text": "This module introduces you to the opportunities and challenges of big data for the public sector. You’ll learn the characteristics that define big data and begin to think about how to apply it to your own field of study.",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "1.1  The Value of Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1-1.html#content",
+    "href": "modules/module1-1.html#content",
+    "title": "1.1 The Value of Big Data",
+    "section": "Content",
+    "text": "Content\n\n\n\nSections\nDue Date\n\n\n\n\n1.1 Discussion\n1/17\n\n\n1.2 Data Certification Plan\n1/24\n\n\n1.3 Discussion\n1/31",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "1.1  The Value of Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1-1.html#assignments",
+    "href": "modules/module1-1.html#assignments",
+    "title": "1.1 The Value of Big Data",
+    "section": "Assignments",
+    "text": "Assignments\n\n\n\nAssignments\nDue Date\n\n\n\n\n1.1 Discussion\n1/17\n\n\n1.2 Data Certification Plan\n1/24\n\n\n1.3 Discussion\n1/31",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "1.1  The Value of Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1-1.html#the-value-of-big-data",
+    "href": "modules/module1-1.html#the-value-of-big-data",
+    "title": "1.1 The Value of Big Data",
+    "section": "1. 2 The Value of Big Data",
+    "text": "1. 2 The Value of Big Data\nThis module introduces you to the opportunities and challenges of big data for the public sector. You’ll learn the characteristics that define big data and begin to think about how to apply it to your own field of study.",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "1.1  The Value of Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1-1.html#transforming-information-to-ideas",
+    "href": "modules/module1-1.html#transforming-information-to-ideas",
+    "title": "1.1 The Value of Big Data",
+    "section": "Transforming Information to Ideas",
+    "text": "Transforming Information to Ideas\nThis week we’ll explore the characteristics of big data and its value to the public sector.",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "1.1  The Value of Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1-1.html#read",
+    "href": "modules/module1-1.html#read",
+    "title": "1.1 The Value of Big Data",
+    "section": "Read",
+    "text": "Read\n\nDesouza & Smith, Big Data for Social Innovation, Stanford Social Innovation Review, Summer 2014.\nWorld Bank Group, Big Data in Action for Government, World Bank Governance Practice, 2017.\nMeier, P., Digital Humanitarians, Chapter 1, CRC Press, 2015.\nPentland, A. Social Physics, Chapter 1, Penguin Group, 2015.",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "1.1  The Value of Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1-1.html#prepare",
+    "href": "modules/module1-1.html#prepare",
+    "title": "1.1 The Value of Big Data",
+    "section": "Prepare",
+    "text": "Prepare\nPlease prepare to discuss your thoughts on the following prompts:\n\nDescribe two characteristics of big data and how they apply to data produced or are used by your field of interest.\nDescribe ideas or practices in this week’s readings that you had not considered before.\nWhat claims about social physics do you find valid? In what ways would you challenge Pentland’s “promise” of social physics?",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "1.1  The Value of Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1-1.html#attend",
+    "href": "modules/module1-1.html#attend",
+    "title": "1.1 The Value of Big Data",
+    "section": "Attend",
+    "text": "Attend\nIn person discussion, 1/17 at 4:30-5:30pm",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "1.1  The Value of Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1-1.html#big-data-and-you",
+    "href": "modules/module1-1.html#big-data-and-you",
+    "title": "1.1 The Value of Big Data",
+    "section": "1. 3 Big Data and You",
+    "text": "1. 3 Big Data and You",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "1.1  The Value of Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1-1.html#section",
+    "href": "modules/module1-1.html#section",
+    "title": "1.1 The Value of Big Data",
+    "section": "",
+    "text": "Find Your Inner Data Geek\n\n\n\n\n\n\n\n\n\n\nNow that you know the characteristics of big data and some of their applications to the public sector, it’s time to consider how they serve your field of interest. Whether you plan to be a data scientist or work with a team of them, you need to understand how big data are collected, analyzed, and communicated. This module starts with an overview of data science to learn the steps in the life cycle of a big data project. It ends with you developing a plan to earn a data certification that exposes you to the tools and techniques of stages in the data science life cycle that fit your skill needs.",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "1.1  The Value of Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1-1.html#read-1",
+    "href": "modules/module1-1.html#read-1",
+    "title": "1.1 The Value of Big Data",
+    "section": "Read",
+    "text": "Read\n\nThe Data Science Process: A Visual Guide to Standard Procedures in Data Science by Chanin Nantasenamat\nHilary: the most poisoned baby name in US history by Hilary Parker",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "1.1  The Value of Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1-1.html#watch",
+    "href": "modules/module1-1.html#watch",
+    "title": "1.1 The Value of Big Data",
+    "section": "Watch",
+    "text": "Watch\n\nHow I Would Learn Data Science (If I Had to Start Over) by Ken Jee",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "1.1  The Value of Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1-1.html#complete",
+    "href": "modules/module1-1.html#complete",
+    "title": "1.1 The Value of Big Data",
+    "section": "Complete",
+    "text": "Complete\nThis week you’ll spend most of your time creating a data certification plan. This assignment requires that you identify a research question and develop a plan to complete workshops over the semester that will expose you to the data science knowledge and skills needed to develop a big data project. By the end of the semester, you’ll submit a proposal that describes how you can answer the research question using big data and data science techniques.\nYou will turn in this plan as your “discussion” this week. But don’t wait until class day to start this assignment. Formulating a good research question takes time, and if you’re struggling with how to use big data in a project that interests you then you need to give me time to help you. Reach out by email to set up a time to talk or post questions to the Class Q & A discussion board. \n\nDownload the instructions for the data certification plan.\nIf you need some inspiration, check out this web blog. Or Google “big data and X (your field).” It’s also a good idea to look at some academic journals in your field to see how the techniques of data science are being applied. \nWrite me an email or set up a time to talk if you need help.\nSubmit your data certification plan to the “1.3 Data Certification” assignment folder.\n\nDue by: 11/24 at 11:59pm",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "1.1  The Value of Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1-1.html#the-challenges-of-big-data",
+    "href": "modules/module1-1.html#the-challenges-of-big-data",
+    "title": "1.1 The Value of Big Data",
+    "section": "1. 4 The Challenges of Big Data",
+    "text": "1. 4 The Challenges of Big Data",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "1.1  The Value of Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1-2.html",
+    "href": "modules/module1-2.html",
+    "title": "1.2 Big Data and You",
+    "section": "",
+    "text": "This module introduces you to the opportunities and challenges of big data for the public sector. You’ll learn the characteristics that define big data and begin to think about how to apply it to your own field of study.",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "Module 1 - Introduction to Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1-2.html#module-overview",
+    "href": "modules/module1-2.html#module-overview",
+    "title": "1.2 Big Data and You",
+    "section": "",
+    "text": "This module introduces you to the opportunities and challenges of big data for the public sector. You’ll learn the characteristics that define big data and begin to think about how to apply it to your own field of study.",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "Module 1 - Introduction to Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1-2.html#assignments",
+    "href": "modules/module1-2.html#assignments",
+    "title": "1.2 Big Data and You",
+    "section": "Assignments",
+    "text": "Assignments\n\n\n\nSection & Assignment\nDue Date\n\n\n\n\n1.2 Discussion\n1/17\n\n\n1.3 Data Certification Plan\n1/24\n\n\n1.4 Discussion\n1/31",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "Module 1 - Introduction to Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1-2.html#the-value-of-big-data",
+    "href": "modules/module1-2.html#the-value-of-big-data",
+    "title": "1.2 Big Data and You",
+    "section": "1. 2 The Value of Big Data",
+    "text": "1. 2 The Value of Big Data\nThis module introduces you to the opportunities and challenges of big data for the public sector. You’ll learn the characteristics that define big data and begin to think about how to apply it to your own field of study.",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "Module 1 - Introduction to Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1-2.html#transforming-information-to-ideas",
+    "href": "modules/module1-2.html#transforming-information-to-ideas",
+    "title": "1.2 Big Data and You",
+    "section": "Transforming Information to Ideas",
+    "text": "Transforming Information to Ideas\nThis week we’ll explore the characteristics of big data and its value to the public sector.",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "Module 1 - Introduction to Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1-2.html#read",
+    "href": "modules/module1-2.html#read",
+    "title": "1.2 Big Data and You",
+    "section": "Read",
+    "text": "Read\n\nDesouza & Smith, Big Data for Social Innovation, Stanford Social Innovation Review, Summer 2014.\nWorld Bank Group, Big Data in Action for Government, World Bank Governance Practice, 2017.\nMeier, P., Digital Humanitarians, Chapter 1, CRC Press, 2015.\nPentland, A. Social Physics, Chapter 1, Penguin Group, 2015.",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "Module 1 - Introduction to Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1-2.html#prepare",
+    "href": "modules/module1-2.html#prepare",
+    "title": "1.2 Big Data and You",
+    "section": "Prepare",
+    "text": "Prepare\nPlease prepare to discuss your thoughts on the following prompts:\n\nDescribe two characteristics of big data and how they apply to data produced or are used by your field of interest.\nDescribe ideas or practices in this week’s readings that you had not considered before.\nWhat claims about social physics do you find valid? In what ways would you challenge Pentland’s “promise” of social physics?",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "Module 1 - Introduction to Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1-2.html#attend",
+    "href": "modules/module1-2.html#attend",
+    "title": "1.2 Big Data and You",
+    "section": "Attend",
+    "text": "Attend\nIn person discussion, 1/17 at 4:30-5:30pm",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "Module 1 - Introduction to Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1-2.html#big-data-and-you",
+    "href": "modules/module1-2.html#big-data-and-you",
+    "title": "1.2 Big Data and You",
+    "section": "1. 3 Big Data and You",
+    "text": "1. 3 Big Data and You",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "Module 1 - Introduction to Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1-2.html#section",
+    "href": "modules/module1-2.html#section",
+    "title": "1.2 Big Data and You",
+    "section": "",
+    "text": "Find Your Inner Data Geek\n\n\n\n\n\n\n\n\n\n\nNow that you know the characteristics of big data and some of their applications to the public sector, it’s time to consider how they serve your field of interest. Whether you plan to be a data scientist or work with a team of them, you need to understand how big data are collected, analyzed, and communicated. This module starts with an overview of data science to learn the steps in the life cycle of a big data project. It ends with you developing a plan to earn a data certification that exposes you to the tools and techniques of stages in the data science life cycle that fit your skill needs.",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "Module 1 - Introduction to Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1-2.html#read-1",
+    "href": "modules/module1-2.html#read-1",
+    "title": "1.2 Big Data and You",
+    "section": "Read",
+    "text": "Read\n\nThe Data Science Process: A Visual Guide to Standard Procedures in Data Science by Chanin Nantasenamat\nHilary: the most poisoned baby name in US history by Hilary Parker",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "Module 1 - Introduction to Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1-2.html#watch",
+    "href": "modules/module1-2.html#watch",
+    "title": "1.2 Big Data and You",
+    "section": "Watch",
+    "text": "Watch\n\nHow I Would Learn Data Science (If I Had to Start Over) by Ken Jee",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "Module 1 - Introduction to Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1-2.html#complete",
+    "href": "modules/module1-2.html#complete",
+    "title": "1.2 Big Data and You",
+    "section": "Complete",
+    "text": "Complete\nThis week you’ll spend most of your time creating a data certification plan. This assignment requires that you identify a research question and develop a plan to complete workshops over the semester that will expose you to the data science knowledge and skills needed to develop a big data project. By the end of the semester, you’ll submit a proposal that describes how you can answer the research question using big data and data science techniques.\nYou will turn in this plan as your “discussion” this week. But don’t wait until class day to start this assignment. Formulating a good research question takes time, and if you’re struggling with how to use big data in a project that interests you then you need to give me time to help you. Reach out by email to set up a time to talk or post questions to the Class Q & A discussion board. \n\nDownload the instructions for the data certification plan.\nIf you need some inspiration, check out this web blog. Or Google “big data and X (your field).” It’s also a good idea to look at some academic journals in your field to see how the techniques of data science are being applied. \nWrite me an email or set up a time to talk if you need help.\nSubmit your data certification plan to the “1.3 Data Certification” assignment folder.\n\nDue by: 11/24 at 11:59pm",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "Module 1 - Introduction to Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1-2.html#the-challenges-of-big-data",
+    "href": "modules/module1-2.html#the-challenges-of-big-data",
+    "title": "1.2 Big Data and You",
+    "section": "1. 4 The Challenges of Big Data",
+    "text": "1. 4 The Challenges of Big Data",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "Module 1 - Introduction to Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1.html#content",
+    "href": "modules/module1.html#content",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "Content",
+    "text": "Content\n\n\n\nSection\nAssignment\nDue Date\n\n\n\n\n1.1 The Value of Big Data\nDiscussion Post\n8/27\n\n\n1.2 Big Data and You\nData Certification Plan\n9/3\n\n\n1.3 The Challenges of Big Data\nDiscussion Post & Peer Response\n9/10 & 9/14"
+  },
+  {
+    "objectID": "modules/module1/module1.html#module-overview",
+    "href": "modules/module1/module1.html#module-overview",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "Module Overview",
+    "text": "Module Overview\nThis module introduces you to the opportunities and challenges of big data for the public sector. You’ll learn the characteristics that define big data and begin to think about how to apply it to your own field of study."
+  },
+  {
+    "objectID": "modules/module1/module1.html#content",
+    "href": "modules/module1/module1.html#content",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "Content",
+    "text": "Content\n\n\n\nSection\nAssignment\nDue Date\n\n\n\n\n1.1 The Value of Big Data\nDiscussion Post\n8/27\n\n\n1.2 Big Data and You\nData Certification Plan\n9/3\n\n\n1.3 The Challenges of Big Data\nDiscussion Post & Peer Response\n9/10 & 9/14"
+  },
+  {
+    "objectID": "modules/module1/module1-2.html",
+    "href": "modules/module1/module1-2.html",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "",
+    "text": "This module introduces you to the opportunities and challenges of big data for the public sector. You’ll learn the characteristics that define big data and begin to think about how to apply it to your own field of study."
+  },
+  {
+    "objectID": "modules/module1/module1-2.html#module-overview",
+    "href": "modules/module1/module1-2.html#module-overview",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "",
+    "text": "This module introduces you to the opportunities and challenges of big data for the public sector. You’ll learn the characteristics that define big data and begin to think about how to apply it to your own field of study."
+  },
+  {
+    "objectID": "modules/module1/module1-2.html#assignments",
+    "href": "modules/module1/module1-2.html#assignments",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "Assignments",
+    "text": "Assignments\n\n\n\nSection & Assignment\nDue Date\n\n\n\n\n1.2 Discussion\n1/17\n\n\n1.3 Data Certification Plan\n1/24\n\n\n1.4 Discussion\n1/31"
+  },
+  {
+    "objectID": "modules/module1/module1-2.html#the-value-of-big-data",
+    "href": "modules/module1/module1-2.html#the-value-of-big-data",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "1. 2 The Value of Big Data",
+    "text": "1. 2 The Value of Big Data\nThis module introduces you to the opportunities and challenges of big data for the public sector. You’ll learn the characteristics that define big data and begin to think about how to apply it to your own field of study."
+  },
+  {
+    "objectID": "modules/module1/module1-2.html#transforming-information-to-ideas",
+    "href": "modules/module1/module1-2.html#transforming-information-to-ideas",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "Transforming Information to Ideas",
+    "text": "Transforming Information to Ideas\nThis week we’ll explore the characteristics of big data and its value to the public sector."
+  },
+  {
+    "objectID": "modules/module1/module1-2.html#read",
+    "href": "modules/module1/module1-2.html#read",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "Read",
+    "text": "Read\n\nDesouza & Smith, Big Data for Social Innovation, Stanford Social Innovation Review, Summer 2014.\nWorld Bank Group, Big Data in Action for Government, World Bank Governance Practice, 2017.\nMeier, P., Digital Humanitarians, Chapter 1, CRC Press, 2015.\nPentland, A. Social Physics, Chapter 1, Penguin Group, 2015."
+  },
+  {
+    "objectID": "modules/module1/module1-2.html#prepare",
+    "href": "modules/module1/module1-2.html#prepare",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "Prepare",
+    "text": "Prepare\nPlease prepare to discuss your thoughts on the following prompts:\n\nDescribe two characteristics of big data and how they apply to data produced or are used by your field of interest.\nDescribe ideas or practices in this week’s readings that you had not considered before.\nWhat claims about social physics do you find valid? In what ways would you challenge Pentland’s “promise” of social physics?"
+  },
+  {
+    "objectID": "modules/module1/module1-2.html#attend",
+    "href": "modules/module1/module1-2.html#attend",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "Attend",
+    "text": "Attend\nIn person discussion, 1/17 at 4:30-5:30pm"
+  },
+  {
+    "objectID": "modules/module1/module1-2.html#big-data-and-you",
+    "href": "modules/module1/module1-2.html#big-data-and-you",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "1. 3 Big Data and You",
+    "text": "1. 3 Big Data and You"
+  },
+  {
+    "objectID": "modules/module1/module1-2.html#section",
+    "href": "modules/module1/module1-2.html#section",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "",
+    "text": "Find Your Inner Data Geek\n\n\n\n\n\n\n\n\n\n\nNow that you know the characteristics of big data and some of their applications to the public sector, it’s time to consider how they serve your field of interest. Whether you plan to be a data scientist or work with a team of them, you need to understand how big data are collected, analyzed, and communicated. This module starts with an overview of data science to learn the steps in the life cycle of a big data project. It ends with you developing a plan to earn a data certification that exposes you to the tools and techniques of stages in the data science life cycle that fit your skill needs."
+  },
+  {
+    "objectID": "modules/module1/module1-2.html#read-1",
+    "href": "modules/module1/module1-2.html#read-1",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "Read",
+    "text": "Read\n\nThe Data Science Process: A Visual Guide to Standard Procedures in Data Science by Chanin Nantasenamat\nHilary: the most poisoned baby name in US history by Hilary Parker"
+  },
+  {
+    "objectID": "modules/module1/module1-2.html#watch",
+    "href": "modules/module1/module1-2.html#watch",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "Watch",
+    "text": "Watch\n\nHow I Would Learn Data Science (If I Had to Start Over) by Ken Jee"
+  },
+  {
+    "objectID": "modules/module1/module1-2.html#complete",
+    "href": "modules/module1/module1-2.html#complete",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "Complete",
+    "text": "Complete\nThis week you’ll spend most of your time creating a data certification plan. This assignment requires that you identify a research question and develop a plan to complete workshops over the semester that will expose you to the data science knowledge and skills needed to develop a big data project. By the end of the semester, you’ll submit a proposal that describes how you can answer the research question using big data and data science techniques.\nYou will turn in this plan as your “discussion” this week. But don’t wait until class day to start this assignment. Formulating a good research question takes time, and if you’re struggling with how to use big data in a project that interests you then you need to give me time to help you. Reach out by email to set up a time to talk or post questions to the Class Q & A discussion board. \n\nDownload the instructions for the data certification plan.\nIf you need some inspiration, check out this web blog. Or Google “big data and X (your field).” It’s also a good idea to look at some academic journals in your field to see how the techniques of data science are being applied. \nWrite me an email or set up a time to talk if you need help.\nSubmit your data certification plan to the “1.3 Data Certification” assignment folder.\n\nDue by: 11/24 at 11:59pm"
+  },
+  {
+    "objectID": "modules/module1/module1-2.html#the-challenges-of-big-data",
+    "href": "modules/module1/module1-2.html#the-challenges-of-big-data",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "1. 4 The Challenges of Big Data",
+    "text": "1. 4 The Challenges of Big Data"
+  },
+  {
+    "objectID": "modules/module1/module1-1.html",
+    "href": "modules/module1/module1-1.html",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "",
+    "text": "This module introduces you to the opportunities and challenges of big data for the public sector. You’ll learn the characteristics that define big data and begin to think about how to apply it to your own field of study."
+  },
+  {
+    "objectID": "modules/module1/module1-1.html#module-overview",
+    "href": "modules/module1/module1-1.html#module-overview",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "",
+    "text": "This module introduces you to the opportunities and challenges of big data for the public sector. You’ll learn the characteristics that define big data and begin to think about how to apply it to your own field of study."
+  },
+  {
+    "objectID": "modules/module1/module1-1.html#content",
+    "href": "modules/module1/module1-1.html#content",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "Content",
+    "text": "Content\n\n\n\nSections\nDue Date\n\n\n\n\n1.1 Discussion\n1/17\n\n\n1.2 Data Certification Plan\n1/24\n\n\n1.3 Discussion\n1/31"
+  },
+  {
+    "objectID": "modules/module1/module1-1.html#assignments",
+    "href": "modules/module1/module1-1.html#assignments",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "Assignments",
+    "text": "Assignments\n\n\n\nAssignments\nDue Date\n\n\n\n\n1.1 Discussion\n1/17\n\n\n1.2 Data Certification Plan\n1/24\n\n\n1.3 Discussion\n1/31"
+  },
+  {
+    "objectID": "modules/module1/module1-1.html#the-value-of-big-data",
+    "href": "modules/module1/module1-1.html#the-value-of-big-data",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "1. 2 The Value of Big Data",
+    "text": "1. 2 The Value of Big Data\nThis module introduces you to the opportunities and challenges of big data for the public sector. You’ll learn the characteristics that define big data and begin to think about how to apply it to your own field of study."
+  },
+  {
+    "objectID": "modules/module1/module1-1.html#transforming-information-to-ideas",
+    "href": "modules/module1/module1-1.html#transforming-information-to-ideas",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "Transforming Information to Ideas",
+    "text": "Transforming Information to Ideas\nThis week we’ll explore the characteristics of big data and its value to the public sector."
+  },
+  {
+    "objectID": "modules/module1/module1-1.html#read",
+    "href": "modules/module1/module1-1.html#read",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "Read",
+    "text": "Read\n\nDesouza & Smith, Big Data for Social Innovation, Stanford Social Innovation Review, Summer 2014.\nWorld Bank Group, Big Data in Action for Government, World Bank Governance Practice, 2017.\nMeier, P., Digital Humanitarians, Chapter 1, CRC Press, 2015.\nPentland, A. Social Physics, Chapter 1, Penguin Group, 2015."
+  },
+  {
+    "objectID": "modules/module1/module1-1.html#prepare",
+    "href": "modules/module1/module1-1.html#prepare",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "Prepare",
+    "text": "Prepare\nPlease prepare to discuss your thoughts on the following prompts:\n\nDescribe two characteristics of big data and how they apply to data produced or are used by your field of interest.\nDescribe ideas or practices in this week’s readings that you had not considered before.\nWhat claims about social physics do you find valid? In what ways would you challenge Pentland’s “promise” of social physics?"
+  },
+  {
+    "objectID": "modules/module1/module1-1.html#attend",
+    "href": "modules/module1/module1-1.html#attend",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "Attend",
+    "text": "Attend\nIn person discussion, 1/17 at 4:30-5:30pm"
+  },
+  {
+    "objectID": "modules/module1/module1-1.html#big-data-and-you",
+    "href": "modules/module1/module1-1.html#big-data-and-you",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "1. 3 Big Data and You",
+    "text": "1. 3 Big Data and You"
+  },
+  {
+    "objectID": "modules/module1/module1-1.html#section",
+    "href": "modules/module1/module1-1.html#section",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "",
+    "text": "Find Your Inner Data Geek\n\n\n\n\n\n\n\n\n\n\nNow that you know the characteristics of big data and some of their applications to the public sector, it’s time to consider how they serve your field of interest. Whether you plan to be a data scientist or work with a team of them, you need to understand how big data are collected, analyzed, and communicated. This module starts with an overview of data science to learn the steps in the life cycle of a big data project. It ends with you developing a plan to earn a data certification that exposes you to the tools and techniques of stages in the data science life cycle that fit your skill needs."
+  },
+  {
+    "objectID": "modules/module1/module1-1.html#read-1",
+    "href": "modules/module1/module1-1.html#read-1",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "Read",
+    "text": "Read\n\nThe Data Science Process: A Visual Guide to Standard Procedures in Data Science by Chanin Nantasenamat\nHilary: the most poisoned baby name in US history by Hilary Parker"
+  },
+  {
+    "objectID": "modules/module1/module1-1.html#watch",
+    "href": "modules/module1/module1-1.html#watch",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "Watch",
+    "text": "Watch\n\nHow I Would Learn Data Science (If I Had to Start Over) by Ken Jee"
+  },
+  {
+    "objectID": "modules/module1/module1-1.html#complete",
+    "href": "modules/module1/module1-1.html#complete",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "Complete",
+    "text": "Complete\nThis week you’ll spend most of your time creating a data certification plan. This assignment requires that you identify a research question and develop a plan to complete workshops over the semester that will expose you to the data science knowledge and skills needed to develop a big data project. By the end of the semester, you’ll submit a proposal that describes how you can answer the research question using big data and data science techniques.\nYou will turn in this plan as your “discussion” this week. But don’t wait until class day to start this assignment. Formulating a good research question takes time, and if you’re struggling with how to use big data in a project that interests you then you need to give me time to help you. Reach out by email to set up a time to talk or post questions to the Class Q & A discussion board. \n\nDownload the instructions for the data certification plan.\nIf you need some inspiration, check out this web blog. Or Google “big data and X (your field).” It’s also a good idea to look at some academic journals in your field to see how the techniques of data science are being applied. \nWrite me an email or set up a time to talk if you need help.\nSubmit your data certification plan to the “1.3 Data Certification” assignment folder.\n\nDue by: 11/24 at 11:59pm"
+  },
+  {
+    "objectID": "modules/module1/module1-1.html#the-challenges-of-big-data",
+    "href": "modules/module1/module1-1.html#the-challenges-of-big-data",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "1. 4 The Challenges of Big Data",
+    "text": "1. 4 The Challenges of Big Data"
+  },
+  {
+    "objectID": "modules/module1/module1-3.html",
+    "href": "modules/module1/module1-3.html",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "",
+    "text": "This module introduces you to the opportunities and challenges of big data for the public sector. You’ll learn the characteristics that define big data and begin to think about how to apply it to your own field of study."
+  },
+  {
+    "objectID": "modules/module1/module1-3.html#module-overview",
+    "href": "modules/module1/module1-3.html#module-overview",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "",
+    "text": "This module introduces you to the opportunities and challenges of big data for the public sector. You’ll learn the characteristics that define big data and begin to think about how to apply it to your own field of study."
+  },
+  {
+    "objectID": "modules/module1/module1-3.html#assignments",
+    "href": "modules/module1/module1-3.html#assignments",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "Assignments",
+    "text": "Assignments\n\n\n\nSection & Assignment\nDue Date\n\n\n\n\n1.2 Discussion\n1/17\n\n\n1.3 Data Certification Plan\n1/24\n\n\n1.4 Discussion\n1/31"
+  },
+  {
+    "objectID": "modules/module1/module1-3.html#the-value-of-big-data",
+    "href": "modules/module1/module1-3.html#the-value-of-big-data",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "1. 2 The Value of Big Data",
+    "text": "1. 2 The Value of Big Data\nThis module introduces you to the opportunities and challenges of big data for the public sector. You’ll learn the characteristics that define big data and begin to think about how to apply it to your own field of study."
+  },
+  {
+    "objectID": "modules/module1/module1-3.html#transforming-information-to-ideas",
+    "href": "modules/module1/module1-3.html#transforming-information-to-ideas",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "Transforming Information to Ideas",
+    "text": "Transforming Information to Ideas\nThis week we’ll explore the characteristics of big data and its value to the public sector."
+  },
+  {
+    "objectID": "modules/module1/module1-3.html#read",
+    "href": "modules/module1/module1-3.html#read",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "Read",
+    "text": "Read\n\nDesouza & Smith, Big Data for Social Innovation, Stanford Social Innovation Review, Summer 2014.\nWorld Bank Group, Big Data in Action for Government, World Bank Governance Practice, 2017.\nMeier, P., Digital Humanitarians, Chapter 1, CRC Press, 2015.\nPentland, A. Social Physics, Chapter 1, Penguin Group, 2015."
+  },
+  {
+    "objectID": "modules/module1/module1-3.html#prepare",
+    "href": "modules/module1/module1-3.html#prepare",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "Prepare",
+    "text": "Prepare\nPlease prepare to discuss your thoughts on the following prompts:\n\nDescribe two characteristics of big data and how they apply to data produced or are used by your field of interest.\nDescribe ideas or practices in this week’s readings that you had not considered before.\nWhat claims about social physics do you find valid? In what ways would you challenge Pentland’s “promise” of social physics?"
+  },
+  {
+    "objectID": "modules/module1/module1-3.html#attend",
+    "href": "modules/module1/module1-3.html#attend",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "Attend",
+    "text": "Attend\nIn person discussion, 1/17 at 4:30-5:30pm"
+  },
+  {
+    "objectID": "modules/module1/module1-3.html#big-data-and-you",
+    "href": "modules/module1/module1-3.html#big-data-and-you",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "1. 3 Big Data and You",
+    "text": "1. 3 Big Data and You"
+  },
+  {
+    "objectID": "modules/module1/module1-3.html#section",
+    "href": "modules/module1/module1-3.html#section",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "",
+    "text": "Find Your Inner Data Geek\n\n\n\n\n\n\n\n\n\n\nNow that you know the characteristics of big data and some of their applications to the public sector, it’s time to consider how they serve your field of interest. Whether you plan to be a data scientist or work with a team of them, you need to understand how big data are collected, analyzed, and communicated. This module starts with an overview of data science to learn the steps in the life cycle of a big data project. It ends with you developing a plan to earn a data certification that exposes you to the tools and techniques of stages in the data science life cycle that fit your skill needs."
+  },
+  {
+    "objectID": "modules/module1/module1-3.html#read-1",
+    "href": "modules/module1/module1-3.html#read-1",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "Read",
+    "text": "Read\n\nThe Data Science Process: A Visual Guide to Standard Procedures in Data Science by Chanin Nantasenamat\nHilary: the most poisoned baby name in US history by Hilary Parker"
+  },
+  {
+    "objectID": "modules/module1/module1-3.html#watch",
+    "href": "modules/module1/module1-3.html#watch",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "Watch",
+    "text": "Watch\n\nHow I Would Learn Data Science (If I Had to Start Over) by Ken Jee"
+  },
+  {
+    "objectID": "modules/module1/module1-3.html#complete",
+    "href": "modules/module1/module1-3.html#complete",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "Complete",
+    "text": "Complete\nThis week you’ll spend most of your time creating a data certification plan. This assignment requires that you identify a research question and develop a plan to complete workshops over the semester that will expose you to the data science knowledge and skills needed to develop a big data project. By the end of the semester, you’ll submit a proposal that describes how you can answer the research question using big data and data science techniques.\nYou will turn in this plan as your “discussion” this week. But don’t wait until class day to start this assignment. Formulating a good research question takes time, and if you’re struggling with how to use big data in a project that interests you then you need to give me time to help you. Reach out by email to set up a time to talk or post questions to the Class Q & A discussion board. \n\nDownload the instructions for the data certification plan.\nIf you need some inspiration, check out this web blog. Or Google “big data and X (your field).” It’s also a good idea to look at some academic journals in your field to see how the techniques of data science are being applied. \nWrite me an email or set up a time to talk if you need help.\nSubmit your data certification plan to the “1.3 Data Certification” assignment folder.\n\nDue by: 11/24 at 11:59pm"
+  },
+  {
+    "objectID": "modules/module1/module1-3.html#the-challenges-of-big-data",
+    "href": "modules/module1/module1-3.html#the-challenges-of-big-data",
+    "title": "Module 1 - Introduction to Big Data",
+    "section": "1. 4 The Challenges of Big Data",
+    "text": "1. 4 The Challenges of Big Data"
+  },
+  {
+    "objectID": "modules/module1-0.html#module-overview",
+    "href": "modules/module1-0.html#module-overview",
+    "title": "Big Data for Public Good",
+    "section": "",
+    "text": "This module introduces you to the opportunities and challenges of big data for the public sector. You’ll learn the characteristics that define big data and begin to think about how to apply it to your own field of study.",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "Module Overview"
+    ]
+  },
+  {
+    "objectID": "modules/module1-0.html#content",
+    "href": "modules/module1-0.html#content",
+    "title": "Big Data for Public Good",
+    "section": "Content",
+    "text": "Content\n\n\n\n\n\n\n\n\nSection\nAssignment\nDue Date\n\n\n\n\n1.1 The Value of Big Data\nDiscussion Post\n8/27\n\n\n1.2 Big Data and You\nData Certification Plan\n9/3\n\n\n1.3 The Challenges of Big Data\nDiscussion Post & Peer Response\n9/10 & 9/14\n\n\n\nTry this link to 1.1",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "Module Overview"
+    ]
+  },
+  {
+    "objectID": "modules/module1-0.html",
+    "href": "modules/module1-0.html",
+    "title": "Big Data for Public Good",
+    "section": "",
+    "text": "This module introduces you to the opportunities and challenges of big data for the public sector. You’ll learn the characteristics that define big data and begin to think about how to apply it to your own field of study.",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "Module Overview"
     ]
   }
 ]

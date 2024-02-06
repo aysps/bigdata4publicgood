@@ -121,5 +121,50 @@
   },
   "resources/rubrics-discussion.qmd": {
     "rubrics-discussion.html": "ca3d93a0"
+  },
+  "modules/module1-1.qmd": {
+    "module1-1.html": "5a0be6fb"
+  },
+  "modules/module1-2.qmd": {
+    "module1-2.html": "be7d79a9"
+  },
+  "modules/module1-3.qmd": {
+    "module1-3.html": "3164e3c2"
+  },
+  "modules/module1/module1-1.qmd": {
+    "module1-1.html": "fae2d993"
+  },
+  "modules/module1/module1-2.qmd": {
+    "module1-2.html": "be463bca"
+  },
+  "modules/module1/module1-3.qmd": {
+    "module1-3.html": "4cb80d8e"
+  },
+  "modules/module1/module1.qmd": {
+    "module1.html": "ac4c7783"
+  },
+  "modules/module1-0.qmd": {
+    "module1-0.html": "b534e002"
+  },
+  "modules/module2-0.qmd": {
+    "module2-0.html": "183cd019"
+  },
+  "modules/module3-0.qmd": {
+    "module3-0.html": "f2b55540"
+  },
+  "modules/module4-0.qmd": {
+    "module4-0.html": "d9191c60"
+  },
+  "modules/module5-0.qmd": {
+    "module5-0.html": "7069e2cb"
+  },
+  "modules/module6-0.qmd": {
+    "module6-0.html": "b9ea3b2c"
+  },
+  "modules/module2-1.qmd": {
+    "module2-1.html": "2f1fc6d8"
+  },
+  "modules/module2-2.qmd": {
+    "module2-2.html": "0933a0a7"
   }
 }

@@ -14,17 +14,17 @@ website:
      - text: Modules
        menu: 
         - text: Module 1 - Introduction to Big Data
-          file: modules/module1.qmd
+          file: modules/module1-0.qmd
         - text: Module 2 - Types of Big Data
-          file: modules/module2.qmd
+          file: modules/module2-0.qmd
         - text: Module 3 - Discovery & Insights
-          file: modules/module3.qmd
+          file: modules/module3-0.qmd
         - text: Module 4 - Bias in Big Data
-          file: modules/module4.qmd
+          file: modules/module4-0.qmd
         - text: Module 5 - Data Privacy & Stewardship
-          file: modules/module5qmd
+          file: modules/module5-0.qmd
         - text: Module 6 - Course Conclusion
-          file: modules/module6.qmd         
+          file: modules/module6-0.qmd         
 
      - text: Assignments
        menu: 
@@ -54,14 +54,30 @@ website:
   sidebar:
      - title: "Modules"
        style: "docked"
-       background: light
+       search: false
+       background: dark
        contents:
-         - modules/module1.qmd
-         - modules/module2.qmd
-         - modules/module3.qmd
-         - modules/module4.qmd
-         - modules/module5.qmd
-         - modules/module6.qmd
+         - section: "Module 1 - Introduction to Big Data"
+           contents: 
+            - text: "Module Overview"
+              file: modules/module1-0.qmd
+            - text: "1.1  The Value of Big Data"
+              file: modules/module1-1.qmd
+            - text: "1.2 Big Data and You"
+              file: modules/module1-2.qmd
+            - text: "1.3 The Challenges of Big Data"
+              file: modules/module1-3.qmd            
+         - section: "Module 2 - Types of big data"
+           contents: 
+            - text: "Module Overview"
+              file: modules/module2-0.qmd
+            - text: "2.1"
+              file: modules/module2-1.qmd
+            - text: "2.2"
+              file: modules/module2-2.qmd
+            - text: "2.3"
+              file: modules/module2-3.qmd            
+
 
      - title: "Discussions"
        style: "docked"
