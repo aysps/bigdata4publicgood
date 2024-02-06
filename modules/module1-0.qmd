@@ -1,9 +1,9 @@
 ---
-title: " "
+title: "Module Overview"
 editor: visual
 ---
 
-## Module Overview
+## Introduction
 
 This module introduces you to the opportunities and challenges of big data for the public sector. You'll learn the characteristics that define big data and begin to think about how to apply it to your own field of study.
 

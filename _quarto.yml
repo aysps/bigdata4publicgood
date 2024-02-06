@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Big Data for Public Good"
-
+  bread-crumbs: false
   navbar:
     search: true
     left:
