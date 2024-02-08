@@ -1574,7 +1574,7 @@
     "text": "Read\n\nBeheshti, A. et al. 2022. Social Data Analytics. Chapter 1 Social Data Analytics; Challenges and Opportunities. p 1-17\nDong, X., Morales, A.J., Jahani, E. et al. 2020. Segregated interactions in urban and online space. EPJ Data Sci. 9, 20.\nMcCosker, A., Farmer, J., and Soltani Panah, A. 2020. Community Responses to Family Violence: Charting Policy Outcomes using Novel Data Sources, Text Mining and Topic Modelling. Swinburne University of Technology, Melbourne.",
     "crumbs": [
       "Module 2 - Types of big data",
-      "2.1"
+      "2.1 Social Data"
     ]
   },
   {
@@ -1585,7 +1585,7 @@
     "text": "Complete\nYour first lab assignment is due on 9/21. The labs are non-technical, but they do require you to consider the origins of data, how they perform as measures of individual/social constructs, and how data scientists make choices about data to use in their models and the effects of those choices.\nThis lab introduces you to two data-driven models of neighborhood change. We will use this case study over the semester to discuss things like data needs for predictive models. You will be required to think critically about the data used in the labs, but you will not be responsible for things like the advanced analytical models in the paper. I am approaching the labs with the assumption that you are likely to be new analysts or a manager hiring an analyst, so you just need a high-level understanding of the models in order to participate in the task.\nTo prepare for the lab, you should read these two report (**note the page numbers assigned**):\n\nGoldstein, I. Market Value Analysis: A Data-Based Approach to Understanding Urban Housing Markets in Board of Governors, Federal Reserve Systems, Putting Data to Work: Data-Driven Approaches to Strengthening Neighborhoods. 2011. pp 49-59\n\nDelmelle, E. C. (2017). Differentiating pathways of neighborhood change in 50 US metropolitan areas. Environment and planning A, 49(10), 2402-2424.\n\nRead the instructions for Lab 1 and post your answers to the questions posed in the lab to the 2.2 Lab 1 assignment folder.\nDue by: 9/21 11:59pm EST",
     "crumbs": [
       "Module 2 - Types of big data",
-      "2.1"
+      "2.1 Social Data"
     ]
   },
   {
@@ -1724,7 +1724,7 @@
     "text": "Read",
     "crumbs": [
       "Module 2 - Types of big data",
-      "2.2"
+      "2.2 Eyes in the Skies & Remote Sensing"
     ]
   },
   {
@@ -1735,7 +1735,7 @@
     "text": "Post Discussion 1\nAddress the following：\n\nDescribe at least two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data from the readings this week that I can address in my weekly announcement?\n\nDiscussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings you describe using in text using APA style. Posts should range between 400-500 words.\nDue by: 8/27 11:59 pm EST",
     "crumbs": [
       "Module 2 - Types of big data",
-      "2.2"
+      "2.2 Eyes in the Skies & Remote Sensing"
     ]
   },
   {
