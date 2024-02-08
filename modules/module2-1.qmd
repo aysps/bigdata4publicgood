@@ -1,4 +1,32 @@
 ---
-title: "2.1"
+title: "2.1 Social Data"
 ---
 
++:------------------------:+
+| ### Data About People    |
++--------------------------+
+
+> You and I produce vast amounts of data, especially if we participate in social media and other collective causes online. This module explores the data we generate and its applications for public problems and organizations.
+
+## Read
+
+1.  Beheshti, A. et al. 2022. Social Data Analytics. Chapter 1 Social Data Analytics; Challenges and Opportunities. p 1-17
+
+2.  Dong, X., Morales, A.J., Jahani, E. et al. 2020. [Segregated interactions in urban and online space](https://rdcu.be/c4SSP). EPJ Data Sci. 9, 20.
+
+3.  McCosker, A., Farmer, J., and Soltani Panah, A. 2020. [Community Responses to Family Violence: Charting Policy Outcomes using Novel Data Sources, Text Mining and Topic Modelling](https://apo.org.au/sites/default/files/resource-files/2020-03/apo-nid278041.pdf). Swinburne University of Technology, Melbourne.
+
+## Complete
+
+Your first lab assignment is due on 9/21. The labs are non-technical, but they do require you to consider the origins of data, how they perform as measures of individual/social constructs, and how data scientists make choices about data to use in their models and the effects of those choices.
+
+This lab introduces you to two data-driven models of neighborhood change. We will use this case study over the semester to discuss things like data needs for predictive models. You will be required to think critically about the data used in the labs, but you will not be responsible for things like the advanced analytical models in the paper. I am approaching the labs with the assumption that you are likely to be new analysts or a manager hiring an analyst, so you just need a high-level understanding of the models in order to participate in the task.
+
+To prepare for the lab, you should read these two report (**\*\*note the page numbers assigned\*\***):
+
+- Goldstein, I. Market Value Analysis: A Data-Based Approach to Understanding Urban Housing Markets in Board of Governors, Federal Reserve Systems, Putting Data to Work: Data-Driven Approaches to Strengthening Neighborhoods. 2011. **pp 49-59**\
+- Delmelle, E. C. (2017). Differentiating pathways of neighborhood change in 50 US metropolitan areas. Environment and planning A, 49(10), **2402-2424**.
+
+Read the [instructions for Lab 1](/assignments/lab1.qmd) and post your answers to the questions posed in the lab to the 2.2 Lab 1 assignment folder.
+
+Due by: 9/21 11:59pm EST

@@ -1,0 +1,23 @@
+---
+title: "Discussion M3.2"
+---
+
+## M3.2 Annotated Bibliography
+
+**Post**
+
+At this point in the semester, you should have identified the topic of your big data research proposal and have some idea of what data you will use. 
+
+For this discussion, you should create an annotated bibliography to support the Literature Review of your research proposal. Hopefully you've already been reading studies related to your topic and the methods used in them. The literature review requires you to describe this research and how your project using big data fills a gap in what is known.
+
+These [instructions for the proposal](https://gastate.view.usg.edu/content/enforced2/2885410-CO.090.EC.ECON8000.XLS.PZ11.20242/Files_Module%203/Big%20Data%20Project%20Proposal%20Instructions.docx) detail what sections to include and the requirements of each section. Make sure that you \*\***upload the annotated bibliography in a Word Document in the post**.\*\*
+
+**The annotated bibliography should start with a short paragraph that states your research question and why it's important.** Next, I would like you to 1) create a list of 7-10 articles/reports that you will include in your literature review; 2) for each work write 4-6 sentences that describes its findings and how it relates to your topic; and 3) order them to demonstrate how they will relate to each other when you write the literature review section of your proposal. 
+
+**Due by:** 10/1 at 11:59pm EST
+
+**Respond**
+
+You will be assigned to small groups for this discussion post. Read two of your group member's annotated bibliographies and provide constructive comments on strengths and weaknesses. Please make sure that everyone in your group gets at least one set of comments.
+
+**Due by:** 10/5 at 11:59pm

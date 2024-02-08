@@ -1,0 +1,21 @@
+---
+title: "Discussion M1.1"
+---
+
+## M1.1 The Value of Big Data
+
+**Post**
+
+Address the following prompts:
+
+1. Describe at least two characteristics of big data and how they apply to data produced or used by your field of interest.
+
+2. Describe ideas presented in two of this week's readings that you had not considered before.
+
+3. What questions do you have about big data from the readings this week that I can address in my weekly announcement?
+
+Discussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings you describe using in text using APA style. Posts should range between 400-500 words.
+
+Due by: 8/27 11:59 pm EST
+
+See here for [Rubrics](/resources/rubrics-discussion.qmd) 

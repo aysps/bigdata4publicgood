@@ -635,7 +635,7 @@
     "section": "",
     "text": "Criteria\nAdvanced\nProficient\nDeveloping\nEmerging\n\n\nAssignment Specific Grading Items\n5 points\nAssignment questions and required items are addressed comprehensively, accurately and specifically. Offers strong support for arguments or points.\n4 points\nMost questions and requirements are addressed accurately and specifically. Support for arguments or points may be weak.\n3 points\nMissing answers to questions or doesn’t address many requirements. Support for arguments or points is weak.\n2 points\nDoes not address questions or requirements, or attempts are largely inaccurate.\n\n\nCritical Analysis (Understanding of Topic)\n10 points\nWriting displays an excellent understanding of the required readings and underlying concepts including correct use of terminology. Integrates lectures, readings, or relevant research, or specific real-life application (work experience, prior coursework, etc.) to support important points.\n8 points\nWriting repeats and summarizes basic, correct information, but does not apply enough lectures, readings, or relevant research or specific real-life applications\n6 points\nWriting shows little or no evidence that class lectures and readings were understood. Writings are largely personal opinions or feelings, or “I agree” or “Great idea,” without supporting statements with concepts from the readings, outside resources, relevant research, or specific real-life application.\n4 points\nWriting lacks evidence of critical analysis, and poor use of supportive evidence.\n\n\nWriting & Clarity\n5 points\nAnswers are clear, well-written and free of grammatical and spelling mistakes. No errors in APA style. Scholarly style. Cites all data obtained from other sources. APA citation style is used in both text and/or bibliography.\n4 points\nAnswers are clear, a few small grammatical and spelling mistakes. Rare errors in APA style that do not detract from the paper. Scholarly style. Cites most data obtained from other sources.\n3 points\nAnswers are clear but there are many spelling and grammatical mistakes. Errors in APA style are noticeable. Cites some data obtained from other sources. Citation style is either inconsistent or incorrect.\n2 points\nAnswers are unclear or difficult to understand, and/or there are many spelling and grammatical mistakes. Errors in APA style detracts substantially from the paper. Word choice is informal in tone. Does not cite sources.\n\n\n\nTotal Score of Grading Rubric_Discussion Posts, / 20",
     "crumbs": [
-      "Discussion Posts Rubrics"
+      "Discussion Rubrics"
     ]
   },
   {
@@ -698,7 +698,11 @@
     "href": "modules/module1-3.html#read",
     "title": "1.3 The Challenges of Big Data",
     "section": "Read",
-    "text": "Read\n\nDesouza & Smith, Big Data for Social Innovation, Stanford Social Innovation Review, Summer 2014.\nWorld Bank Group, Big Data in Action for Government, World Bank Governance Practice, 2017.\nMeier, P., Digital Humanitarians, Chapter 1, CRC Press, 2015.\nPentland, A. Social Physics, Chapter 1, Penguin Group, 2015."
+    "text": "Read\n\nO’Neil, C. On Being a Data Skeptic. O’Reilly Press. 2014\nNoble, S. Algorithms of Oppression, Introduction. NYU Press. 2018.\nPayton, T. and Claypoole T. Privacy in the Age of Big Data. 2023.**Note: Follow hyperlink, then select “Click to preview” above the image of the book. Read the Introduction and Chapter 1, p. 1-26; Note that the last page is missing from this free source.)",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "1.3 The Challenges of Big Data"
+    ]
   },
   {
     "objectID": "modules/module1-3.html#prepare",
@@ -761,7 +765,7 @@
     "href": "modules/module1-1.html",
     "title": "1.1 The Value of Big Data",
     "section": "",
-    "text": "This module introduces you to the opportunities and challenges of big data for the public sector. You’ll learn the characteristics that define big data and begin to think about how to apply it to your own field of study.",
+    "text": "|:————————————:| | ## Transforming Information to Ideas | |————————————–|",
     "crumbs": [
       "Module 1 - Introduction to Big Data",
       "1.1  The Value of Big Data"
@@ -815,8 +819,8 @@
     "objectID": "modules/module1-1.html#transforming-information-to-ideas",
     "href": "modules/module1-1.html#transforming-information-to-ideas",
     "title": "1.1 The Value of Big Data",
-    "section": "Transforming Information to Ideas",
-    "text": "Transforming Information to Ideas\nThis week we’ll explore the characteristics of big data and its value to the public sector.",
+    "section": "",
+    "text": "The course starts this week with readings about the characteristics of big data and their value to the public sector. Consider how your field is mining big data to shape public policy and improve service delivery.",
     "crumbs": [
       "Module 1 - Introduction to Big Data",
       "1.1  The Value of Big Data"
@@ -827,10 +831,10 @@
     "href": "modules/module1-1.html#read",
     "title": "1.1 The Value of Big Data",
     "section": "Read",
-    "text": "Read\n\nDesouza & Smith, Big Data for Social Innovation, Stanford Social Innovation Review, Summer 2014.\nWorld Bank Group, Big Data in Action for Government, World Bank Governance Practice, 2017.\nMeier, P., Digital Humanitarians, Chapter 1, CRC Press, 2015.\nPentland, A. Social Physics, Chapter 1, Penguin Group, 2015.",
+    "text": "Read\n\nDesouza & Smith, Big Data for Social Innovation, Stanford Social Innovation Review, Summer 2014.\nU.S. Census Bureau, Big Data, 2022.\nMeier, P., Digital Humanitarians, Chapter 1, CRC Press, 2015.\nPentland, A., Social Physics, Chapter 1, Penguin Group, 2015.",
     "crumbs": [
       "Module 1 - Introduction to Big Data",
-      "1.1  The Value of Big Data"
+      "1.1 The Value of Big Data"
     ]
   },
   {
@@ -981,7 +985,7 @@
     "href": "modules/module1-2.html#read",
     "title": "1.2 Big Data and You",
     "section": "Read",
-    "text": "Read\n\nDesouza & Smith, Big Data for Social Innovation, Stanford Social Innovation Review, Summer 2014.\nWorld Bank Group, Big Data in Action for Government, World Bank Governance Practice, 2017.\nMeier, P., Digital Humanitarians, Chapter 1, CRC Press, 2015.\nPentland, A. Social Physics, Chapter 1, Penguin Group, 2015.",
+    "text": "Read\n\nThe Data Science Process: A Visual Guide to Standard Procedures in Data Science by Chanin Nantasenamat\nHilary: the most poisoned baby name in US history by Hilary Parker",
     "crumbs": [
       "Module 1 - Introduction to Big Data",
       "1.2 Big Data and You"
@@ -1047,7 +1051,7 @@
     "href": "modules/module1-2.html#watch",
     "title": "1.2 Big Data and You",
     "section": "Watch",
-    "text": "Watch\n\nHow I Would Learn Data Science (If I Had to Start Over) by Ken Jee",
+    "text": "Watch\n\nHow I Would Learn Data Science (If I Had to Start Over) by Ken Jee",
     "crumbs": [
       "Module 1 - Introduction to Big Data",
       "1.2 Big Data and You"
@@ -1058,7 +1062,7 @@
     "href": "modules/module1-2.html#complete",
     "title": "1.2 Big Data and You",
     "section": "Complete",
-    "text": "Complete\nThis week you’ll spend most of your time creating a data certification plan. This assignment requires that you identify a research question and develop a plan to complete workshops over the semester that will expose you to the data science knowledge and skills needed to develop a big data project. By the end of the semester, you’ll submit a proposal that describes how you can answer the research question using big data and data science techniques.\nYou will turn in this plan as your “discussion” this week. But don’t wait until class day to start this assignment. Formulating a good research question takes time, and if you’re struggling with how to use big data in a project that interests you then you need to give me time to help you. Reach out by email to set up a time to talk or post questions to the Class Q & A discussion board. \n\nDownload the instructions for the data certification plan.\nIf you need some inspiration, check out this web blog. Or Google “big data and X (your field).” It’s also a good idea to look at some academic journals in your field to see how the techniques of data science are being applied. \nWrite me an email or set up a time to talk if you need help.\nSubmit your data certification plan to the “1.3 Data Certification” assignment folder.\n\nDue by: 11/24 at 11:59pm",
+    "text": "Complete\nThis week you’ll spend most of your time creating a plan to earn a data certification by the end of the semester. This assignment requires that you identify a research question and develop a plan to complete workshops over the semester that will expose you to the data science knowledge and skills needed to develop a big data project. By the end of the semester, you’ll submit a proposal that describes how you can answer the research question using big data and data science techniques.\nYou may be a novice to big data terms and sources at this point in the semester, but you probably have questions in your field that can be explored with data. For example, you may be interested in pollution levels of major cities and what conditions lead to poor air quality days. While structured data like measures of ozone levels, particulate matter, and nitrogen oxides can be used to identify poor air quality, big data generated from the sources of pollutants can be used to predict poor air quality days.  Vehicles, traffic lights, navigation apps, satellites, etc. generate high velocity, high volume, and unstructured data that can be harnessed to predict poor air quality days. With these data, you can explore questions like, “What impact could limiting semi-trucks driving on I-75 between 6am and 6pm have on air quality in Atlanta?” The purpose of the data certification is to learn about the types of big data and analysis techniques needed to answer the question that you formulate from your field of interest.\nFormulating a good research question takes time and is iterative as you learn about types of data and techniques. This exercise gets you started on crafting a question and finding tutorials that can help you develop a project plan to answer it. It requires that you identify five, 90 minute tutorials that can tailor your learning about big data to answer the research question that you develop. To complete the assignment for this week:\n\nRead the instructions for the data certification plan.\nIf you need some inspiration, Google “big data and X (your field).” It’s also a good idea to look at some academic journals in your field to see how the techniques of data science are being applied.\nWrite me an email or set up a time to talk if you need help.\nSubmit your data certification plan to corresponding assignment folder.\n\nDue by: 9/3 at 11:59pm",
     "crumbs": [
       "Module 1 - Introduction to Big Data",
       "1.2 Big Data and You"
@@ -1413,10 +1417,9 @@
     "href": "modules/module1-0.html#content",
     "title": "Module Overview",
     "section": "Content",
-    "text": "Content\n\n\n\n\n\n\n\n\nSection\nAssignment\nDue Date\n\n\n\n\n1.1 The Value of Big Data\nDiscussion Post\n8/27\n\n\n1.2 Big Data and You\nData Certification Plan\n9/3\n\n\n1.3 The Challenges of Big Data\nDiscussion Post & Peer Response\n9/10 & 9/14\n\n\n\nTry this link to 1.1",
+    "text": "Content\n\n\n\n\n\n\n\n\nSection\nAssignment\nDue Date\n\n\n\n\n1.1 The Value of Big Data\nDiscussion Post\n8/27\n\n\n1.2 Big Data and You\nData Certification Plan\n9/3\n\n\n1.3 The Challenges of Big Data\nDiscussion Post & Peer Response\n9/10 & 9/14",
     "crumbs": [
-      "Module 1 - Introduction to Big Data",
-      "Module Overview"
+      "Module 1 - Introduction to Big Data"
     ]
   },
   {
@@ -1426,8 +1429,7 @@
     "section": "",
     "text": "This module introduces you to the opportunities and challenges of big data for the public sector. You’ll learn the characteristics that define big data and begin to think about how to apply it to your own field of study.",
     "crumbs": [
-      "Module 1 - Introduction to Big Data",
-      "Module Overview"
+      "Module 1 - Introduction to Big Data"
     ]
   },
   {
@@ -1437,8 +1439,446 @@
     "section": "",
     "text": "This module introduces you to the opportunities and challenges of big data for the public sector. You’ll learn the characteristics that define big data and begin to think about how to apply it to your own field of study.",
     "crumbs": [
+      "Module 1 - Introduction to Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1-1.html#post",
+    "href": "modules/module1-1.html#post",
+    "title": "1.1 The Value of Big Data",
+    "section": "Post",
+    "text": "Post\nDiscussion M1.1\nAddress the following：\n\nDescribe at least two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data from the readings this week that I can address in my weekly announcement?\n\nDiscussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings you describe using in text using APA style. Posts should range between 400-500 words.\nDue by: 8/27 11:59 pm EST",
+    "crumbs": [
       "Module 1 - Introduction to Big Data",
+      "1.1 The Value of Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1-1.html#post-discussion-1",
+    "href": "modules/module1-1.html#post-discussion-1",
+    "title": "1.1 The Value of Big Data",
+    "section": "Post Discussion 1",
+    "text": "Post Discussion 1\nAddress the following：\n\nDescribe at least two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data from the readings this week that I can address in my weekly announcement?\n\nDiscussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings you describe using in text using APA style. Posts should range between 400-500 words.\nDue by: 8/27 11:59 pm EST",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "1.1  The Value of Big Data"
+    ]
+  },
+  {
+    "objectID": "discussions/M1-1.html",
+    "href": "discussions/M1-1.html",
+    "title": "Discussion M1.1",
+    "section": "",
+    "text": "Post\nAddress the following prompts:\n\nDescribe at least two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data from the readings this week that I can address in my weekly announcement?\n\nDiscussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings you describe using in text using APA style. Posts should range between 400-500 words.\nDue by: 8/27 11:59 pm EST\nSee here for Rubrics",
+    "crumbs": [
+      "Discussion M1.1"
+    ]
+  },
+  {
+    "objectID": "discussions/M1-1.html#m1.2-the-value-of-big-data",
+    "href": "discussions/M1-1.html#m1.2-the-value-of-big-data",
+    "title": "Module 1 Discussions",
+    "section": "",
+    "text": "Post\nAddress the following:\n\nDescribe two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data that we can address this week in class?\n\nDue by: 8/29 11:59 pm EST\nDiscuss\nOnline discussions are important to the dialogue and learning in this class. Take some time to respond to at least two of your classmates’ posts by Friday.\nDue by: 9/3 11:59 pm EST",
+    "crumbs": [
+      "Module 1 Discussions"
+    ]
+  },
+  {
+    "objectID": "discussions/M1-1.html#m1.4-the-value-of-big-data",
+    "href": "discussions/M1-1.html#m1.4-the-value-of-big-data",
+    "title": "Module 1 Discussions",
+    "section": "M1.4 The Value of Big Data",
+    "text": "M1.4 The Value of Big Data\nPost\nAddress the following:\n\nDescribe two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data that we can address this week in class?\n\nDue by: 8/29 11:59 pm EST\nDiscuss\nOnline discussions are important to the dialogue and learning in this class. Take some time to respond to at least two of your classmates’ posts by Friday.\nDue by: 9/3 11:59 pm EST",
+    "crumbs": [
+      "Module 1 Discussions"
+    ]
+  },
+  {
+    "objectID": "discussions/M1-3.html",
+    "href": "discussions/M1-3.html",
+    "title": "Discussion M1.3",
+    "section": "",
+    "text": "Post",
+    "crumbs": [
+      "Discussion M1.3"
+    ]
+  },
+  {
+    "objectID": "discussions/M1-3.html#m1.2-the-value-of-big-data",
+    "href": "discussions/M1-3.html#m1.2-the-value-of-big-data",
+    "title": "Module 1 Discussions",
+    "section": "",
+    "text": "Post\nAddress the following:\n\nDescribe two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data that we can address this week in class?\n\nDue by: 8/29 11:59 pm EST\nDiscuss\nOnline discussions are important to the dialogue and learning in this class. Take some time to respond to at least two of your classmates’ posts by Friday.\nDue by: 9/3 11:59 pm EST",
+    "crumbs": [
+      "Module 1 Discussions"
+    ]
+  },
+  {
+    "objectID": "discussions/M1-3.html#m1.4-the-value-of-big-data",
+    "href": "discussions/M1-3.html#m1.4-the-value-of-big-data",
+    "title": "Module 1 Discussions",
+    "section": "M1.4 The Value of Big Data",
+    "text": "M1.4 The Value of Big Data\nPost\nAddress the following:\n\nDescribe two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data that we can address this week in class?\n\nDue by: 8/29 11:59 pm EST\nDiscuss\nOnline discussions are important to the dialogue and learning in this class. Take some time to respond to at least two of your classmates’ posts by Friday.\nDue by: 9/3 11:59 pm EST",
+    "crumbs": [
+      "Module 1 Discussions"
+    ]
+  },
+  {
+    "objectID": "discussions/M1-1.html#m1.1-the-value-of-big-data",
+    "href": "discussions/M1-1.html#m1.1-the-value-of-big-data",
+    "title": "Discussion M1.1",
+    "section": "",
+    "text": "Post\nAddress the following prompts:\n\nDescribe at least two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data from the readings this week that I can address in my weekly announcement?\n\nDiscussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings you describe using in text using APA style. Posts should range between 400-500 words.\nDue by: 8/27 11:59 pm EST\nSee here for Rubrics",
+    "crumbs": [
+      "Discussion M1.1"
+    ]
+  },
+  {
+    "objectID": "modules/module1-3.html#post-discussion-m1.3",
+    "href": "modules/module1-3.html#post-discussion-m1.3",
+    "title": "1.3 The Challenges of Big Data",
+    "section": "Post Discussion M1.3",
+    "text": "Post Discussion M1.3\nAddress the following：\n\nUsing all three of this week’s readings, describe the challenges of big data that you feel are urgent to address by the public and why.\nWhat issues do the authors address that you don’t feel are urgent? Why?\n\n\nDiscussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings analyzed in your posts using in-text APA style. Posts should range between 400-500 words.\n\nDue by: 9/10 11:59 pm EST",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "1.3 The Challenges of Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module1-3.html#respond",
+    "href": "modules/module1-3.html#respond",
+    "title": "1.3 The Challenges of Big Data",
+    "section": "Respond",
+    "text": "Respond\nYou are assigned to a small discussion group this week. Read the posts of your peers and critique two group members’ concern/lack of concern about big data. Is the concern outweighed by the benefits of the data/its use? What’s missing from your peers’ argument?\nDue by: 9/14 11:59 pm EST",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "1.3 The Challenges of Big Data"
+    ]
+  },
+  {
+    "objectID": "discussions/M1-3.html#m1.3-the-value-of-big-data",
+    "href": "discussions/M1-3.html#m1.3-the-value-of-big-data",
+    "title": "Discussion M1.3",
+    "section": "",
+    "text": "Post",
+    "crumbs": [
+      "Discussion M1.3"
+    ]
+  },
+  {
+    "objectID": "modules/module2-1.html#read",
+    "href": "modules/module2-1.html#read",
+    "title": "2.1 Social Data",
+    "section": "Read",
+    "text": "Read\n\nBeheshti, A. et al. 2022. Social Data Analytics. Chapter 1 Social Data Analytics; Challenges and Opportunities. p 1-17\nDong, X., Morales, A.J., Jahani, E. et al. 2020. Segregated interactions in urban and online space. EPJ Data Sci. 9, 20.\nMcCosker, A., Farmer, J., and Soltani Panah, A. 2020. Community Responses to Family Violence: Charting Policy Outcomes using Novel Data Sources, Text Mining and Topic Modelling. Swinburne University of Technology, Melbourne.",
+    "crumbs": [
+      "Module 2 - Types of big data",
+      "2.1"
+    ]
+  },
+  {
+    "objectID": "modules/module2-1.html#complete",
+    "href": "modules/module2-1.html#complete",
+    "title": "2.1 Social Data",
+    "section": "Complete",
+    "text": "Complete\nYour first lab assignment is due on 9/21. The labs are non-technical, but they do require you to consider the origins of data, how they perform as measures of individual/social constructs, and how data scientists make choices about data to use in their models and the effects of those choices.\nThis lab introduces you to two data-driven models of neighborhood change. We will use this case study over the semester to discuss things like data needs for predictive models. You will be required to think critically about the data used in the labs, but you will not be responsible for things like the advanced analytical models in the paper. I am approaching the labs with the assumption that you are likely to be new analysts or a manager hiring an analyst, so you just need a high-level understanding of the models in order to participate in the task.\nTo prepare for the lab, you should read these two report (**note the page numbers assigned**):\n\nGoldstein, I. Market Value Analysis: A Data-Based Approach to Understanding Urban Housing Markets in Board of Governors, Federal Reserve Systems, Putting Data to Work: Data-Driven Approaches to Strengthening Neighborhoods. 2011. pp 49-59\n\nDelmelle, E. C. (2017). Differentiating pathways of neighborhood change in 50 US metropolitan areas. Environment and planning A, 49(10), 2402-2424.\n\nRead the instructions for Lab 1 and post your answers to the questions posed in the lab to the 2.2 Lab 1 assignment folder.\nDue by: 9/21 11:59pm EST",
+    "crumbs": [
+      "Module 2 - Types of big data",
+      "2.1"
+    ]
+  },
+  {
+    "objectID": "modules/module2-3.html#read",
+    "href": "modules/module2-3.html#read",
+    "title": "2.3",
+    "section": "Read",
+    "text": "Read",
+    "crumbs": [
+      "Module 2 - Types of big data",
+      "2.3"
+    ]
+  },
+  {
+    "objectID": "modules/module2-3.html#post-discussion-1",
+    "href": "modules/module2-3.html#post-discussion-1",
+    "title": "2.3",
+    "section": "Post Discussion 1",
+    "text": "Post Discussion 1\nAddress the following：\n\nDescribe at least two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data from the readings this week that I can address in my weekly announcement?\n\nDiscussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings you describe using in text using APA style. Posts should range between 400-500 words.\nDue by: 8/27 11:59 pm EST",
+    "crumbs": [
+      "Module 2 - Types of big data",
+      "2.3"
+    ]
+  },
+  {
+    "objectID": "modules/module2-0.html",
+    "href": "modules/module2-0.html",
+    "title": "Module Overview",
+    "section": "",
+    "text": "The “variety” of big data is one of its defining features. This module explores the types of data being generated and some of its use cases for the public sector.",
+    "crumbs": [
+      "Module 2 - Types of big data",
       "Module Overview"
+    ]
+  },
+  {
+    "objectID": "modules/module2-0.html#introduction",
+    "href": "modules/module2-0.html#introduction",
+    "title": "Module Overview",
+    "section": "",
+    "text": "The “variety” of big data is one of its defining features. This module explores the types of data being generated and some of its use cases for the public sector.",
+    "crumbs": [
+      "Module 2 - Types of big data",
+      "Module Overview"
+    ]
+  },
+  {
+    "objectID": "modules/module2-0.html#content",
+    "href": "modules/module2-0.html#content",
+    "title": "Module Overview",
+    "section": "Content",
+    "text": "Content\n\n\n\nSection\nAssignment\nDue Date\n\n\n\n\n2.1 Social Data\nLab 1\n9/21\n\n\n2.2 Eyes in the Skies & Remote Sensing\nDiscussion Post\n9/24",
+    "crumbs": [
+      "Module 2 - Types of big data",
+      "Module Overview"
+    ]
+  },
+  {
+    "objectID": "discussions/M4-1.html",
+    "href": "discussions/M4-1.html",
+    "title": "Discussion M4.1",
+    "section": "",
+    "text": "Post\nAddress the following:\n\nPoor data quality and data practices can lead to downstream bias that impacts individuals and decision-making. What examples from the readings (or your own reading) do you consider most harmful? Overblown?\nGovernments around the world are developing frameworks for improving data integrity and reducing bias. Based on your own experience as a user and/or analyst of data, what elements of the framework do you think are least understood or practiced by researchers/government agencies? How might they improve?\nFind an example of a recent data quality problem in the news that resulted in bias from big data. What was the origin of the bias and did the media address how to prevent it? Describe what you find surprising about the problem. (Make sure to cite the article.)\n\nDiscussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings analyzed in your posts using in-text APA style. Posts should range between 400-500 words. \nDue by: 10/15 11:59 pm EST"
+  },
+  {
+    "objectID": "discussions/M4-1.html#m4.1-data-quality",
+    "href": "discussions/M4-1.html#m4.1-data-quality",
+    "title": "Discussion M4.1",
+    "section": "",
+    "text": "Post\nAddress the following:\n\nPoor data quality and data practices can lead to downstream bias that impacts individuals and decision-making. What examples from the readings (or your own reading) do you consider most harmful? Overblown?\nGovernments around the world are developing frameworks for improving data integrity and reducing bias. Based on your own experience as a user and/or analyst of data, what elements of the framework do you think are least understood or practiced by researchers/government agencies? How might they improve?\nFind an example of a recent data quality problem in the news that resulted in bias from big data. What was the origin of the bias and did the media address how to prevent it? Describe what you find surprising about the problem. (Make sure to cite the article.)\n\nDiscussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings analyzed in your posts using in-text APA style. Posts should range between 400-500 words. \nDue by: 10/15 11:59 pm EST"
+  },
+  {
+    "objectID": "discussions/M2-2.html",
+    "href": "discussions/M2-2.html",
+    "title": "Discussion M2.2",
+    "section": "",
+    "text": "Post\nAddress the following:\n\nThe readings from the last two submodules (2.2 and 2.3) describe use cases for social data, surveillance systems, satellite and aerial imagery, and other types of sensing data (e.g., biometric, IOT, etc.). Describe what promise these types of data hold for the public sector in your interest areas. What concerns do you have about the use of these data for the purpose you describe or otherwise?\nRevisit the research question that you’re exploring for your big data project proposal. Describe types of data from the last two submodules (2.2 and 2.3) that you hadn’t considered before but could incorporate into your proposal. Describe how they might improve your project and their limitations.\n\nDiscussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings analyzed in your posts using in-text APA style. Posts should range between 400-500 words. \nDue by: 9/24 11:59 pm EST",
+    "crumbs": [
+      "Discussion M2.2"
+    ]
+  },
+  {
+    "objectID": "discussions/M2-2.html#m2.2-eyes-in-the-skies",
+    "href": "discussions/M2-2.html#m2.2-eyes-in-the-skies",
+    "title": "Discussion M2.2",
+    "section": "",
+    "text": "Post\nAddress the following:\n\nThe readings from the last two submodules (2.2 and 2.3) describe use cases for social data, surveillance systems, satellite and aerial imagery, and other types of sensing data (e.g., biometric, IOT, etc.). Describe what promise these types of data hold for the public sector in your interest areas. What concerns do you have about the use of these data for the purpose you describe or otherwise?\nRevisit the research question that you’re exploring for your big data project proposal. Describe types of data from the last two submodules (2.2 and 2.3) that you hadn’t considered before but could incorporate into your proposal. Describe how they might improve your project and their limitations.\n\nDiscussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings analyzed in your posts using in-text APA style. Posts should range between 400-500 words. \nDue by: 9/24 11:59 pm EST",
+    "crumbs": [
+      "Discussion M2.2"
+    ]
+  },
+  {
+    "objectID": "discussions/M3-2.html",
+    "href": "discussions/M3-2.html",
+    "title": "Discussion M3.2",
+    "section": "",
+    "text": "Post\nAt this point in the semester, you should have identified the topic of your big data research proposal and have some idea of what data you will use. \nFor this discussion, you should create an annotated bibliography to support the Literature Review of your research proposal. Hopefully you’ve already been reading studies related to your topic and the methods used in them. The literature review requires you to describe this research and how your project using big data fills a gap in what is known.\nThese instructions for the proposal detail what sections to include and the requirements of each section. Make sure that you **upload the annotated bibliography in a Word Document in the post.**\nThe annotated bibliography should start with a short paragraph that states your research question and why it’s important. Next, I would like you to 1) create a list of 7-10 articles/reports that you will include in your literature review; 2) for each work write 4-6 sentences that describes its findings and how it relates to your topic; and 3) order them to demonstrate how they will relate to each other when you write the literature review section of your proposal. \nDue by: 10/1 at 11:59pm EST\nRespond\nYou will be assigned to small groups for this discussion post. Read two of your group member’s annotated bibliographies and provide constructive comments on strengths and weaknesses. Please make sure that everyone in your group gets at least one set of comments.\nDue by: 10/5 at 11:59pm"
+  },
+  {
+    "objectID": "discussions/M3-2.html#m3.2-annotated-bibliography",
+    "href": "discussions/M3-2.html#m3.2-annotated-bibliography",
+    "title": "Discussion M3.2",
+    "section": "",
+    "text": "Post\nAt this point in the semester, you should have identified the topic of your big data research proposal and have some idea of what data you will use. \nFor this discussion, you should create an annotated bibliography to support the Literature Review of your research proposal. Hopefully you’ve already been reading studies related to your topic and the methods used in them. The literature review requires you to describe this research and how your project using big data fills a gap in what is known.\nThese instructions for the proposal detail what sections to include and the requirements of each section. Make sure that you **upload the annotated bibliography in a Word Document in the post.**\nThe annotated bibliography should start with a short paragraph that states your research question and why it’s important. Next, I would like you to 1) create a list of 7-10 articles/reports that you will include in your literature review; 2) for each work write 4-6 sentences that describes its findings and how it relates to your topic; and 3) order them to demonstrate how they will relate to each other when you write the literature review section of your proposal. \nDue by: 10/1 at 11:59pm EST\nRespond\nYou will be assigned to small groups for this discussion post. Read two of your group member’s annotated bibliographies and provide constructive comments on strengths and weaknesses. Please make sure that everyone in your group gets at least one set of comments.\nDue by: 10/5 at 11:59pm"
+  },
+  {
+    "objectID": "discussions/M5-2.html",
+    "href": "discussions/M5-2.html",
+    "title": "Discussion M5.2",
+    "section": "",
+    "text": "Post\nAddress the following:\n\nDescribe two differences between US and EU data privacy laws. What are the implications of these differences for safeguarding your personal information?\nAs we’ve learned this semester, your personal data can be used by different entities for economic gain as well as improvements to how we live, work, and play. If you could choose how your data are used, what would you permit versus prohibit and why?\n\nDiscussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings analyzed in your posts using in-text APA style. Posts should range between 400-500 words. \nDue by: 11/16 11:59 pm EST"
+  },
+  {
+    "objectID": "discussions/M5-2.html#m5.2-data-stewardship",
+    "href": "discussions/M5-2.html#m5.2-data-stewardship",
+    "title": "Discussion M5.2",
+    "section": "",
+    "text": "Post\nAddress the following:\n\nDescribe two differences between US and EU data privacy laws. What are the implications of these differences for safeguarding your personal information?\nAs we’ve learned this semester, your personal data can be used by different entities for economic gain as well as improvements to how we live, work, and play. If you could choose how your data are used, what would you permit versus prohibit and why?\n\nDiscussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings analyzed in your posts using in-text APA style. Posts should range between 400-500 words. \nDue by: 11/16 11:59 pm EST"
+  },
+  {
+    "objectID": "modules/module1-1.html#post-discussion-m1.1",
+    "href": "modules/module1-1.html#post-discussion-m1.1",
+    "title": "1.1 The Value of Big Data",
+    "section": "Post Discussion M1.1",
+    "text": "Post Discussion M1.1\nAddress the following：\n\nDescribe at least two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data from the readings this week that I can address in my weekly announcement?\n\nDiscussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings you describe using in text using APA style. Posts should range between 400-500 words.\nDue by: 8/27 11:59 pm EST",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "1.1 The Value of Big Data"
+    ]
+  },
+  {
+    "objectID": "modules/module2-2.html#read",
+    "href": "modules/module2-2.html#read",
+    "title": "2.2",
+    "section": "Read",
+    "text": "Read",
+    "crumbs": [
+      "Module 2 - Types of big data",
+      "2.2"
+    ]
+  },
+  {
+    "objectID": "modules/module2-2.html#post-discussion-1",
+    "href": "modules/module2-2.html#post-discussion-1",
+    "title": "2.2",
+    "section": "Post Discussion 1",
+    "text": "Post Discussion 1\nAddress the following：\n\nDescribe at least two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data from the readings this week that I can address in my weekly announcement?\n\nDiscussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings you describe using in text using APA style. Posts should range between 400-500 words.\nDue by: 8/27 11:59 pm EST",
+    "crumbs": [
+      "Module 2 - Types of big data",
+      "2.2"
+    ]
+  },
+  {
+    "objectID": "modules/module5-2.html#read",
+    "href": "modules/module5-2.html#read",
+    "title": "Module 5 - Data Privacy & Stewardship",
+    "section": "Read",
+    "text": "Read",
+    "crumbs": [
+      "Module 5 - Data Privacy & Stewardship",
+      "5.2 Data Stewardship"
+    ]
+  },
+  {
+    "objectID": "modules/module5-2.html#post-discussion-1",
+    "href": "modules/module5-2.html#post-discussion-1",
+    "title": "Module 5 - Data Privacy & Stewardship",
+    "section": "Post Discussion 1",
+    "text": "Post Discussion 1\nAddress the following：\n\nDescribe at least two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data from the readings this week that I can address in my weekly announcement?\n\nDiscussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings you describe using in text using APA style. Posts should range between 400-500 words.\nDue by: 8/27 11:59 pm EST",
+    "crumbs": [
+      "Module 5 - Data Privacy & Stewardship",
+      "5.2 Data Stewardship"
+    ]
+  },
+  {
+    "objectID": "modules/module5-1.html#read",
+    "href": "modules/module5-1.html#read",
+    "title": "Module 5 - Data Privacy & Stewardship",
+    "section": "Read",
+    "text": "Read",
+    "crumbs": [
+      "Module 5 - Data Privacy & Stewardship",
+      "5.1 Data Privacy"
+    ]
+  },
+  {
+    "objectID": "modules/module5-1.html#post-discussion-1",
+    "href": "modules/module5-1.html#post-discussion-1",
+    "title": "Module 5 - Data Privacy & Stewardship",
+    "section": "Post Discussion 1",
+    "text": "Post Discussion 1\nAddress the following：\n\nDescribe at least two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data from the readings this week that I can address in my weekly announcement?\n\nDiscussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings you describe using in text using APA style. Posts should range between 400-500 words.\nDue by: 8/27 11:59 pm EST",
+    "crumbs": [
+      "Module 5 - Data Privacy & Stewardship",
+      "5.1 Data Privacy"
+    ]
+  },
+  {
+    "objectID": "modules/module4-1.html#read",
+    "href": "modules/module4-1.html#read",
+    "title": "Module 4 - Bias in Big Data",
+    "section": "Read",
+    "text": "Read",
+    "crumbs": [
+      "Module 4 - Bias in Big Data",
+      "4.1 Data Quality"
+    ]
+  },
+  {
+    "objectID": "modules/module4-1.html#post-discussion-1",
+    "href": "modules/module4-1.html#post-discussion-1",
+    "title": "Module 4 - Bias in Big Data",
+    "section": "Post Discussion 1",
+    "text": "Post Discussion 1\nAddress the following：\n\nDescribe at least two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data from the readings this week that I can address in my weekly announcement?\n\nDiscussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings you describe using in text using APA style. Posts should range between 400-500 words.\nDue by: 8/27 11:59 pm EST",
+    "crumbs": [
+      "Module 4 - Bias in Big Data",
+      "4.1 Data Quality"
+    ]
+  },
+  {
+    "objectID": "modules/module3-1.html#read",
+    "href": "modules/module3-1.html#read",
+    "title": "3.1 Open Data and Discovery",
+    "section": "Read",
+    "text": "Read",
+    "crumbs": [
+      "Module 3 - Discovery & Insights",
+      "3.1 Open Data and Discovery"
+    ]
+  },
+  {
+    "objectID": "modules/module3-1.html#post-discussion-1",
+    "href": "modules/module3-1.html#post-discussion-1",
+    "title": "3.1 Open Data and Discovery",
+    "section": "Post Discussion 1",
+    "text": "Post Discussion 1\nAddress the following：\n\nDescribe at least two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data from the readings this week that I can address in my weekly announcement?\n\nDiscussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings you describe using in text using APA style. Posts should range between 400-500 words.\nDue by: 8/27 11:59 pm EST",
+    "crumbs": [
+      "Module 3 - Discovery & Insights",
+      "3.1 Open Data and Discovery"
+    ]
+  },
+  {
+    "objectID": "modules/module3-2.html#read",
+    "href": "modules/module3-2.html#read",
+    "title": "3.2 Eyes in the Skies & Remote Sensing",
+    "section": "Read",
+    "text": "Read",
+    "crumbs": [
+      "Module 3 - Discovery & Insights",
+      "3.2 Eyes in the Skies & Remote Sensing"
+    ]
+  },
+  {
+    "objectID": "modules/module3-2.html#post-discussion-1",
+    "href": "modules/module3-2.html#post-discussion-1",
+    "title": "3.2 Eyes in the Skies & Remote Sensing",
+    "section": "Post Discussion 1",
+    "text": "Post Discussion 1\nAddress the following：\n\nDescribe at least two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data from the readings this week that I can address in my weekly announcement?\n\nDiscussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings you describe using in text using APA style. Posts should range between 400-500 words.\nDue by: 8/27 11:59 pm EST",
+    "crumbs": [
+      "Module 3 - Discovery & Insights",
+      "3.2 Eyes in the Skies & Remote Sensing"
+    ]
+  },
+  {
+    "objectID": "modules/module4-2.html#read",
+    "href": "modules/module4-2.html#read",
+    "title": "Module 4 - Bias in Big Data",
+    "section": "Read",
+    "text": "Read",
+    "crumbs": [
+      "Module 4 - Bias in Big Data",
+      "4.2 Bias in Modeling"
+    ]
+  },
+  {
+    "objectID": "modules/module4-2.html#post-discussion-1",
+    "href": "modules/module4-2.html#post-discussion-1",
+    "title": "Module 4 - Bias in Big Data",
+    "section": "Post Discussion 1",
+    "text": "Post Discussion 1\nAddress the following：\n\nDescribe at least two characteristics of big data and how they apply to data produced or used by your field of interest.\nDescribe ideas presented in two of this week’s readings that you had not considered before.\nWhat questions do you have about big data from the readings this week that I can address in my weekly announcement?\n\nDiscussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings you describe using in text using APA style. Posts should range between 400-500 words.\nDue by: 8/27 11:59 pm EST",
+    "crumbs": [
+      "Module 4 - Bias in Big Data",
+      "4.2 Bias in Modeling"
+    ]
+  },
+  {
+    "objectID": "modules/module1-3.html#post",
+    "href": "modules/module1-3.html#post",
+    "title": "1.3 The Challenges of Big Data",
+    "section": "Post",
+    "text": "Post\nDiscussion M1.3\nAddress the following：\n\nUsing all three of this week’s readings, describe the challenges of big data that you feel are urgent to address by the public and why.\nWhat issues do the authors address that you don’t feel are urgent? Why?\n\n\nDiscussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings analyzed in your posts using in-text APA style. Posts should range between 400-500 words.\n\nDue by: 9/10 11:59 pm EST",
+    "crumbs": [
+      "Module 1 - Introduction to Big Data",
+      "1.3 The Challenges of Big Data"
     ]
   }
 ]

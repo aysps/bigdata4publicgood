@@ -3,35 +3,34 @@ title: "1.1 The Value of Big Data"
 editor: visual
 ---
 
++:-------------------------------------:+
+| ### Transforming Information to Ideas |
++---------------------------------------+
 
-
-This module introduces you to the opportunities and challenges of big data for the public sector. You'll learn the characteristics that define big data and begin to think about how to apply it to your own field of study.
-
-## Transforming Information to Ideas
-
-This week we'll explore the characteristics of big data and its value to the public sector.
+> The course starts this week with readings about the characteristics of big data and their value to the public sector. Consider how your field is mining big data to shape public policy and improve service delivery.
 
 ## Read
 
-1.  Desouza & Smith, [Big Data for Social Innovation](https://gastate.view.usg.edu/content/enforced2/2797662-UR_csearcy_07/Files_Module%201/Desouza_Smith_Big_Data_for_Social_Innovation.pdf?_&d2lSessionVal=tsNzx3Ovvtpcdu9pGb63DMVZg&ou=2797662), *Stanford Social Innovation Review*, Summer 2014.
+1.  Desouza & Smith, [Big Data for Social Innovation](https://ssir.org/articles/entry/big_data_for_social_innovation#), *Stanford Social Innovation Review*, Summer 2014.
 
-2.  World Bank Group, [Big Data in Action for Government](https://gastate.view.usg.edu/content/enforced2/2797662-UR_csearcy_07/Files_Module%201/World_Bank_WGSBigDataGovernmentFinal.pdf?_&d2lSessionVal=tsNzx3Ovvtpcdu9pGb63DMVZg&ou=2797662), World Bank Governance Practice, 2017.
+2.  U.S. Census Bureau, [Big Data](https://www.census.gov/topics/research/big-data.About.html#list-tab-863269654), 2022.
 
-3.  Meier, P., [Digital Humanitarians, Chapter 1](https://gastate.view.usg.edu/content/enforced2/2797662-UR_csearcy_07/Files_Module%201/Meier_Ch1.pdf?_&d2lSessionVal=tsNzx3Ovvtpcdu9pGb63DMVZg&ou=2797662), CRC Press, 2015.
+3.  Meier, P., Digital Humanitarians, Chapter 1, CRC Press, 2015.
 
-4.  Pentland, A. [Social Physics, Chapter 1](https://gastate.view.usg.edu/content/enforced2/2797662-UR_csearcy_07/Files_Module%201/Pentland_Ch1.pdf?_&d2lSessionVal=tsNzx3Ovvtpcdu9pGb63DMVZg&ou=2797662), Penguin Group, 2015.
+4.  Pentland, A., Social Physics, Chapter 1, Penguin Group, 2015.
 
-## Prepare
+## Post 
 
-Please prepare to discuss your thoughts on the following prompts:
+[Discussion M1.1](/discussions/M1-1.qmd)
 
-1.  Describe two characteristics of big data and how they apply to data produced or are used by your field of interest.
+Address the following：
 
-2.  Describe ideas or practices in this week's readings that you had not considered before.
+1.  Describe at least two characteristics of big data and how they apply to data produced or used by your field of interest.
 
-3.  What claims about social physics do you find valid? In what ways would you challenge Pentland's "promise" of social physics?
+2.  Describe ideas presented in two of this week's readings that you had not considered before.
 
-## Attend
+3.  What questions do you have about big data from the readings this week that I can address in my weekly announcement?
 
-In person discussion, 1/17 at 4:30-5:30pm
+Discussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings you describe using in text using APA style. Posts should range between 400-500 words.
 
+**Due by:** 8/27 11:59 pm EST

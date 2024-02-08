@@ -58,38 +58,63 @@ website:
        background: dark
        contents:
          - section: "Module 1 - Introduction to Big Data"
+           file: modules/module1-0.qmd
            contents: 
-            - text: "Module Overview"
-              file: modules/module1-0.qmd
-            - text: "1.1  The Value of Big Data"
+            - text: "1.1 The Value of Big Data"
               file: modules/module1-1.qmd
             - text: "1.2 Big Data and You"
               file: modules/module1-2.qmd
             - text: "1.3 The Challenges of Big Data"
-              file: modules/module1-3.qmd            
+              file: modules/module1-3.qmd
+              
          - section: "Module 2 - Types of big data"
+           file: modules/module2-0.qmd
            contents: 
-            - text: "Module Overview"
-              file: modules/module2-0.qmd
-            - text: "2.1"
+            - text: "2.1 Social Data"
               file: modules/module2-1.qmd
-            - text: "2.2"
+            - text: "2.2 Eyes in the Skies & Remote Sensing"
               file: modules/module2-2.qmd
-            - text: "2.3"
-              file: modules/module2-3.qmd            
+              
+         - section: "Module 3 - Discovery & Insights"
+           file: modules/module3-0.qmd
+           contents: 
+            - text: "3.1 Open Data and Discovery"
+              file: modules/module3-1.qmd
+            - text: "3.2 Eyes in the Skies & Remote Sensing"
+              file: modules/module3-2.qmd
 
+         - section: "Module 4 - Bias in Big Data"
+           file: modules/module4-0.qmd
+           contents: 
+            - text: "4.1 Data Quality"
+              file: modules/module4-1.qmd
+            - text: "4.2 Bias in Modeling"
+              file: modules/module4-2.qmd
+              
+         - section: "Module 5 - Data Privacy & Stewardship"
+           file: modules/module5-0.qmd
+           contents: 
+            - text: "5.1 Data Privacy"
+              file: modules/module5-1.qmd
+            - text: "5.2 Data Stewardship"
+              file: modules/module5-2.qmd
+              
+         - section: "Module 6 - Course Conclusion"
+           contents: 
+            - text: "Course Completion Checklist"
+              file: modules/module6-0.qmd
 
      - title: "Discussions"
        style: "docked"
        background: light
        contents:
          - discussions/overview.qmd
-         - discussions/module1.qmd
-         - discussions/module2.qmd
-         - discussions/module3.qmd
-         - discussions/module4.qmd
-         - discussions/module5.qmd
-         - discussions/module6.qmd
+         - discussions/M1-1.qmd
+         - discussions/M1-3.qmd
+         - discussions/M2-2.qmd
+         - discussions/M3-2.qmd
+         - discussions/M4-1.qmd
+         - discussions/M5-2.qmd
 
 
      - title: "Rubrics"

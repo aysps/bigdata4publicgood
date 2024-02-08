@@ -166,5 +166,44 @@
   },
   "modules/module2-2.qmd": {
     "module2-2.html": "0933a0a7"
+  },
+  "modules/module2-3.qmd": {
+    "module2-3.html": "a02f26fd"
+  },
+  "discussions/M1-1.qmd": {
+    "M1-1.html": "e7c908d9"
+  },
+  "discussions/M1-3.qmd": {
+    "M1-3.html": "beb21f73"
+  },
+  "discussions/M2-2.qmd": {
+    "M2-2.html": "17fb8568"
+  },
+  "discussions/M3-2.qmd": {
+    "M3-2.html": "e744c840"
+  },
+  "discussions/M4-1.qmd": {
+    "M4-1.html": "40f55cbb"
+  },
+  "discussions/M5-2.qmd": {
+    "M5-2.html": "dc9ab065"
+  },
+  "modules/module5-2.qmd": {
+    "module5-2.html": "7652e074"
+  },
+  "modules/module3-1.qmd": {
+    "module3-1.html": "7a02d20c"
+  },
+  "modules/module3-2.qmd": {
+    "module3-2.html": "fb249265"
+  },
+  "modules/module4-1.qmd": {
+    "module4-1.html": "8a6cdcfd"
+  },
+  "modules/module4-2.qmd": {
+    "module4-2.html": "c8c92265"
+  },
+  "modules/module5-1.qmd": {
+    "module5-1.html": "06d800de"
   }
 }

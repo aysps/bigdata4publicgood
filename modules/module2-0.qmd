@@ -1,4 +1,14 @@
 ---
-title: "Module 2 - Types of Big Data"
+title: "Module Overview"
 ---
 
+## Introduction
+
+The "variety" of big data is one of its defining features. This module explores the types of data being generated and some of its use cases for the public sector.
+
+## Content
+
+| Section                                | Assignment      | Due Date |
+|----------------------------------------|-----------------|----------|
+| 2.1 Social Data                        | Lab 1           | 9/21     |
+| 2.2 Eyes in the Skies & Remote Sensing | Discussion Post | 9/24     |
