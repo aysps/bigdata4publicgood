@@ -29,7 +29,7 @@ website:
      - text: Assignments
        menu: 
         - text: Discussions
-          file: discussions/module1.qmd
+          file: discussions/M1-1.qmd
         - text: Labs
           file: assignments/lab1.qmd
         - text: Data Certification
@@ -108,7 +108,6 @@ website:
        style: "docked"
        background: light
        contents:
-         - discussions/overview.qmd
          - discussions/M1-1.qmd
          - discussions/M1-3.qmd
          - discussions/M2-2.qmd
