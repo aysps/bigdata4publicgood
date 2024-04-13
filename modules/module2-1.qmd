@@ -2,9 +2,9 @@
 title: "2.1 Social Data"
 ---
 
-+:------------------------:+
-| ### Data About People    |
-+--------------------------+
++:---------------------:+
+| ### Data About People |
++-----------------------+
 
 > You and I produce vast amounts of data, especially if we participate in social media and other collective causes online. This module explores the data we generate and its applications for public problems and organizations.
 
@@ -24,8 +24,8 @@ This lab introduces you to two data-driven models of neighborhood change. We wil
 
 To prepare for the lab, you should read these two report (**\*\*note the page numbers assigned\*\***):
 
-- Goldstein, I. Market Value Analysis: A Data-Based Approach to Understanding Urban Housing Markets in Board of Governors, Federal Reserve Systems, Putting Data to Work: Data-Driven Approaches to Strengthening Neighborhoods. 2011. **pp 49-59**\
-- Delmelle, E. C. (2017). Differentiating pathways of neighborhood change in 50 US metropolitan areas. Environment and planning A, 49(10), **2402-2424**.
+-   Goldstein, I. Market Value Analysis: A Data-Based Approach to Understanding Urban Housing Markets in Board of Governors, Federal Reserve Systems, Putting Data to Work: Data-Driven Approaches to Strengthening Neighborhoods. 2011. **pp 49-59**\
+-   Delmelle, E. C. (2017). Differentiating pathways of neighborhood change in 50 US metropolitan areas. Environment and planning A, 49(10), **2402-2424**.
 
 Read the [instructions for Lab 1](/assignments/lab1.qmd) and post your answers to the questions posed in the lab to the 2.2 Lab 1 assignment folder.
 

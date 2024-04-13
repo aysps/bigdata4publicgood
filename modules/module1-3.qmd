@@ -3,9 +3,9 @@ title: "1.3 The Challenges of Big Data"
 editor: visual
 ---
 
-+:------------------------:+
-| ### Data Skepticism      |
-+--------------------------+
++:-----------------------:+
+| ### Data Skepticism     |
++-------------------------+
 
 > This week's readings discuss some challenges of big data and how they're used. They also discuss privacy concerns about use of our digital data and why you should care about it.
 
@@ -17,17 +17,15 @@ editor: visual
 
 3.  Payton, T. and Claypoole T. [Privacy in the Age of Big Data](https://www.ebooks.com/en-us/book/210722227/privacy-in-the-age-of-big-data/theresa-payton/). 2023.**\*\*Note**: Follow hyperlink, then select "Click to preview" above the image of the book. Read the **Introduction and Chapter 1, p. 1-26; Note that the last page is missing from this free source.**)
 
-## Post 
+## Post
 
-[Discussion M1.3](/discussions/M1-3.qmd)
-
-Address the following：
+Address the following in [Discussion 2](/discussions/M1-3.qmd)：
 
 1.  Using all three of this week's readings, describe the challenges of big data that you feel are urgent to address by the public and why.
 
 2.  What issues do the authors address that you don't feel are urgent? Why?
 
-> Discussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings analyzed in your posts using in-text APA style. Posts should range between 400-500 words.
+Discussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings analyzed in your posts using in-text APA style. Posts should range between 400-500 words.
 
 **Due by:** 9/10 11:59 pm EST
 

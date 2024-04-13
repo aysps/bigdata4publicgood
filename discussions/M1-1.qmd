@@ -1,12 +1,12 @@
 ---
-title: "Discussion M1.1"
+title: "Discussion 1"
 ---
 
 ## M1.1 The Value of Big Data
 
 **Post**
 
-Address the following prompts:
+Address the following:
 
 1. Describe at least two characteristics of big data and how they apply to data produced or used by your field of interest.
 

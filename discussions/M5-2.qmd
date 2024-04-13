@@ -1,5 +1,5 @@
 ---
-title: "Discussion M5.2"
+title: "Discussion 6"
 ---
 
 ## M5.2 Data Stewardship

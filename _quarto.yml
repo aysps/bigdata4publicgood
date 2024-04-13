@@ -108,12 +108,18 @@ website:
        style: "docked"
        background: light
        contents:
-         - discussions/M1-1.qmd
-         - discussions/M1-3.qmd
-         - discussions/M2-2.qmd
-         - discussions/M3-2.qmd
-         - discussions/M4-1.qmd
-         - discussions/M5-2.qmd
+        - text: "Discussion 1"
+          file: discussions/M1-1.qmd
+        - text: "Discussion 2"
+          file: discussions/M1-3.qmd
+        - text: "Discussion 3"
+          file: discussions/M2-2.qmd
+        - text: "Discussion 4"
+          file: discussions/M3-2.qmd
+        - text: "Discussion 5"
+          file: discussions/M4-1.qmd
+        - text: "Discussion 6"
+          file: discussions/M5-2.qmd
 
 
      - title: "Rubrics"

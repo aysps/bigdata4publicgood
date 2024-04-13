@@ -1,8 +1,25 @@
 ---
-title: "Discussion M1.3"
+title: "Discussion 2"
 ---
 
-## M1.3 The Value of Big Data
+## M1.3 The Challenges of Big Data
 
 **Post**
 
+Address the following:
+
+-   Using all three of this week's readings, describe the challenges of big data that you feel are urgent to address by the public and why.
+
+-   What issues do the authors address that you don't feel are urgent? Why?
+
+Discussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings analyzed in your posts using in-text APA style. Posts should range between 400-500 words.
+
+**Due by:** 9/10 11:59 pm EST
+
+See here for [Rubrics](/resources/rubrics-discussion.qmd)
+
+## Respond
+
+You are assigned to a small discussion group this week. Read the posts of your peers and critique two group members' concern/lack of concern about big data. Is the concern outweighed by the benefits of the data/its use? What's missing from your peers' argument?
+
+**Due by:** 9/14 11:59 pm EST

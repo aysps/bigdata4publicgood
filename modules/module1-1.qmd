@@ -19,11 +19,9 @@ editor: visual
 
 4.  Pentland, A., Social Physics, Chapter 1, Penguin Group, 2015.
 
-## Post 
+## Post
 
-[Discussion M1.1](/discussions/M1-1.qmd)
-
-Address the following：
+Address the following in [Discussion 1](/discussions/M1-1.qmd)：
 
 1.  Describe at least two characteristics of big data and how they apply to data produced or used by your field of interest.
 
