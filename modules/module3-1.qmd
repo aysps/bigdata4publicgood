@@ -2,33 +2,32 @@
 title: "3.1 Open Data and Discovery"
 ---
 
++----------------------------------------+
+| ### Insights Powered by Open Data      |
++----------------------------------------+
 
-+:---------------------------:+
-| ### Data Skepticism         |
-+-----------------------------+
-
-> This week's readings discuss some challenges of big data and how they're used. They also discuss privacy concerns about use of our digital data and why you should care about it.
+> Governments have been sharing data electronically for decades, but now the ease and opportunity for mining its value is greater for citizens and firms due to more computing power and applications. This module explores how governments and other organizations share their "open data" and what discoveries they can generate. It also explores an important step of the data science cycle, exploratory data analysis (EDA), which you'll apply to your big data project proposal.
 
 ## Read
 
-1.  
+1.  Open Knowledge Network, [The Open Data Handbook](https://opendatahandbook.org/guide/en/), n.d., (**\*\*Read the first three sections, Introduction through What is Open Data?\***\*)
 
-2.  
+2.  NYC OpenData, [Project Gallery](https://opendata.cityofnewyork.us/projects/) (**\*\*View sample projects.\*\***)
 
-3.  
+3.  S. Temiz, M. Holgersson, J. Björkdahl, M.W. Wallin. [Open data: Lost opportunity or unrealized potential?](https://www.sciencedirect.com/science/article/pii/S0166497222000827) Technovation, Volume 114, 2022.
 
-4.  
+4.  Bourke, D. [A Gentle Introduction to Exploratory Data Analysis](https://towardsdatascience.com/a-gentle-introduction-to-exploratory-data-analysis-f11d843b8184). 2019
 
-## Post [Discussion 1](/discussions/M1-1.qmd)
+## Reflect
 
-Address the following：
+For the past several weeks you've exposed to types of big data that may be useful for your project proposal that's due at the end of the semester. This week's readings introduce you to open data that may be available for your project. Through the readings, you may learn about new repositories or sources of data for your project, including those made available through formal research.
 
-1.  Describe at least two characteristics of big data and how they apply to data produced or used by your field of interest.
+This week you're also being exposed to a very important part of a data project - exploratory data analysis (EDA). The blog by Bourke (2019) describes the key steps in exploratory data analysis that you'll need to consider as you determine the focus and feasibility of your big data project. Although you won't be responsible for manipulating or analyzing data for your project, you do need to know where you'll get it (source), its type, structure, and features.
 
-2.  Describe ideas presented in two of this week's readings that you had not considered before.
+## Complete
 
-3.  What questions do you have about big data from the readings this week that I can address in my weekly announcement?
+This week you'll complete two tasks.
 
-Discussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings you describe using in text using APA style. Posts should range between 400-500 words.
+-   The first task is [Lab 2](/assignments/lab2.qmd). It's a continuation of Lab 1 and explores "feature selection" in the data project life cycle. It asks you to consider the quality and types of data that are used in research and measurement. **Lab 2 is due on Thursday, 9/28**.
 
-**Due by:** 8/27 11:59 pm EST
+-   The second task is to [read the instructions for your big data project](/assignments/project_proposal.qmd) and begin compiling existing research on the topic you've chosen. Reading peer-reviewed articles in academic journals or think tank reports can help you identify big data sources and how they've been used to explore your topic. The data and methods sections of research articles/reports should detail the source, type, structure, and variables used in the study, which will give you insight into data that you can use for your research question. You should compile this research into [an annotated bibliography](https://research.library.gsu.edu/c.php?g=196713&p=1293495) that you'll use for the literature review in your big data project proposal.  The annotated bibliography should include 7 - 10 works on your research topic that you'll annotate and share with a peer discussion group. **This discussion post will be due on Sunday, 10/1.**

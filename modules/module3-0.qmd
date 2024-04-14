@@ -2,4 +2,14 @@
 title: Module 3 - Discovery & Insights
 ---
 
+## Introduction
 
+This model explores use cases of big data for insights and prediction. We'll spend the first week learning about open data and its value to the public, followed by two weeks learning about algorithms and machine learning.
+
+## Content
+
+| Section                           | Assignment              | Due Date |
+|-----------------------------------|-------------------------|----------|
+| 3.1 Open Data and Discovery       | Lab 2                   | 9/21     |
+| 3.2 Machine Learning & Prediction | Discussion Post         | 9/24     |
+| 3.2 Machine Learning & Prediction | Discussion Peer Reponse | 10/5     |

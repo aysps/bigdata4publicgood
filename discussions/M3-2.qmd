@@ -21,3 +21,5 @@ These [instructions for the proposal](https://gastate.view.usg.edu/content/enfor
 You will be assigned to small groups for this discussion post. Read two of your group member's annotated bibliographies and provide constructive comments on strengths and weaknesses. Please make sure that everyone in your group gets at least one set of comments.
 
 **Due by:** 10/5 at 11:59pm
+
+See here for [Rubrics](/resources/rubrics-discussion.qmd)

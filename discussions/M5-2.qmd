@@ -15,3 +15,5 @@ Address the following:
 Discussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings analyzed in your posts using in-text APA style. Posts should range between 400-500 words. 
 
 **Due by:** 11/16 11:59 pm EST
+
+See here for [Rubrics](/resources/rubrics-discussion.qmd)
