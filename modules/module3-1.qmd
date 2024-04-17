@@ -2,9 +2,9 @@
 title: "3.1 Open Data and Discovery"
 ---
 
-+----------------------------------------+
-| ### Insights Powered by Open Data      |
-+----------------------------------------+
++---------------------------------------+
+| ### Insights Powered by Open Data     |
++---------------------------------------+
 
 > Governments have been sharing data electronically for decades, but now the ease and opportunity for mining its value is greater for citizens and firms due to more computing power and applications. This module explores how governments and other organizations share their "open data" and what discoveries they can generate. It also explores an important step of the data science cycle, exploratory data analysis (EDA), which you'll apply to your big data project proposal.
 
@@ -14,7 +14,7 @@ title: "3.1 Open Data and Discovery"
 
 2.  NYC OpenData, [Project Gallery](https://opendata.cityofnewyork.us/projects/) (**\*\*View sample projects.\*\***)
 
-3.  S. Temiz, M. Holgersson, J. Björkdahl, M.W. Wallin. [Open data: Lost opportunity or unrealized potential?](https://www.sciencedirect.com/science/article/pii/S0166497222000827) Technovation, Volume 114, 2022.
+3.  S. Temiz, M. Holgersson, J. Björkdahl, M.W. Wallin.[Open data: Lost opportunity or unrealized potential?](https://www.sciencedirect.com/science/article/pii/S0166497222000827) Technovation, Volume 114, 2022.
 
 4.  Bourke, D. [A Gentle Introduction to Exploratory Data Analysis](https://towardsdatascience.com/a-gentle-introduction-to-exploratory-data-analysis-f11d843b8184). 2019
 
@@ -30,4 +30,6 @@ This week you'll complete two tasks.
 
 -   The first task is [Lab 2](/assignments/lab2.qmd). It's a continuation of Lab 1 and explores "feature selection" in the data project life cycle. It asks you to consider the quality and types of data that are used in research and measurement. **Lab 2 is due on Thursday, 9/28**.
 
--   The second task is to [read the instructions for your big data project](/assignments/project_proposal.qmd) and begin compiling existing research on the topic you've chosen. Reading peer-reviewed articles in academic journals or think tank reports can help you identify big data sources and how they've been used to explore your topic. The data and methods sections of research articles/reports should detail the source, type, structure, and variables used in the study, which will give you insight into data that you can use for your research question. You should compile this research into [an annotated bibliography](https://research.library.gsu.edu/c.php?g=196713&p=1293495) that you'll use for the literature review in your big data project proposal.  The annotated bibliography should include 7 - 10 works on your research topic that you'll annotate and share with a peer discussion group. **This discussion post will be due on Sunday, 10/1.**
+-   The second task is to [read the instructions for your big data project](/assignments/project_proposal.qmd) and begin compiling existing research on the topic you've chosen. Reading peer-reviewed articles in academic journals or think tank reports can help you identify big data sources and how they've been used to explore your topic. The data and methods sections of research articles/reports should detail the source, type, structure, and variables used in the study, which will give you insight into data that you can use for your research question. You should compile this research into [an annotated bibliography](https://research.library.gsu.edu/c.php?g=196713&p=1293495) that you'll use for the literature review in your big data project proposal. The annotated bibliography should include 7 - 10 works on your research topic that you'll annotate and share with a peer discussion group. **This discussion post will be due on Sunday, 10/1.**
+
+**Due by:** Lab 2 - 9/28 11:59 pm EST; Discussion Post 3.3 - 10/1 11:59 pm EST.
