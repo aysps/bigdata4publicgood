@@ -2,9 +2,15 @@
 title: "3.1 Open Data and Discovery"
 ---
 
+<<<<<<< Updated upstream
 +---------------------------------------+
 | ### Insights Powered by Open Data     |
 +---------------------------------------+
+=======
++-----------------------------------+
+| ### Insights Powered by Open Data |
++-----------------------------------+
+>>>>>>> Stashed changes
 
 > Governments have been sharing data electronically for decades, but now the ease and opportunity for mining its value is greater for citizens and firms due to more computing power and applications. This module explores how governments and other organizations share their "open data" and what discoveries they can generate. It also explores an important step of the data science cycle, exploratory data analysis (EDA), which you'll apply to your big data project proposal.
 

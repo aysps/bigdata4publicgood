@@ -2,9 +2,9 @@
 title: "2.2 Eyes in the Skies & Remote Sensing"
 ---
 
-+---------------------------------+
-| ### Eyes and Ears of Data       |
-+---------------------------------+
++---------------------------+
+| ### Eyes and Ears of Data |
++---------------------------+
 
 > Image and video data from satellites, drones, traffic lights, door bells, body cameras, and of course, your own phones are changing how we identify and respond to public problems. This week's module exposes you to the diversity of these data and some of their processing challenges.
 

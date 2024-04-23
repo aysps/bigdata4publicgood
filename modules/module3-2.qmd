@@ -1,34 +1,31 @@
 ---
-title: "3.2 Eyes in the Skies & Remote Sensing"
+title: "3.2 Machine Learning & Prediction"
 ---
 
++---------------------------------------+
+| ### Artificial Intelligence (AI)      |
++---------------------------------------+
 
-+:---------------------------:+
-| ### Data Skepticism         |
-+-----------------------------+
-
-> This week's readings discuss some challenges of big data and how they're used. They also discuss privacy concerns about use of our digital data and why you should care about it.
+> AI is leveraging new computing power to describe, predict, and prescribe insights from big data. This module explores the basics of machine learning, a function of AI, to expose you to its uses and potential for the public sector.
 
 ## Read
 
-1.  
+1.  Brown, S. [Machine Learning, Explained](https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained). MIT Sloan School of Management. 2021.
 
-2.  
+2.  Maini, V. [Machine Learning for Humans](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12). 2017. **\*Read Introduction\*\*** and dive deeper into types of ML per your interests.
 
-3.  
+3.  Office for Artificial Intelligence (UK.GOV), 2020. [A guide to using AI in the public sector](https://assets.publishing.service.gov.uk/media/60828077d3bf7f013e451bc8/A_guide_to_using_AI_in_the_public_sector__Print_version_.pdf). **\*Read p. 1-20. Pay attention to the examples of uses for ML and consider how your big data project fits with the method(s).\***
 
-4.  
+## Respond
 
-## Post [Discussion 1](/discussions/M1-1.qmd)
+You posted an annotated bibliography for your big data project that summarizes 7-10 articles/reports related to your research topic. This exercise prepares you for the literature review section of your proposal and exposes you to data and methods used by other researchers to answer your research question (or a related one.)
 
-Address the following：
+This week you are assigned to small groups to offer feedback on your peers' questions and progress on their big data proposals. Read two of your group members' annotated bibliographies and provide constructive comments on strengths and weaknesses. Please make sure that everyone in your group gets at least one set of comments.
 
-1.  Describe at least two characteristics of big data and how they apply to data produced or used by your field of interest.
+**Due by:** 10/5 at 11:59pm EST
 
-2.  Describe ideas presented in two of this week's readings that you had not considered before.
+## Complete
 
-3.  What questions do you have about big data from the readings this week that I can address in my weekly announcement?
+[Lab 3](/assignments/lab1.qmd) unpacks an essential process of machine learning called feature engineering. Sometimes data as "features" nicely fit the construct that needs to be measured (e.g., height as measured in inches or cm). Other times, the data must be converted to a form that can be useful for prediction. For example, when you're trying to use digital data to predict images that contain cats, the machine needs to know what features to look for to distinguish a cat from a dog. This lab pulls back the curtain on how these processes are engineered with digital data to give you insights into how machines "learn" to predict X. The lab is largely instructional; however, as you learn about these processes, consider how they influence the output of machine learning and how they can introduce errors.
 
-Discussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings you describe using in text using APA style. Posts should range between 400-500 words.
-
-**Due by:** 8/27 11:59 pm EST
+**Due by:** 10/8 at 11:59pm EST
