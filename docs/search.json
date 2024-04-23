@@ -48,7 +48,10 @@
     "href": "assignments/lab3.html",
     "title": "Lab 3",
     "section": "",
-    "text": "Add Lab 3 assignments here."
+    "text": "Add Lab 3 assignments here.",
+    "crumbs": [
+      "Lab 3"
+    ]
   },
   {
     "objectID": "assignments/lab4.html",
@@ -1827,7 +1830,7 @@
     "href": "modules/module3-1.html#read",
     "title": "3.1 Open Data and Discovery",
     "section": "Read",
-    "text": "Read\n\nOpen Knowledge Network, The Open Data Handbook, n.d., (**Read the first three sections, Introduction through What is Open Data?**)\nNYC OpenData, Project Gallery (**View sample projects.**)\nS. Temiz, M. Holgersson, J. Björkdahl, M.W. Wallin. Open data: Lost opportunity or unrealized potential? Technovation, Volume 114, 2022.\nBourke, D. A Gentle Introduction to Exploratory Data Analysis. 2019",
+    "text": "Read\n\nOpen Knowledge Network, The Open Data Handbook, n.d., (**Read the first three sections, Introduction through What is Open Data?**)\nNYC OpenData, Project Gallery (**View sample projects.**)\nS. Temiz, M. Holgersson, J. Björkdahl, M.W. Wallin.Open data: Lost opportunity or unrealized potential? Technovation, Volume 114, 2022.\nBourke, D. A Gentle Introduction to Exploratory Data Analysis. 2019",
     "crumbs": [
       "Module 3 - Discovery & Insights",
       "3.1 Open Data and Discovery"
@@ -1955,7 +1958,7 @@
     "href": "modules/module3-0.html#content",
     "title": "Module 3 - Discovery & Insights",
     "section": "Content",
-    "text": "Content\n\n\n\n\n\n\n\n\nSection\nAssignment\nDue Date\n\n\n\n\n3.1 Open Data and Discovery\nLab 2\n9/21\n\n\n3.2 Machine Learning & Prediction\nDiscussion Post\n9/24\n\n\n3.2 Machine Learning & Prediction\nDiscussion Peer Reponse\n10/5",
+    "text": "Content\n\n\n\n\n\n\n\n\nSection\nAssignment\nDue Date\n\n\n\n\n3.1 Open Data and Discovery\nLab 2\n9/21\n\n\n3.2 Machine Learning & Prediction\nDiscussion Post\n9/24\n\n\n3.2 Machine Learning & Prediction\nDiscussion Peer Response\n10/5",
     "crumbs": [
       "Module 3 - Discovery & Insights"
     ]
@@ -1976,7 +1979,7 @@
     "href": "modules/module3-1.html#complete",
     "title": "3.1 Open Data and Discovery",
     "section": "Complete",
-    "text": "Complete\nThis week you’ll complete two tasks.\n\nThe first task is Lab 2. It’s a continuation of Lab 1 and explores “feature selection” in the data project life cycle. It asks you to consider the quality and types of data that are used in research and measurement. Lab 2 is due on Thursday, 9/28.\nThe second task is to read the instructions for your big data project and begin compiling existing research on the topic you’ve chosen. Reading peer-reviewed articles in academic journals or think tank reports can help you identify big data sources and how they’ve been used to explore your topic. The data and methods sections of research articles/reports should detail the source, type, structure, and variables used in the study, which will give you insight into data that you can use for your research question. You should compile this research into an annotated bibliography that you’ll use for the literature review in your big data project proposal.  The annotated bibliography should include 7 - 10 works on your research topic that you’ll annotate and share with a peer discussion group. This discussion post will be due on Sunday, 10/1.",
+    "text": "Complete\nThis week you’ll complete two tasks.\n\nThe first task is Lab 2. It’s a continuation of Lab 1 and explores “feature selection” in the data project life cycle. It asks you to consider the quality and types of data that are used in research and measurement. Lab 2 is due on Thursday, 9/28.\nThe second task is to read the instructions for your big data project and begin compiling existing research on the topic you’ve chosen. Reading peer-reviewed articles in academic journals or think tank reports can help you identify big data sources and how they’ve been used to explore your topic. The data and methods sections of research articles/reports should detail the source, type, structure, and variables used in the study, which will give you insight into data that you can use for your research question. You should compile this research into an annotated bibliography that you’ll use for the literature review in your big data project proposal. The annotated bibliography should include 7 - 10 works on your research topic that you’ll annotate and share with a peer discussion group. This discussion post will be due on Sunday, 10/1.\n\nDue by: Lab 2 - 9/28 11:59 pm EST; Discussion Post 3.3 - 10/1 11:59 pm EST.",
     "crumbs": [
       "Module 3 - Discovery & Insights",
       "3.1 Open Data and Discovery"
