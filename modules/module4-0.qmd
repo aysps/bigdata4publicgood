@@ -2,3 +2,15 @@
 title: Module 4 - Bias in Big Data
 ---
 
+## Introduction
+
+This module explores bias that results from poor data quality and algorithms using big data.
+
+## Content
+
+| Section              | Assignment          | Due Date |
+|----------------------|---------------------|----------|
+| 4.1 Data Quality     | Discussion Post     | 10/15    |
+| 4.2 Bias in Modeling | Discussion Post     | 10/22    |
+| 4.2 Bias in Modeling | Discussion Response | 10/26    |
+| 4.2 Bias in Modeling | Lab 4               | 11/2     |

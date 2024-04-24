@@ -80,7 +80,7 @@ website:
            contents: 
             - text: "3.1 Open Data and Discovery"
               file: modules/module3-1.qmd
-            - text: "3.2 Eyes in the Skies & Remote Sensing"
+            - text: "3.2 Machine Learning & Prediction"
               file: modules/module3-2.qmd
 
          - section: "Module 4 - Bias in Big Data"
