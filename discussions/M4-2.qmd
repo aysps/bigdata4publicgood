@@ -1,20 +1,8 @@
 ---
-title: "4.2 Bias in Modeling"
+title: "Discussion 6"
 ---
 
-+--------------------------------------+
-| ### Weapons of Math Destruction      |
-+--------------------------------------+
-
-> Algorithms are everywhere. Despite their power to automate, predict, and detect at non-human speed, they can have adverse effects on who goes to college, gets a job, goes to jail, gets credit, and engages in civic life. As you read this week, consider the ways that your life is affected and why.
-
-## Read
-
-1.  O'Neil, L. (2023, August 12). [These Women Warned Of AI’s Dangers And Risks Long Before ChatGPT](https://www.rollingstone.com/culture/culture-features/women-warnings-ai-danger-risk-before-chatgpt-1234804367/). *Rolling Stone*. \*\***Read the article and choose one of the featured women to further explore her work (as linked throughout the article).\*\***
-
-2.  Hendrycks, D. et al. 2023. An Overview of Catastrophic AI Risks. Center for AI Safety. \*\*You can also read an overview [here.](https://www.safe.ai/ai-risk)\*\*
-
-3.  Obermeyer et al. 2021. Algorithmic Bias Playbook. Chicago Booth School of Business.
+## M4.1 Bias in Modeling
 
 ## Post
 
@@ -36,8 +24,4 @@ This week you are assigned to small groups again to learn what content your peer
 
 **Due by:** 10/26 at 11:59pm EST
 
-## Complete
-
-The final lab of the semester explores bias in machine learning. Read the [Lab 4 instructions](/assignments/lab4.qmd) and answer all bolded questions in each section.
-
-**Due by**: 11/2 at 11:59pm EST
+See here for [Rubrics](/resources/rubrics-discussion.qmd)

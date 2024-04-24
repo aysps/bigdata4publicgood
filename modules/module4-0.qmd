@@ -1,5 +1,5 @@
 ---
-title: Module 4 - Bias in Big Data
+title: "Module 4 - Bias in Big Data"
 ---
 
 ## Introduction

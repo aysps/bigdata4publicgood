@@ -14,7 +14,7 @@ title: "3.1 Open Data and Discovery"
 
 2.  NYC OpenData, [Project Gallery](https://opendata.cityofnewyork.us/projects/) (**\*\*View sample projects.\*\***)
 
-3.  S. Temiz, M. Holgersson, J. Björkdahl, M.W. Wallin.[Open data: Lost opportunity or unrealized potential?](https://www.sciencedirect.com/science/article/pii/S0166497222000827) Technovation, Volume 114, 2022.
+3.  S. Temiz, M. Holgersson, J. Björkdahl, M.W. Wallin.[Open data: Lost opportunity or unrealized potential?](https://www.sciencedirect.com/science/article/pii/S0166497222000827) Technovation, Volume 114, 2022.
 
 4.  Bourke, D. [A Gentle Introduction to Exploratory Data Analysis](https://towardsdatascience.com/a-gentle-introduction-to-exploratory-data-analysis-f11d843b8184). 2019
 

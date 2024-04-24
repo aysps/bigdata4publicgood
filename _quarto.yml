@@ -119,8 +119,9 @@ website:
         - text: "Discussion 5"
           file: discussions/M4-1.qmd
         - text: "Discussion 6"
+          file: discussions/M4-2.qmd
+        - text: "Discussion 7"
           file: discussions/M5-2.qmd
-
 
      - title: "Rubrics"
        style: "docked"
