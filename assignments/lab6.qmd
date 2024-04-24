@@ -1,5 +1,0 @@
----
-title: Lab 6
----
-
-Add Lab 6 assignments here. 

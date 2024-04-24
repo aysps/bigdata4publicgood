@@ -13,3 +13,4 @@ This model explores use cases of big data for insights and prediction. We'll spe
 | 3.1 Open Data and Discovery       | Lab 2                   | 9/21     |
 | 3.2 Machine Learning & Prediction | Discussion Post         | 9/24     |
 | 3.2 Machine Learning & Prediction | Discussion Peer Response | 10/5     |
+| 3.2 Machine Learning & Prediction | Lab 3 | 10/8     |

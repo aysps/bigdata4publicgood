@@ -1,5 +1,83 @@
 ---
-title: Lab 4
+title: Lab 4 Bia in Modeling
 ---
 
-Add Lab 4 assignments here. 
+The final lab of the semester dives deeper into bias in machine learning. It has four parts with **bolded questions** for you to answer in each part. It begins with an activity asking you to crop a series of photos.
+
+**Part I**
+
+* You are uploading photos to a social media site and need to crop them so the posts will upload quickly.
+
+* The three images below need cropping to **2”x 2”**.
+
+* Crop images the images by 1) clicking on the photo; 2) select the “picture format” tab; and 3) select “crop” and move the borders of the photo to include the part of the image that you want to upload to your social media account. (**DO NOT SHRINK** the size of the image on the page before cropping.)
+
+* After cropping, answer these questions for each photo:
+
+  + **How did you decide what to keep in the cropped image? Why?**
+
+  + When we crop something out of a picture, it never gets seen by your audience. Look back at the photos you cropped. **What or who got left out?**
+
+![](/pictures/pic_lab4_1.jpg){width="80%" fig-align="center"}
+
+![](/pictures/pic_lab4_2.jpg){width="80%" fig-align="center"}
+
+![](/pictures/pic_lab4_3.jpg){width="80%" fig-align="center"}
+
+Now imagine we recorded how everyone in the class cropped the images above. We could use that information to train a model to crop other photos being uploaded to the social media site.
+
+* **How might the cropping data from our classroom be biased?**
+
+* **What are some ways we could address the biases in our data?**
+
+**Part 2**
+
+It turns out that the issue of how to crop an image is something social media platforms have been working on for some time. A well document attempt was when Twitter used machine learning to train an algorithm to do this cropping. Watch the video [“Are We Automating Racism?”](https://www.youtube.com/watch?v=Ok5sKLXqynQ) (23 minutes) and answer the following questions:
+
+* **How was the Twitter cropping algorithm trained?**
+
+* **According to the video, where is a potential source of bias when training similar cropping algorithms?**
+
+**Part 3**
+
+It didn’t take long for users of Twitter’s autocropping feature to notice that it was biasing White faces over Black ones and gender-based biases. Read this study from Twitter researchers investigating the claims:
+
+Kyra Yee, Uthaipon Tantipongpipat, and Shubhanshu Mishra. 2021. [Image Cropping on Twitter: Fairness Metrics, their Limitations, and the Importance of Representation, Design, and Agency](https://arxiv.org/pdf/2105.08667.pdf).
+
+Briefly describe the results of the first two research questions:
+
+* **To what extent, if any, did Twitter’s image cropping have disparate impact (i.e. systematically favor cropping) people on racial or gendered lines?**
+
+* **What were some of the factors that caused systematic disparate impact of the Twitter image cropping model?**
+
+Lastly,
+
+* **If you were the CEO of Twitter and found evidence of this bias in your cropping algorithm, how would you respond? What steps would you take and why?**
+
+As a review, it’s important to understand the types bias that can result from machine learning (and many other data-driven functions). This explanation comes from How Artificial Intelligence Can Support Healthcare, University of Groningen (n.d).
+
+First, bias is a phenomenon that occurs when the machine learning model systemically produces prejudiced results. It can be caused by bad quality or wrong example data, which is called **representational bias**, or due to choices made in algorithm development, called **procedural bias**. Both of these sources of bias could result in incorrect predictions by the AI model, which in turn can lead to dangerous situations, such as patients receiving the wrong treatment.
+
+**Representational bias**
+
+In machine learning, the general rule is: “Garbage In, Garbage Out”. This means that if your machine is trained on wrong data, the model will not be able to produce accurate results. For this reason, it’s extremely important to consider whether your data contains any possible biases. A few of the most common biases will be discussed, along with solutions to prevent them from occurring.
+
+*Historical bias*. This type of bias is a consequence of existing biases in society and is therefore also known as cultural bias. The data is filled with stereotypes that exist in real life. For example, Google Translate learns from existing translations from the web. However, these translations were often very biased with regard to gender. For example, “doctor” would usually be assumed male, whereas “nurse” would be assumed female. This type of bias can be prevented by examining the data first and looking for existing prejudices. If they exist, more examples could be required to reflect society more accurately. Another solution by Google for this situation was to return both a masculine and feminine translation.
+
+*Sample bias.* This occurs when the collected data is unbalanced and does not accurately represent the population the machine is supposed to be used for. When a machine learning model is supposed to recognize both benign and malignant nodules in a thoracic X-ray, it’s not sufficient to only train it with X-rays containing benign nodules. A solution is to examine the data for an even distribution of the cases among features and checking if your dataset works well on an evenly distributed test set. More training examples could be required if this is not the case. This can also be done artificially with the use of data augmentation. Data augmentation consists of techniques that help to increase your dataset synthetically by adding slightly modified copies of the existing examples in your dataset.
+
+*Exclusion bias*. This happens when the developer of the algorithm decides to remove features or particular instances from the dataset because they believe them to be irrelevant for the problem at hand, even though they were of value. For example, a developer might believe that a feature addressing the patient’s blood pressure is irrelevant for predicting the likelihood that the patient will develop Alzheimer’s disease. However, this actually is a good indicator, especially in combination with other factors such as cholesterol levels. Prematurely removing such valuable information can be prevented by performing a proper investigation of the features and data points and their relation to the prediction that will be made beforehand, and asking someone else to take a look at the use of the features and data points before removing them.
+
+*Measurement bias*. This happens when the values of particular features are poorly measured. For example, measuring instruments might be faulty, which might result in skewed data. Solutions include calibrating the instruments before use and using multiple measuring devices.
+
+*Labeling bias*. This type of bias happens when the annotator does not label the data accurately due to subjective perceptions. For example, one might want to detect lung nodules in CT scans. Whereas one radiologist might classify a particular growth shown in these scans as a nodule, another might not classify it as such due to a different conception of the requirements of such a nodule (such as the minimum diameter). Common methodologies to solve this problem are the use of labeling guidelines and/or having multiple experts provide the labels and to have them reach a consensus when they have different opinions. When a large number of experts is available, a majority vote for the right label could also be used.
+
+**Procedural Bias**
+
+The choices the developer makes during the process of algorithm development are also able to affect the output significantly.
+
+*Confirmation bias*. Developers tend to choose particular models and hyperparameters that align more closely with their preconceived beliefs or hypotheses, even though it might not be the more representative model. An example of this is when a developer previously witnessed that a decision tree was able to predict very well whether or not a doctor should apply antibiotics in case of a fever. Therefore, he decides to use such a decision tree for all the problems he must create solutions for afterwards. He does this without even considering other algorithms, which might be better suited for the data or problem at hand. This confirmation bias can be prevented by involving independent critics, or by allowing for a direct comparison of models by making the used database open source.
+
+*Association bias*. This occurs when a machine learning model is built to amplify an existing bias. A well-known example is PredPol’s drug crime prediction algorithm. This algorithm was trained on data biased by housing segregation and police bias. Because of that, it would send police more frequently to a neighborhood where a lot of minorities live, resulting in more drug arrests there. That arrest data was fed back into the algorithm, which again trained on these new examples, resulting in a positive feedback loop. Preventing this can be done by monitoring how the data is processed closely.
+
+These examples cover only a small part of the full range of possible biases in machine learning. For this reason, you should always be critical about both your data and the algorithm development when implementing artificial intelligence. Several methodologies have been developed over the past years to help to critically assess the dataset used ([Datasheets for Datasets](https://cacm.acm.org/magazines/2021/12/256932-datasheets-for-datasets/abstract)) and to provide proper information to allow assessments of models by clinical end users ([Model Cards](https://arxiv.org/abs/1810.03993)). Both inject more transparency into the algorithm development process and could improve bias in machine learning and AI broadly if adopted voluntarily by organizations or required by governments.

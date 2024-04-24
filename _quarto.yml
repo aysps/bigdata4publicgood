@@ -140,9 +140,7 @@ website:
          - assignments/lab2.qmd
          - assignments/lab3.qmd
          - assignments/lab4.qmd
-         - assignments/lab5.qmd
-         - assignments/lab6.qmd
-        
+
 format:
   html:
     theme: minty

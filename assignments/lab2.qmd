@@ -1,5 +1,5 @@
 ---
-title: Lab 2
+title: Lab 2 Open Data and Discovery
 ---
 
 **Instructions**

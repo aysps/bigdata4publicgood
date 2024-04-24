@@ -18,6 +18,8 @@ title: "4.2 Bias in Modeling"
 
 ## Post
 
+Address the following in [Discussion 6](/discussions/M4-2.qmd)：
+
 O'Neil's article (2023) reports on the voices of five women from tech fields who have been exposing problems with bias and discrimination in algorithms for years. Hendrycks and colleagues (2023) released a report earlier this month warning that AI poses  catastrophic risks to humanity.  Answer the following:
 
 -   After reading the O'Neil article, explore further the work of either Buolamwini, Chowdhury, Gangadharan, Gebru, or Noble. Describe the site/content you reviewed, why you chose it, and what you learned.
