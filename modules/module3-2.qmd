@@ -2,9 +2,9 @@
 title: "3.2 Machine Learning & Prediction"
 ---
 
-+---------------------------------------+
-| ### Artificial Intelligence (AI)      |
-+---------------------------------------+
++:------------------------------------:+
+| ### Artificial Intelligence (AI)     |
++--------------------------------------+
 
 > AI is leveraging new computing power to describe, predict, and prescribe insights from big data. This module explores the basics of machine learning, a function of AI, to expose you to its uses and potential for the public sector.
 

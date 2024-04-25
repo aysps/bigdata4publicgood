@@ -2,9 +2,9 @@
 title: "Course Completion Checklist"
 ---
 
-+------------------------------------+
-| ### Great Job this Semester        |
-+------------------------------------+
++:---------------------------------:+
+| ### Great Job this Semester       |
++-----------------------------------+
 
 > I've enjoyed getting to know you this semester and encourage you to stay in touch as you finish your graduate degrees. Feel free to contact me about topics in this course or if you just want to talk about your career.
 
@@ -33,6 +33,7 @@ At the beginning of the semester you submitted a plan to complete five workshops
     -   Sample 1
 
     -   Sample 2
+
 -   As you complete your proposal, use Grammarly to check for poor writing, spelling, and plagiarism.
 
 -   Submit the proposal to the [Big Data Project Proposal](/assignments/project_proposal.qmd) assignment folder by **12/10 11:59pm**. \*\*This is a slightly later date than the syllabus.\*\*

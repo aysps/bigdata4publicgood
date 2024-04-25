@@ -2,9 +2,9 @@
 title: "5.1 Data Privacy"
 ---
 
-+:---------------------------:+
-| ### The Privacy Paradox     |
-+-----------------------------+
++:-----------------------:+
+| ### The Privacy Paradox |
++-------------------------+
 
 > Although a majority of people claim that privacy is important to them, few take steps to protect it online or through devices that sense location, voice, images, and other identifiable features. This module explores the reasons for this paradox and what actions policy-makers (and you) can take to protect the big data that you generate.
 
@@ -22,16 +22,22 @@ title: "5.1 Data Privacy"
 
 4.  Congressional Research Service, "[Overview of the American Data Privacy and Protection Act (ADPPA), H.R. 8152](https://crsreports.congress.gov/product/pdf/LSB/LSB10776)," 2022.
 
-## Post 
+## Post
 
 Address the following in the [5.1 Data Privacy](/discussions/M5-1.qmd) discussion board:
 
-1.  Describe at least two characteristics of big data and how they apply to data produced or used by your field of interest.
+-   one statistic from the Pew survey that you feel is most urgent to address by policy-makers. Why?
 
-2.  Describe ideas presented in two of this week's readings that you had not considered before.
+-   Describe which Privacy Paradox Challenge that you chose, what information surprised you from the podcast, and what you learned from completing the challenge at the end.
 
-3.  What questions do you have about big data from the readings this week that I can address in my weekly announcement?
+-   The *proposed* American Data Privacy and Protection Act (ADPPA) from 2022 is the most recent action that Congress has taken to protect your data privacy. Describe one of the facets of the bill that you think will address the statistic you cited from the Pew survey and how it will work. Also discuss how it may fall short.
 
-Discussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings you describe using in text using APA style. Posts should range between 400-500 words.
+Discussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings analyzed in your posts using in-text APA style. Posts should range between 400-500 words.
 
-**Due by:** 8/27 11:59 pm EST
+**Due by:** 11/5 11:59 pm EST
+
+## Respond
+
+This week you are assigned to small groups for the last time this semester to learn what content your peers explored and their thoughts on data privacy. Read two of your group members' posts and describe how your viewpoints converge and diverge. Please make sure that everyone in your group gets at least one set of comments.
+
+**Due by:** 11/9 at 11:59 pm EST

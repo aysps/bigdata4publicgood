@@ -1,10 +1,10 @@
 ---
-title: "Discussion 7"
+title: "Discussion 8"
 ---
 
 ## M5.2 Data Stewardship
 
-**Post**
+## Post
 
 Address the following:
 

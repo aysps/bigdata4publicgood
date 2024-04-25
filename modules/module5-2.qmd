@@ -1,35 +1,27 @@
 ---
-title: Module 5 - Data Privacy & Stewardship
+title: "5.2 Data Stewardship"
 ---
 
++:------------------------------:+
+| ### Safety First               |
++--------------------------------+
 
-
-+:---------------------------:+
-| ### Data Skepticism         |
-+-----------------------------+
-
-> This week's readings discuss some challenges of big data and how they're used. They also discuss privacy concerns about use of our digital data and why you should care about it.
+> As you learned in the data privacy submodule, the United States' data security laws are evolving and have gaps to address. This module explores how the European Union regulates data privacy and prescribes practices for responsible stewardship of data that is collected and processed by entities within its jurisdiction.
 
 ## Read
 
-1.  
+1.  Wolford, B. (n.d.) [What is GDPR, the EU's new data protection law?](https://gdpr.eu/what-is-gdpr/)
 
-2.  
+2.  Klosowski, T. [The State of Consumer Data Privacy Laws in the US (And Why It Matters)](https://www.nytimes.com/wirecutter/blog/state-of-privacy-laws-in-us/), 2021
 
-3.  
+## Post
 
-4.  
+Address the following:
 
-## Post [Discussion 1](/discussions/M1-1.qmd)
+1.  Describe two differences between US and EU data privacy laws. What are the implications of these differences for safeguarding your personal information?
 
-Address the following：
+2.  As we've learned this semester, your personal data can be used by different entities for economic gain as well as improvements to how we live, work, and play. If you could choose how your data are used, what would you permit versus prohibit and why?
 
-1.  Describe at least two characteristics of big data and how they apply to data produced or used by your field of interest.
+Discussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings analyzed in your posts using in-text APA style. Posts should range between 400-500 words.
 
-2.  Describe ideas presented in two of this week's readings that you had not considered before.
-
-3.  What questions do you have about big data from the readings this week that I can address in my weekly announcement?
-
-Discussion posts are the primary assessment of your understanding and critical assessment of readings. You must reference the readings you describe using in text using APA style. Posts should range between 400-500 words.
-
-**Due by:** 8/27 11:59 pm EST
+**Due by:** 11/16 11:59 pm EST

@@ -2,9 +2,9 @@
 title: "4.1 Data Quality"
 ---
 
-+------------------------------------+
-| ### Garbage In, Garbage Out        |
-+------------------------------------+
++:---------------------------------:+
+| ### Garbage In, Garbage Out       |
++-----------------------------------+
 
 > Data quality is the foundation of good data analysis. This week we'll explore how big data presents challenges to assuring quality data and what the consequences of poor data quality can be.
 

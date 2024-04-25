@@ -2,9 +2,9 @@
 title: "4.2 Bias in Modeling"
 ---
 
-+--------------------------------------+
-| ### Weapons of Math Destruction      |
-+--------------------------------------+
++:-----------------------------------:+
+| ### Weapons of Math Destruction     |
++-------------------------------------+
 
 > Algorithms are everywhere. Despite their power to automate, predict, and detect at non-human speed, they can have adverse effects on who goes to college, gets a job, goes to jail, gets credit, and engages in civic life. As you read this week, consider the ways that your life is affected and why.
 
