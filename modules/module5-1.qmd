@@ -1,28 +1,30 @@
 ---
-title: Module 5 - Data Privacy & Stewardship
+title: "5.1 Data Privacy"
 ---
 
-
-
 +:---------------------------:+
-| ### Data Skepticism         |
+| ### The Privacy Paradox     |
 +-----------------------------+
 
-> This week's readings discuss some challenges of big data and how they're used. They also discuss privacy concerns about use of our digital data and why you should care about it.
+> Although a majority of people claim that privacy is important to them, few take steps to protect it online or through devices that sense location, voice, images, and other identifiable features. This module explores the reasons for this paradox and what actions policy-makers (and you) can take to protect the big data that you generate.
 
-## Read
+## Read and Listen
 
-1.  
+1.  Hot off the press this month from the Pew Research Center. . .
 
-2.  
+    1.  First, [take this quiz to test your knowledge of digital topics](https://www.pewresearch.org/internet/quiz/digital-knowledge-quiz-2023/) relative to a nationally representative survey of 5,101 randomly selected U.S. adults in May 2023.
 
-3.  
+    2.  Next, read the report titled "How Americans View Data Privacy" by Colleen McClain, Michelle Faverio, Monica Anderson and Eugenie Parkand (October 2023). \*\***Read** **p. 1-12 and take a deeper dive into a set of responses that interest you.\*\***
 
-4.  
+2.  WNYC Note to Self, [Privacy Paradox](https://project.wnyc.org/privacy-paradox/), 2017. Listen to **at least one of the Day 1-5 Challenges AND complete the challenge it poses at the end**. All five are interesting and worth your time. [See this list of the actions](https://www.wnyc.org/story/privacy-paradox-tip-sheet/) discussed in the podcasts that you can take to protect your data privacy.
 
-## Post [Discussion 1](/discussions/M1-1.qmd)
+3.  Ted Radio Hour, [Edward Snowden: Why does online privacy matter?](https://www.npr.org/transcripts/818341273), 2020. 
 
-Address the following：
+4.  Congressional Research Service, "[Overview of the American Data Privacy and Protection Act (ADPPA), H.R. 8152](https://crsreports.congress.gov/product/pdf/LSB/LSB10776)," 2022.
+
+## Post 
+
+Address the following in the [5.1 Data Privacy](/discussions/M5-1.qmd) discussion board:
 
 1.  Describe at least two characteristics of big data and how they apply to data produced or used by your field of interest.
 

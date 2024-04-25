@@ -1,5 +1,15 @@
 ---
-title: Module 5 - Data Privacy & Stewardship
+title: "Module 5 - Data Privacy & Stewardship"
 ---
 
+## Introduction
 
+Your personal data is everywhere and is being used by private and public entities for purposes you may not like. This module explores issues of data privacy and what options we have for protecting it. It also describes the responsibility that public entities have to collect, manage, and secure it. 
+
+## Content
+
+| Section              | Assignment          | Due Date |
+|----------------------|---------------------|----------|
+| 5.1 Data Privacy     | Discussion Post     | 11/5    |
+| 5.1 Data Privacy     |  Discussion Peer Response    | 11/9    |
+| 5.2 Data Stewardship | Discussion Post     | 11/16    |

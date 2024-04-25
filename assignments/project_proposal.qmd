@@ -2,4 +2,63 @@
 title: Big Data Project Proposal
 ---
 
-Add assignment content here. 
+At this point in your graduate studies, you’ve read multiple research papers and hopefully recognized a pattern of how they’re written. Although order can vary, most social science disciplines include these sections: Introduction, Purpose, Literature Review, Methods, Findings, Discussion, Limitations. The organization of a project proposal is very similar, except it stops after the Methods section.
+
+## Requirements
+
+For this assignment, you’ll write a proposal in **no less than five pages** (1.15” line spacing, 1” margins) and describe how you could conduct a big data project on your topic of interest. Your proposals should include the following sections:
+
+### I. Introduction
+
+Treat the introduction as the initial pitch of your idea or a summary of the significance of a research problem. After reading the introduction, I should have an understanding of what you want to do and a sense of why it’s worth doing.
+
+Think about your introduction as a narrative written in **two to four paragraphs** that succinctly answers the following four questions:
+
+- What is the central research problem?
+
+- What is the topic of study related to that research problem?
+
+- What methods should be used to analyze the research problem?
+
+- Where does this project fit in the research that’s already been done? What’s its contribution?
+
+### II. Purpose
+
+This section explains the context of your proposal and describe in detail why it's important. While there are no prescribed rules, you should:
+
+- Provide a more detailed explanation about the purpose of the study than what you stated in the introduction. This is particularly important if the problem is complex or multifaceted.
+
+- Describe the major issues or problems to be addressed by your research. This can be in the form of questions to be addressed or hypotheses.
+
+- End this section with a short paragraph that describes the organization of the remainder your proposal.
+
+### III. Literature Review
+
+Connected to the purpose of your study is a deliberate review and synthesis of prior studies related to your research question. The purpose is to place your project within the larger context of what’s already been done on the topic, while demonstrating that your work is original and innovative. Describe what questions other researchers have asked, what methods they have used, and your understanding of their findings. **This section should be no less than one - two pages.**
+
+Since a literature review is information dense, it is crucial that this section is well-structured to enable a reader to grasp the key arguments underpinning your proposed study in relation to that of other researchers. You can organize it historically, by methodology, by themes within the subject, etc. You must synthesize the research, discuss what gaps remain, and state how your research fills the gap.
+
+### IV. Research Design and Methods
+
+The objective of this section is to convince the reader that your overall research design and proposed methods of analysis will correctly address the problem and that the methods will effectively interpret the potential results.
+
+Describe the overall research design by building upon and drawing examples from your review of the literature. Consider not only methods that other researchers have used but methods of data gathering that have not been used but could be. Be specific about the methodological approaches you plan to undertake to obtain information, the techniques you will use to analyze the data, and the assessments of external validity that apply.
+
+When describing the methods, include the following:
+
+- Describe the data source(s) you will use. Who/what generates the data? What time frames will you use? What’s the unit of analysis (e.g., individuals, events, etc.)
+
+- Describe how you plan to obtain the data, or how you got it if you already have it. Describe the tools you need to use to get the data (if not downloading it in a structured form.)
+
+- Give a summary of the cleaning/joining of data that you expect to do before you begin your analysis and any tools/applications you need to do it.
+
+- Describe the phases of the project that involve analysis. These will include exploratory data analysis and visualization. Some projects may stop here. Others will move further into the data science cycle and require an explanation of modeling using causal inference, machine learning, etc.
+- Describe the data products of your project, which may include results of statistical tests, performance analyses of learning algorithms, visualizations of the data or model parameters.
+
+### V. Challenges/Limitations
+
+Anticipate and acknowledge any potential barriers and pitfalls in carrying out your research design and explain if you can address them. No method is perfect so you need to describe where you believe challenges may exist in obtaining data or accessing information.
+
+### VI. Citations
+
+As with any scholarly research paper, you must cite the sources you used. List only the literature that you actually used or cited in your proposal. **This section does not count toward the five page minimum.**

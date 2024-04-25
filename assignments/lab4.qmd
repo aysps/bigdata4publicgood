@@ -1,5 +1,5 @@
 ---
-title: Lab 4 Bia in Modeling
+title: Lab 4 Bias in Modeling
 ---
 
 The final lab of the semester dives deeper into bias in machine learning. It has four parts with **bolded questions** for you to answer in each part. It begins with an activity asking you to crop a series of photos.
